@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="300">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01160458</url>
+  </required_header>
+  <id_info>
+    <org_study_id>100146</org_study_id>
+    <secondary_id>10-C-0146</secondary_id>
+    <nct_id>NCT01160458</nct_id>
+  </id_info>
+  <brief_title>Phase II Study of IMC-A12 in Patients With Mesothelioma Who Have Been Previously Treated With Chemotherapy</brief_title>
+  <official_title>Phase II Study of IMC-A12 in Patients With Mesothelioma Who Have Been Previously Treated With Chemotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:
+
+      Background:
+
+      - IMC-A12, a new cancer treatment that has not yet been approved by the U.S. Food and Drug
+      Administration, is an antibody that is designed to block the effects of a protein called
+      Type I Insulin-Like Growth Factor (IGF-1R). IMC-A12 blocks the receptors in cells that
+      respond to IGF-1R, which are thought to play an important role in helping cancer cells to
+      grow and divide. Researchers are interested in determining whether IMC-A12 is an effective
+      treatment for individuals who have mesothelioma that has not responded to standard
+      chemotherapy.
+
+      Objectives:
+
+      - To evaluate the safety and effectiveness of IMC-A12 treatment in individuals with
+      mesothelioma who have previously had chemotherapy.
+
+      Eligibility:
+
+      - Individuals at least 18 years of age who have been diagnosed with mesothelioma that has
+      not responded to chemotherapy.
+
+      Design:
+
+        -  Eligible participants will be screened with a full physical examination and medical
+           history, blood and urine samples, and imaging studies.
+
+        -  Participants will receive IMC-A12 once every 3 weeks (21-day cycle), and will be
+           evaluated before the start of each new cycle with blood tests and imaging studies if
+           needed.
+
+        -  Treatment cycles will continue for as long as needed, unless severe side effects
+           develop or the disease progresses.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:
+
+      Platinum-based chemotherapy is the standard of care for advanced unresectable malignant
+      mesothelioma. New options for treatment are necessary in patients with advanced disease that
+      have progressed on platinum-based therapy. The insulin-like growth factor (IGF) pathway is
+      being studies in various malignancies including mesothelioma. IMC-A12 is an anti-IGF-1R
+      monoclonal antibody that has shown activity in patients with various malignancies.
+
+      Objectives:
+
+      Primary Objective:
+
+      - To determine the clinical response rate (partial response (PR)+complete response (CR)) to
+      IMC-A12 monotherapy in patients with advanced mesothelioma.
+
+      Secondary Objectives:
+
+        -  To determine response duration, progression free survival (PFS) and overall survival
+           (OS).
+
+        -  To assess safety of IMC-A12 in patients with mesothelioma
+
+      Exploratory Objectives:
+
+        -  To evaluate tumor IGF-1R expression and correlation with response
+
+        -  To correlate response to therapy with changes in  fludeoxyglucose 18F-positron emission
+           tomography (FDG-PET) imaging.
+
+        -  To monitor serum mesothelin and  cancer antigen 125 or carbohydrate antigen 125
+           (CA-125) levels prior to and during therapy.
+
+      Eligibility:
+
+        -  Patients with histologically confirmed malignant pleural or peritoneal mesothelioma who
+           have previously been treated on at least one platinum-containing chemotherapy regimen
+           with progressive disease documented prior to study entry, or have refused cytotoxic
+           chemotherapy.
+
+        -  Measurable disease by modified Response Evaluation Criteria in Solid Tumors (RECIST)
+           criteria for pleural mesothelioma or by RECIST criteria for peritoneal mesothelioma.
+
+        -  Adequate renal, hepatic and hematopoietic function.
+
+        -  No major surgery, radiotherapy, chemotherapy or biologic therapy within 28 days of
+           IMC-A12 therapy
+
+      Design:
+
+        -  Patients will receive IMC-A12 at a dose of 20 mg/kg intravenously once every three
+           weeks.
+
+        -  Treatment with IMC-A12 alone will continue until disease progression.
+
+        -  Toxicity will be assessed every cycle by the Cancer Therapy Evaluation Program (CTEP)
+           Version 4.0 of Common Terminology Criteria for Adverse Events (CTCAE).
+
+        -  Tumor response assessments will be performed every 2 cycles.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>June 2010</start_date>
+  <completion_date type="Anticipated">June 2015</completion_date>
+  <primary_completion_date type="Actual">April 2012</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Clinical Response Rate (PR+CR)</measure>
+    <time_frame>36 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Clinical response is assessed by the Response Evaluation Criteria in Solid Tumors (RECIST). Complete response is complete disappearance of all target lesions. Partial response is at least a 30% decrease in the sum of the longest diameter (LD) of target lesions, taking as reference the baseline sum LD.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety of IMC-A12 in Patients With Mesothelioma</measure>
+    <time_frame>36 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Here is the number of participants with adverse events. For a detailed list of adverse events, see the adverse event module.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">20</enrollment>
+  <condition>Pleural Mesothelioma</condition>
+  <condition>Peritoneal Mesothelioma</condition>
+  <arm_group>
+    <arm_group_label>IMC-A12 Monotherapy in Patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 mg/kg intravenous over 60 minutes or not to exceed 25 mg/minute once every 3 weeks (+ or -1 day cycle 3 and beyond)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IMC-A12</intervention_name>
+    <description>20 mg/kg intravenous over 60 minutes or not to exceed 25 mg/minute once every 3 weeks (+ or -1 day cycle 3 and beyond)</description>
+    <arm_group_label>IMC-A12 Monotherapy in Patients</arm_group_label>
+    <other_name>A12 Cixutumumab</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -INCLUSION CRITERIA:
+
+          1. Subjects must have histologically confirmed pleural or peritoneal mesothelioma not
+             amenable to potentially curative surgical resection. The diagnosis will be confirmed
+             by the pathology department / Center for Cancer Research (CCR) / National Cancer
+             Institute (NCI).
+
+          2. Patients must have had at least one prior platinum-containing chemotherapy regimen.
+             There is no limit to the number of prior chemotherapy regimens received.
+
+          3. Patients must have measurable disease, defined as at least one lesion that can be
+             accurately measured in at least one dimension (longest diameter to be recorded) as &gt;
+             20 mm with conventional techniques or as &gt; 10 mm with spiral computed tomography (CT)
+             scan.
+
+          4. Patients must not have had major surgery, radiation therapy, chemotherapy, biologic
+             therapy (including any investigational agents), or hormonal therapy (other than
+             replacement), within 4 weeks prior to entering the study and must have evidence of
+             stable or progressive disease to be eligible.
+
+          5. Age greater than or equal to 18 years. Since mesothelioma is extremely rare in
+             children they are excluded from this study.
+
+          6. Life expectancy of greater than 3 months.
+
+          7. Performance status Eastern Cooperative Oncology Group (ECOG) less than or equal to 2.
+
+          8. Patients must have adequate organ and marrow function (as defined below).
+
+               -  leukocytes greater than or equal to 3,000/mm^3
+
+               -  absolute neutrophil count greater than or equal to 1,500/mm^3
+
+               -  hemoglobin greater than or equal to 9 g/dL
+
+               -  platelets greater than or equal to 100,000/ mm^3
+
+               -  total bilirubin less than or equal to 1.5 times institutional upper limit of
+                  normal (ULN)
+
+               -  Aspartate aminotransferase (AST) serum glutamic oxaloacetic transaminase
+                  (SGOT)/alanine aminotransferase (ALT) serum glutamic pyruvic transaminase(SGPT)
+                  less than or equal to 3 times institutional ULN
+
+                  (5 times if liver function test (LFT) elevations due to liver metastases)
+
+               -  creatinine less than or equal to 1.5 times institutional ULN
+
+             OR
+
+             - creatinine clearance greater than or equal to 60 mL/min/1.73 m^2 for patients with
+             creatinine
+
+             levels above institutional normal
+
+             Patients may be transfused to obtain a hemoglobin of greater than or equal to 9 g/Dl.
+
+          9. The patient must have fasting serum glucose &lt;  160 mg/dL
+
+         10. The effects of IMC-A12 on the developing human fetus are unknown. For this reason,
+             women of child-bearing potential and men must agree to use adequate contraception
+             (barrier method of birth control; abstinence) for the duration of study therapy and
+             for 3 months after the last dose of IMC-A12. Should a woman become pregnant or
+             suspect she is pregnant while participating in this study, she should inform her
+             treating physician immediately. While hormonal methods of birth control are
+             effective, we ask that female patients who are participating in the study cease
+             hormonal forms of birth control, as these methods of birth control (birth control
+             pills, injections, or implants) may affect the study drug. Patients must be off
+             hormonal forms of birth control for at least 4 weeks prior to initiating the study.
+
+         11. Ability to comply with intravenous administration schedule, and the ability to
+             understand and the willingness to sign a written informed consent document.
+
+        Inclusion of Women and Minorities
+
+        Both men and women and members of all races and ethnic groups are eligible for this trial.
+        Every effort will be made to recruit women and minorities in this study.
+
+        EXCLUSION CRITERIA:
+
+          1. Patients with symptomatic brain metastases should be excluded from this clinical
+             trial because of their poor prognosis and because they often develop progressive
+             neurologic dysfunction that would confound the evaluation of neurologic and other
+             adverse events. However, patients who have had treatment for their brain metastases
+             and whose brain metastatic disease status has remained stable for at least 3 months
+             without steroids may be enrolled at the discretion of the principal investigator.
+
+          2. Patients with poorly controlled diabetes mellitus. Patients with a history of
+             diabetes mellitus are allowed to participate, provided their blood glucose is below
+             160 mg/dL when fasting and if they are on a stable dietary or therapeutic regimen for
+             this condition with their HbA1C of less than 7%.
+
+          3. Uncontrolled medical illness including, but not limited to, ongoing or uncontrolled,
+             symptomatic congestive heart failure (American Heart Association (AHA) Class II or
+             worse), uncontrolled hypertension, unstable angina pectoris, cardiac arrhythmia, or
+             psychiatric illness/social situations that would limit compliance with study
+             requirements.
+
+          4. Human immunodeficiency virus (HIV) positive patients with poorly controlled viral
+             loads (viral load &gt;  50 copies HIV/ml), and/or acquired immune deficiency syndrome
+             (AIDS)-defining illnesses will be excluded due to the possibility that IMC-A12 may
+             worsen their condition and the likelihood that the underlying condition may obscure
+             the attribution of adverse events with respect to IMC-A12. HIV positive patients with
+             mesothelioma not meeting the above criteria can be considered for inclusion in the
+             study.
+
+          5. Patients may not be receiving any other investigational agents.
+
+          6. History of another invasive malignancy in the last five years. Adequately treated
+             non-invasive, non-melanoma skin cancers as well as in situ carcinoma of the cervix
+             will be allowed.
+
+          7. Prior treatment with drugs of the IGF-1R inhibitor class.
+
+          8. Patients with tumor amenable to potentially curative therapy as assessed by the
+             investigator. In patients with peritoneal mesothelioma who have had no prior surgery,
+             a surgical consultation will be obtained to see if the patient is a candidate for
+             debulking surgery.
+
+          9. Pregnant women are excluded from this study because IMC-A12 is a monoclonal antibody
+             to IGF-1R with the potential for teratogenic or abortifacient effects. Immunoglobulin
+             G (IgG) antibody may also potentially be secreted in milk and therefore breastfeeding
+             women should be excluded. Because of the potential of teratogenic or abortifacient
+             effects women of childbearing potential and men must agree to use adequate
+             contraception (barrier methods) before, during the study and for a period of 3 months
+             after the last dose of the investigational agent.
+
+         10. Patients must not be on hormonal forms of birth control or hormone replacement
+             therapy, as this may affect the study drug. Patients must be off hormonal forms of
+             birth control or hormone replacement therapy for at least 4 weeks prior to initiating
+             the study.
+
+         11. History of allergic reactions attributed to compounds of similar chemical or biologic
+             composition to IMC-A12.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Raffit Hassan, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute (NCI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2010-C-0146.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Bridda A, Padoan I, Mencarelli R, Frego M. Peritoneal mesothelioma: a review. MedGenMed. 2007 May 10;9(2):32. Review.</citation>
+    <PMID>17955087</PMID>
+  </reference>
+  <reference>
+    <citation>Vogelzang NJ, Rusthoven JJ, Symanowski J, Denham C, Kaukel E, Ruffie P, Gatzemeier U, Boyer M, Emri S, Manegold C, Niyikiza C, Paoletti P. Phase III study of pemetrexed in combination with cisplatin versus cisplatin alone in patients with malignant pleural mesothelioma. J Clin Oncol. 2003 Jul 15;21(14):2636-44.</citation>
+    <PMID>12860938</PMID>
+  </reference>
+  <reference>
+    <citation>O'Byrne KJ, Edwards JG, Waller DA. Clinico-pathological and biological prognostic factors in pleural malignant mesothelioma. Lung Cancer. 2004 Aug;45 Suppl 1:S45-8. Review.</citation>
+    <PMID>15261433</PMID>
+  </reference>
+  <verification_date>March 2015</verification_date>
+  <lastchanged_date>March 11, 2015</lastchanged_date>
+  <firstreceived_date>July 9, 2010</firstreceived_date>
+  <firstreceived_results_date>March 20, 2013</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Institutes of Health Clinical Center (CC)</investigator_affiliation>
+    <investigator_full_name>Raffit Hassan, M.D.</investigator_full_name>
+    <investigator_title>Dr. Raffit Hassan</investigator_title>
+  </responsible_party>
+  <keyword>Monoclonal Antibody</keyword>
+  <keyword>Pleural Mesothelioma</keyword>
+  <keyword>Peritoneal Mesothelioma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="482">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01290536</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UCSF-SIRT-Metastases</org_study_id>
+    <nct_id>NCT01290536</nct_id>
+  </id_info>
+  <brief_title>Yttrium-90 Radioembolization Using Glass Microspheres (TheraSphere) for Patients With Liver Metastases</brief_title>
+  <official_title>Safety Profile Assessment of TheraSphere® Yttrium-90 Glass Microspheres Used for Treatment of Metastatic Liver Disease From Primary Colorectal, Neuroendocrine, Cholangiocarcinoma, Melanoma, and Breast Cancers Refractory to Chemotherapy: A Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nicholas Fidelman</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective pilot study designed to document safety and efficacy of liver-directed
+      therapy for colorectal, neuroendocrine, cholangiocarcinoma, melanoma, and breast cancer
+      metastases to the liver using Yttrium-90 glass microspheres (TheraSphere).
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2010</start_date>
+  <completion_date type="Actual">October 2013</completion_date>
+  <primary_completion_date type="Actual">October 2013</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Number of Participants With Adverse Events</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Adverse effects of treatment with Yttrium-90 glass microspheres (TheraSphere) were collected prospectively for 6 months after each treatment administration.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Radiographic Response</measure>
+    <time_frame>6 months after treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Radiographic response of treated lesions on cross-sectional imaging (computed tomography or magnetic resonance imaging) following treatment with Yttrium-90 glass microspheres (TheraSphere) was assessed based on Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1. Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), &gt;=30% decrease in the sum of the longest diameter of target lesions; Stable Disease (SD), no change in target lesions; Progressive Disease (PD), increase in target lesions.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">42</enrollment>
+  <condition>Colorectal Neoplasms</condition>
+  <condition>Neuroendocrine Tumors</condition>
+  <condition>Cholangiocarcinoma</condition>
+  <condition>Melanoma</condition>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Yttrium-90 liver radioembolization</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Selective internal radiation therapy to the liver using Yttrium-90 glass microspheres (TheraSphere)</intervention_name>
+    <description>Administration of Yttrium-90 glass microspheres (TheraSphere) into the hepatic artery</description>
+    <arm_group_label>Yttrium-90 liver radioembolization</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosis of metastatic colorectal, neuroendocrine, cholangiocarcinoma, melanoma, or
+             breast malignancy with liver dominant disease. Diagnosis may be made by histo- or
+             cyto-pathology, or by clinical and imaging criteria.
+
+          -  The cancer is unresectable.
+
+          -  All patients must be off all chemotherapeutic regimens for 30 days prior to and 30
+             days after TheraSphere treatment. Concurrent therapy with octreotide is permitted,
+             when appropriate.
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.
+
+          -  Age 18 years or older.
+
+          -  Able to understand informed consent.
+
+        Exclusion Criteria:
+
+          -  Evidence of potential delivery of greater than 16.5 mCi (30 Gy absorbed dose) of
+             radiation to the lungs on either:
+
+               -  single TheraSphere administration; or
+
+               -  cumulative delivery of radiation to the lungs greater than 50 Gy over multiple
+                  treatments.
+
+          -  Evidence of any detectable Tc-99m macroaggregated albumin deposition in the stomach
+             or duodenum, after application of established angiographic techniques to stop such
+             deposition.
+
+          -  Previous radiation therapy to the lungs and/or to the upper abdomen
+
+          -  Pregnancy
+
+          -  Symptomatic lung disease.
+
+          -  Significant extrahepatic disease representing an imminent life-threatening outcome.
+
+          -  Active uncontrolled infection
+
+          -  Any pre-treatment laboratory findings within 30 days of treatment demonstrating:
+
+               -  Aspartate or alanine aminotransferase level greater than 5 times upper normal
+                  limit.
+
+               -  Serum bilirubin greater than 2 mg/dl
+
+               -  Infiltrative tumor on imaging
+
+               -  Tumor volume greater than 70% of liver volume
+
+               -  Tumor volume greater than 50% of liver volume and serum albumin level less than
+                  3 mg/dL
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <removed_countries>
+    <country>United States</country>
+  </removed_countries>
+  <verification_date>December 2014</verification_date>
+  <lastchanged_date>December 11, 2014</lastchanged_date>
+  <firstreceived_date>February 1, 2011</firstreceived_date>
+  <firstreceived_results_date>May 10, 2014</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, San Francisco</investigator_affiliation>
+    <investigator_full_name>Nicholas Fidelman</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Liver metastases</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Cholangiocarcinoma</mesh_term>
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+  </condition_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

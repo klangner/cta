@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="565">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00859469</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AAAA2861 (Final)</org_study_id>
+    <nct_id>NCT00859469</nct_id>
+  </id_info>
+  <brief_title>Eloxatin® Plus Gemcitabine Chemotherapy for Mesothelioma</brief_title>
+  <official_title>Oxaliplatin (Eloxatin®) Plus Gemcitabine as First or Second-line Chemotherapy for Patients With Malignant Pleural or Peritoneal Mesothelioma: A Phase II Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Columbia University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In patients with pleural or peritoneal mesothelioma, what is the response rate to combined
+      Oxaliplatin (ELOXATIN®) and Gemcitabine chemotherapy?
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Oxaliplatin (ELOXATIN®) is an organoplatinum complex which exerts its cytotoxic effect
+      chiefly through inhibition of tumoral DNA synthesis and repair, leading to cellular
+      apoptosis. The antiproliferative activity of oxaliplatin has been shown to approximate that
+      of cisplatin or carboplatin in different tumor types.
+
+      This is a phase II clinical trial of Oxaliplatin (ELOXATIN®) plus gemcitabine as first or
+      secondline chemotherapy for patients with malignant pleural or peritoneal mesothelioma. This
+      study aims to determine the objective tumor response rate for Oxaliplatin plus gemcitabine
+      given every 14 days in patients with malignant pleural mesothelioma and/or malignant
+      peritoneal mesothelioma who have no more than one prior chemotherapy regimen. A total of 29
+      patients are expected to be enrolled in the study, each with a participation duration of 6
+      months.
+
+      Patients will be screened using standard health care assessments and tests. All of these
+      tests must be done within 4 weeks before patients begin treatment. Patients who are deemed
+      eligible will start the treatment cycle, defined as an interval of 14 days, and comprising
+      of treatment with Gemcitabine followed immediately by Oxaliplatin. The study drugs will be
+      administered in the following manner: Gemcitabine, at 1000 mg/m² IV infusion over 90
+      minutes, then Oxaliplatin, at 100 mg/m² IV infusion over 2 hours.
+
+      In the absence of specific indications for discontinuation of study drugs, patients will
+      routinely be offered 6 cycles of therapy. Further cycles may be given if in the opinion of
+      the investigator this is in the patient's best interest.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>April 2004</start_date>
+  <completion_date type="Anticipated">March 2013</completion_date>
+  <primary_completion_date type="Actual">March 2009</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Best Response</measure>
+    <time_frame>Two months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Radiologic response by RECIST criteria</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>50 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free Survival</measure>
+    <time_frame>50 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Time to radiologic disease progression or death</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">29</enrollment>
+  <condition>Mesothelioma</condition>
+  <arm_group>
+    <arm_group_label>Oxaliplatin and Gemcitabine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oxaliplatin/Gemcitabine</intervention_name>
+    <description>Gemcitabine 1000mg/m2 IV infusion for 90 minutes followed by oxaliplatin 100 mg/m2 IV infusion for 2 hours repeated for 14 days up to 6 cycles</description>
+    <arm_group_label>Oxaliplatin and Gemcitabine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have histologically confirmed malignant pleural or peritoneal
+             mesothelioma epithelial, sarcomatoid, or mixed subtype, not amenable to curative
+             treatment with surgery. Patients with pleural mesothelioma will be clinically staged
+             using the IMTG TNM staging criteria (see Protocol Attachment 1). Note that there is
+             no staging system for peritoneal mesothelioma and those patients will only be
+             followed for survival. Patients may be entered based on local pathology.
+
+          -  Disease status must be that of measurable disease as defined by modified SWOG
+             criteria.
+
+               -  Measurable disease: The presence of at least one measurable lesion. If only one
+                  lesion is present, the neoplastic nature of the disease site should be confirmed
+                  by histology (see Section 3.8.1.2).
+
+               -  Measurable lesions: Lesions that can be accurately measured in at least one
+                  dimension with the longest diameter ≥20 mm using conventional techniques or ≥10
+                  mm using spiral CT scans. At least one level must have one rind measurement ≥15
+                  mm.
+
+          -  CT (specifically spiral CT) scans and MRT are the preferred methods of measurement.
+
+          -  Clinically detected lesions will only be considered measurable when they are
+             superficial (e.g., skin nodules and palpable lymph nodes).
+
+          -  For the case of skin lesions, documentation by color photography, including a ruler
+             to estimate the size of the lesion is required.
+
+        NOTE:  Neither pleural effusions nor positive bone scans are considered measurable.
+
+          -  Patients may have undergone pleurodesis. If pleurodesis was performed, there must be
+             at least a 2-week delay before Oxaliplatin or gemcitabine is administered. If the
+             original CT scan occurred prior to the pleurodesis, an additional CT scan is required
+             2 weeks or longer after the pleurodesis, which will then be considered the baseline
+             scan.
+
+        NOTE:  For patients with clinically significant pleural effusions or ascites,
+        consideration should be given to draining the fluid.
+
+          -  Performance status of 0, 1 or 2 on ECOG Performance Status Scale (after any
+             palliative measures including pleural drainage have occurred). See Protocol
+             Attachment 2.
+
+          -  Estimated life expectancy of at least 12 weeks.
+
+        Exclusion Criteria:
+
+          -  More than one previous regimen of systemic chemotherapy. Prior intracavitary
+             cytotoxic drugs will count as a prior regimen, unless given for the purpose of
+             pleurodesis. Immunomodulators will not be regarded as chemotherapy. Prior systemic
+             treatment with pemetrexed plus a platinum compound will not be a contraindication for
+             gemcitabine-oxaliplatin.
+
+          -  Prior radiation therapy to the target lesion, unless the lesion is clearly
+             progressing and the interval between the most recent radiation therapy and enrollment
+             is at least 4 weeks.
+
+          -  Active infection (at the discretion of the investigator).
+
+          -  Pregnancy or breast feeding.
+
+          -  Serious concomitant systemic disorders (including oncologic emergencies) incompatible
+             with the study (at the discretion of the investigator).
+
+          -  Patients with a &quot;currently active&quot; second malignancy other than non-melanoma skin
+             cancer or carcinoma in situ of the cervix are not to be registered.   Patients who
+             are not considered to have a &quot;currently active&quot; malignancy if they have completed
+             therapy and are considered by their physician to be at less than 30% risk of relapse.
+
+          -  Use of any investigational agent within 4 weeks before enrollment into the study.
+
+          -  Disease which cannot be radiologically imaged.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert N Taub, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2012</verification_date>
+  <lastchanged_date>January 20, 2012</lastchanged_date>
+  <firstreceived_date>March 9, 2009</firstreceived_date>
+  <firstreceived_results_date>January 20, 2012</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Mesothelioma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Oxaliplatin</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

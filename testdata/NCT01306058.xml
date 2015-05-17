@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="66">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01306058</url>
+  </required_header>
+  <id_info>
+    <org_study_id>110102</org_study_id>
+    <secondary_id>11-C-0102</secondary_id>
+    <nct_id>NCT01306058</nct_id>
+  </id_info>
+  <brief_title>Sorafenib and TRC105 in Hepatocellular Cancer</brief_title>
+  <official_title>A Phase I/II Study of TRC105 in Combination With Sorafenib in Hepatocellular Carcinoma (HCC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:
+
+      Sorafenib is a drug that has been approved to treat kidney and liver cancer (hepatocellular
+      carcinoma, or HCC) and has been shown to prolong survival in patients with HCC. It works by
+      slowing the spread of cancer cells, but it does not fully prevent the cancer from growing
+      again. Researchers are interested in combining sorafenib with the experimental drug TRC105,
+      which has been designed to block the growth of blood vessels that lead to tumor growth, in
+      order to determine whether this drug combination stops tumor growth and reduces tumor size
+      better than sorafenib alone.
+
+      Objectives:
+
+      To determine the safety and effectiveness of the combination of sorafenib and TRC105 as a
+      treatment for hepatocellular cancer that has not responded to other treatments.
+
+      Eligibility:
+
+      Individuals at least 18 years of age who have been diagnosed with hepatocellular cancer that
+      has not responded to other treatments, and who are not considered to be candidates for liver
+      transplantation. Patients cannot be receiving anticoagulant therapy with the exception of
+      low dose aspirin. No history of bleeding problems or peptic ulcer disease.
+
+      Design:
+
+      Participants will be screened with a full  medical history and physical examination, blood
+      and urine tests, and tumor imaging studies. Participants will have a tumor biopsy or provide
+      previously collected tumor tissue for study. An examination of the esophagus to look for
+      problems with blood vessels will be completed in patients with a history of cirrhosis.
+
+      Participants will receive sorafenib tablets twice every day, in the morning and at night,
+      with a full glass of water.
+
+      Participants will receive TRC 105 infusions once every two weeks on days 1 and 15 of a 28
+      day cycle.
+
+      At each visit during the first cycle, participants will have a physical examination and
+      blood tests. Participants will continue to have blood tests and a urine test every cycle to
+      monitor the effects of treatment, including tests of kidney function. Participants will have
+      imaging studies after every two cycles to evaluate the results of treatment, and may also
+      provide tumor samples for study.
+
+      Treatment will continue as long as the tumor does not grow and side effects remain
+      tolerable.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:
+
+        -  Worldwide, hepatocellular carcinoma (HCC) is the fifth most common malignancy with a
+           median survival of 6-9 months. The SHARP study established sorafenib as a standard
+           consideration in this disease and set the bar for future studies of systemic therapy.
+
+        -  TRC105 is a chimeric anti-angiogenic monoclonal antibody that binds CD105, a
+           transmembrane receptor selectively expressed by proliferating endothelial cells. TRC105
+           binds to CD105-expressing endothelial cells and mediates growth inhibition, apoptosis
+           and antibody-dependent cell-mediated cytotoxicity (ADCC).
+
+      Objectives:
+
+      Primary:
+
+        -  Phase I: To establish the maximum tolerated dose (MTD) of TRC105 when given with
+           standard-dose sorafenib for HCC.
+
+        -  Phase II:To determine the estimate response rate according to RECIST criteria for the
+           combination of TRC105 with sorafenib in HCC.
+
+      Eligibility:
+
+        -  Histologically or cytologically confirmed diagnosis of HCC.
+
+        -  Childs-Pugh A or B (7 points) cirrhosis is allowed.
+
+        -  Patients must have disease that is not amenable to potentially curative resection,
+           radiofrequency ablation, or liver transplantation.
+
+        -  In phase I, prior systemic therapy is allowed.
+
+        -  In phase II, prior systemic therapy for HCC (including sorafenib) is allowed.
+
+        -  No history of bleeding varices in previous 1 year (unless subsequent liver transplant).
+
+        -  No anti-coagulation (except low-dose aspirin).
+
+      Design:
+
+        -  TRC105 will be administered intravenously every two weeks, on days 1 and 15 of each 28
+           day cycle. Sorafenib will be self-administered twice daily by mouth.
+
+        -  Phase 1: The first part of this study was a standard 3+3 dose escalation phase I study
+           with the primary objective of establishing MTD for TRC105 when given in combination
+           with standard-dose sorafenib. Sorafenib is taken orally at a dose of 400 mg twice
+           daily. TRC105 is administered as an intravenous infusion every two weeks. Patients will
+           be restaged including imaging studies to assess for response and progression every 8
+           weeks. The TRC105 dose was escalated in cohorts of 3 to 6 patients up to a maximum of
+           15 mg/kg every two weeks. Intra-patient dose escalation was not allowed.
+
+        -  Phase II: TRC105 will be administered as an intravenous infusion every two weeks at the
+           recommended phase II dose, 15 mg/kg of TRC105 ever two weeks in combination with
+           standard dose sorafenib, defined in phase I. The sample size and interim stopping rule
+           will be determined using a Simon optimal two-stage design. The first stage will
+           initially enroll 6 evaluable patients, and if 0 of the 6 have a clinical response, then
+           no further patients will be accrued. If 1 or more of the first 6 patients has a
+           clinical response, then accrual would continue until a total of 23 patients have been
+           enrolled. As it may take several weeks to determine if a patient has experienced a
+           response, a temporary pause in the accrual may be necessary to ensure that enrollment
+           to the second stage is warranted. If there are 1 to 2 clinical responses in 23
+           patients, this would be an uninterestingly low response rate. If there were 3 or more
+           complete responses in 23 patients (13.0%), this would be sufficiently interesting to
+           warrant further study in later trials. Under the null hypothesis (5% response rate),
+           the probability of early termination is 73.5%.
+
+      Cohort: -0; Sorafenib (mg PO twice daily): 400 bid; TRC105 (mg/kg IV weekly): 1
+
+      Cohort: 1; Sorafenib (mg PO twice daily): 400 bid; TRC105 (mg/kg IV weekly): 3
+
+      Cohort: 2; Sorafenib (mg PO twice daily): 400 bid; TRC105 (mg/kg IV weekly): 6
+
+      Cohort: 3; Sorafenib (mg PO twice daily): 400 bid; TRC105 (mg/kg IV weekly): 10
+
+      Cohort: 4; Sorafenib (mg PO twice daily): 400 bid; TRC105 (mg/kg IV weekly): 15
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>February 2011</start_date>
+  <completion_date type="Anticipated">September 2016</completion_date>
+  <primary_completion_date type="Anticipated">September 2016</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Phase I: To establish the maximum tolerated dose (MTD) of TRC105 when given with standard-dose sorafenib for HCC.</measure>
+    <time_frame>Complete</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase II: To evaluate time to progression (TTP) for the combination of TR105 with sorafenib in HCC.</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate overall response rate (ORR) as determined by both standard and EASL-modified RECIST criteria</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the immunogenicity of TRC105 as measured by humanantichimeric antibody (HACA) and human antimouse antibodyformation</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the safety of the combination of TRC105 and sorafenibin HCC.</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine progression-free survival (PFS) and overall survival (OS) for TRC105 and sorafenib in HCC.</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To perform correlative studies assessing 1) potential biomarkers ofresponse to angiogenic therapy, 2) changes in frequency andfunction of immune cells upon treatment and 3) molecularcharacterization of tumors.</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">44</enrollment>
+  <condition>Hepatoma</condition>
+  <condition>Liver Neoplasms</condition>
+  <condition>Adenoma, Liver Cell</condition>
+  <condition>Carcinoma, Hepatocellular</condition>
+  <condition>Liver Neoplasms, Experimental</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 mg/kg TRC105 IV every 2 weeks and 400 mg sorafenib PO twice per day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TRC 105</intervention_name>
+    <description>15 mg/kg IV every 2 weeks</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sorafenib</intervention_name>
+    <description>400 mg bid continuously in a 28 days cycle</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:
+
+          -  Patients must have histopathological confirmation of hepatocellular carcinoma (HCC)
+             by the Laboratory of Pathology of the NCI prior to entering this study.
+
+        Or
+
+        histopathological confirmation of carcinoma in the setting of clinical and radiological
+        characteristics which, together with the pathology, are highly suggestive of a diagnosis
+        of HCC.
+
+          -  Patients must have disease that is not amenable to potentially curative resection or
+             ablative techniques. In addition, disease must not be amenable to or have progressed
+             on transhepatic arterial chemoembolization (TACE).  Patients must not be considered
+             potential candidates for liver transplantation. This determination will be made after
+             hepatobiliary surgical input at the NCI multidisciplinary conference.
+
+          -  If liver cirrhosis is present, patient must have a Child-Pugh A classification.
+
+          -  Patients with cirrhosis must have had esophagogastric endoscopy within the previous 6
+             months prior to study entry for the assessment of varices. If the patient has not had
+             this done they must be willing to undergo this procedure prior to study entry.
+
+          -  Age greater than or equal to 18 years
+
+          -  Life expectancy of greater than 3 months.
+
+          -  ECOG performance status 0-2.
+
+          -  Patients must have normal organ and marrow function as defined below:
+
+               -  Absolute neutrophil count greater than or equal to 1,500/mcL
+
+               -  Platelets greater than or equal to 60,000/mcL without transfusion support within
+                  the past 30 days
+
+               -  Total bilirubin less than or equal to 3 mg/dl.
+
+               -  AST/ALT less than or equal to 10 times upper limit of normal
+
+               -  Creatinine less than or equal to 1.5 times upper normal limits OR creatinine
+                  clearance greater than or equal to 40mL/min/1.73 m(2) for patients with
+                  creatinine levels above institutional normal, as calculated by the Cockcroft
+                  Gault formula.
+
+          -  Patients must have recovered from any acute toxicity related to prior therapy,
+             including surgery. Toxicity should be less than or equal to grade 1 or returned to
+             baseline.
+
+          -  Patients must not have other invasive malignancies within the past 5 years (with the
+             exception of non-melanoma skin cancers or non-invasive bladder cancer).
+
+          -  Patient must be able to understand and willing to sign a written informed consent
+             document.
+
+        Additional Inclusion Criteria for PHASE I Portion:
+
+          -  Patients may have measurable or evaluable disease only.
+
+          -  Prior therapy: prior systemic therapy with sorafenib is allowed.
+
+        Additional Inclusion Criteria for PHASE II Portion:
+
+          -  All patients will be required to have measurable disease.
+
+          -  Prior therapy: prior systemic therapy with sorafenib is allowed.
+
+        EXCLUSION CRITERIA:
+
+          -  Patients who have had chemotherapy (other than sorafenib treatment), large field
+             radiotherapy, or major surgery must wait 4 weeks prior to entering the study.
+
+          -  Patients may not be receiving any agents not approved by the FDA within the past 4
+             weeks.
+
+          -  Patients with known brain metastases will be excluded from this clinical trial
+             because of their poor prognosis and because they often develop progressive neurologic
+             dysfunction that would confound the evaluation of neurologic and other adverse
+             events.
+
+          -  Proteinuria, as demonstrated by a 24-hour protein of greater than or equal to 2000
+             mg. Urine protein will be screened by urine protein-creatinine ratio (UPC). For UPC
+             ratio greater than 1.0, a 24-hour urine protein will need to be obtained and the
+             level should be less than 2000 mg for patient enrollment.
+
+          -  Uncontrolled intercurrent illness including, but not limited to, hypertension
+             (systolic BP greater than 140, diastolic BP greater than 90), ongoing or active
+             systemic infection, symptomatic congestive heart failure, unstable angina pectoris,
+             cardiac arrhythmia or psychiatric illness/social situations that would limit
+             compliance with study requirements.
+
+          -  No anti-coagulation therapy is allowed with the exception of low-dose aspirin.
+
+          -  No bleeding diathesis.
+
+          -  Patients with a history of bleeding varices in previous 1 year are excluded (unless
+             patient has subsequently had a liver transplant. Those with gastric varices or
+             varices that are deemed as high risk by the endoscopist should be placed on
+             appropriate medical therapy as advised by the gastroenterologist.
+
+          -  History of peptic ulcer disease or gastritis within 6 months of TRC105
+             administration, unless patient has received adequate treatment for peptic ulcer
+             disease and has evidence of complete resolution documented by EGD. Mild gastritis is
+             allowed.
+
+          -  QTc greater than 500 msec
+
+          -  HIV-positive patients receiving anti-retroviral therapy are excluded from this study
+             due to the possibility of pharmacokinetic interactions between antiretroviral
+             medications and sorafenib or TRC105. HIV positive patients not receiving
+             antiretroviral therapy are excluded due to the possibility that sorafenib or TRC105
+             may worsen their condition and the likelihood that the underlying condition may
+             obscure the attribution of adverse events with respect to sorafenib or TRC105.
+
+          -  History of hypersensitivity reaction to human or mouse antibody products
+
+          -  Patients with a history of familial bleeding disorders
+
+          -  Patients with a history of hereditary hemorrhagic telangiectasia (Osler-Weber- Rendu
+             Syndrome).
+
+          -  Pregnancy and breast feeding are exclusion factors. Enrolled patients must agree to
+             use adequate contraception (hormonal or barrier method of birth control; abstinence)
+             prior to study entry, the duration of study participation and 3 months after the end
+             of the treatment.
+
+          -  Patients with unhealed wounds for more than 30 days.
+
+        INCLUSION OF WOMEN AND MINORITIES:
+
+        -Men and women of all races and ethnic groups are eligible for this trial.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tim F Greten, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute (NCI)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Suzanne Fioravanti, R.N.</last_name>
+    <phone>(301) 594-6544</phone>
+    <email>fioravas@mail.nih.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tim F Greten, M.D.</last_name>
+    <phone>(301) 451-4723</phone>
+    <email>gretentf@mail.nih.gov</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>For more information at the NIH Clinical Center contact National Cancer Institute Referral Office</last_name>
+      <phone>(888) NCI-1937</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2011-C-0102.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Parkin DM, Bray F, Ferlay J, Pisani P. Estimating the world cancer burden: Globocan 2000. Int J Cancer. 2001 Oct 15;94(2):153-6.</citation>
+    <PMID>11668491</PMID>
+  </reference>
+  <reference>
+    <citation>Yoo HY, Patt CH, Geschwind JF, Thuluvath PJ. The outcome of liver transplantation in patients with hepatocellular carcinoma in the United States between 1988 and 2001: 5-year survival has improved significantly with time. J Clin Oncol. 2003 Dec 1;21(23):4329-35. Epub 2003 Oct 27.</citation>
+    <PMID>14581446</PMID>
+  </reference>
+  <reference>
+    <citation>Palmer DH. Sorafenib in advanced hepatocellular carcinoma. N Engl J Med. 2008 Dec 4;359(23):2498; author reply 2498-9.</citation>
+    <PMID>19065750</PMID>
+  </reference>
+  <verification_date>October 2014</verification_date>
+  <lastchanged_date>November 20, 2014</lastchanged_date>
+  <firstreceived_date>February 26, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hepatocellular Carcinoma</keyword>
+  <keyword>TRC105</keyword>
+  <keyword>Sorafenib</keyword>
+  <keyword>Liver Cancer</keyword>
+  <keyword>Monoclonal Antibody</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adenoma, Liver Cell</mesh_term>
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+    <mesh_term>Liver Neoplasms</mesh_term>
+    <mesh_term>Liver Neoplasms, Experimental</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Experimental</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Sorafenib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="689">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00087698</url>
+  </required_header>
+  <id_info>
+    <org_study_id>7216</org_study_id>
+    <secondary_id>H3E-US-JMGA</secondary_id>
+    <nct_id>NCT00087698</nct_id>
+    <nct_alias>NCT00072397</nct_alias>
+  </id_info>
+  <brief_title>Phase II Trial of Neo-Adjuvant Pemetrexed Plus Cisplatin Followed by Surgery and Radiation for Pleural Mesothelioma</brief_title>
+  <official_title>A Multicenter Phase II Trial of Neo-Adjuvant Pemetrexed (Alimta) Plus Cisplatin Followed by Surgery and Radiation for Pleural Mesothelioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to determine how successful the chemotherapy regimen of Pemetrexed plus
+      cisplatin before surgery is at killing all the tumor so that none is left at the time of
+      surgery.  Following surgery, all eligible patients will receive radiation to the chest.  How
+      patients respond, whether the cancer returns and if so, where, will also be monitored.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2003</start_date>
+  <completion_date type="Actual">February 2008</completion_date>
+  <primary_completion_date type="Actual">February 2008</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Pathological Complete Response</measure>
+    <time_frame>Surgery (at least 3 weeks post last dose of chemotherapy, up to a maximum interval of 8 weeks)</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The 1 and 2 Year Disease-Free Survival Rate (Percentage)</measure>
+    <time_frame>1 year and 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Tumor Response</measure>
+    <time_frame>baseline to measured progressive disease</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Treatment Failure</measure>
+    <time_frame>baseline to stopping treatment</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Progressive Disease</measure>
+    <time_frame>baseline to measured progressive disease</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival Time</measure>
+    <time_frame>baseline to date of death from any cause</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">77</enrollment>
+  <condition>Pleural Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>chemotherapy, surgery then chest radiation x 54 gray (Gy)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>pemetrexed</intervention_name>
+    <description>500 mg/m2, intravenous (IV), every 21 days x 4 cycles</description>
+    <arm_group_label>A</arm_group_label>
+    <other_name>LY231514</other_name>
+    <other_name>Alimta</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cisplatin</intervention_name>
+    <description>75 mg/m2, intravenous (IV), every 21 days x 4 cycles</description>
+    <arm_group_label>A</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients will be clinically staged using AJCC/UICC TNM staging criteria. Eligible
+             stages:
+
+               1. Patients must be M0
+
+               2. Patients with T1, T2, and T3 disease (without cardiac involvement) are eligible
+                  (T status can be established clinically and radiologically or at exploratory
+                  thoracotomy without surgical resection
+
+               3. Patients with N0, N1,or N2 disease are eligible
+
+          -  Performance status of 0 to 1 on the ECOG performance status schedule.
+
+          -  No prior systemic chemotherapy and no prior intracavitary cytotoxic drugs or
+             immunomodulators, unless given for the purpose of chemical pleurodesis
+
+          -  No previous radiation therapy
+
+          -  Estimated life expectancy of at least 12 weeks
+
+        Exclusion Criteria:
+
+        Patients will be excluded if they meet ANY of the following criteria:
+
+          -  Have received treatment within the last 30 days with a drug that has not received
+             regulatory approval for any indication at the time of study entry
+
+          -  Have previously completed or withdrawn from this study or any other study
+             investigating pemetrexed
+
+          -  Pregnancy or breast-feeding
+
+          -  Serious concomitant systemic disorders (i.e. active infection) that, in the opinion
+             of the investigator, would compromise the safety of the patient or compromise the
+             patient's ability to complete the study
+
+          -  Second active primary malignancy (except in situ carcinoma of the cervix, adequately
+             treated non-melanomatous carcinoma of the skin, low grade (Gleason score less than or
+             equal to 6), localized adenocarcinoma of the prostate or other malignancy treated at
+             least 2 years previously with no evidence of recurrence
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern Time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon-Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon-Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon-Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon-Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon-Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon-Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon-Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.lillytrials.com</url>
+    <description>Lilly Clinical Trial Registry</description>
+  </link>
+  <verification_date>May 2009</verification_date>
+  <lastchanged_date>May 1, 2009</lastchanged_date>
+  <firstreceived_date>July 12, 2004</firstreceived_date>
+  <firstreceived_results_date>February 16, 2009</firstreceived_results_date>
+  <responsible_party>
+    <name_title>Chief Medical Officer</name_title>
+    <organization>Eli Lilly</organization>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Mesothelioma</mesh_term>
+    <mesh_term>Pleural Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Pemetrexed</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

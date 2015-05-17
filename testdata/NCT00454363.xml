@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="263">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00454363</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2009-00201</org_study_id>
+    <secondary_id>NCI-2009-00201</secondary_id>
+    <secondary_id>CDR0000537034</secondary_id>
+    <secondary_id>MDACC 2006-0077</secondary_id>
+    <secondary_id>MDACC 2006-0077</secondary_id>
+    <secondary_id>7650</secondary_id>
+    <secondary_id>U01CA062490</secondary_id>
+    <secondary_id>P30CA016672</secondary_id>
+    <secondary_id>N01CM62202</secondary_id>
+    <nct_id>NCT00454363</nct_id>
+  </id_info>
+  <brief_title>Pazopanib in Treating Patients With Advanced Neuroendocrine Cancer</brief_title>
+  <official_title>A Phase 2 Study of GW786034 (Pazopanib) in Advanced Low-Grade or Intermediate-Grade Neuroendocrine Carcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial is studying how well pazopanib works in treating patients with advanced
+      neuroendocrine cancer. Pazopanib may stop the growth of tumor cells by blocking some of the
+      enzymes needed for cell growth and by blocking blood flow to the tumor.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:
+
+      I. Determine the objective response rate (complete and partial response) in patients with
+      low- or intermediate-grade advanced neuroendocrine carcinoma treated with pazopanib
+      hydrochloride.
+
+      SECONDARY OBJECTIVES:
+
+      I. Determine the progression-free survival of patients treated with this drug.
+
+      II. Determine the safety and tolerability of this drug in these patients.
+
+      OUTLINE: This is a multicenter study. Patients are stratified according to disease type
+      (carcinoid tumors vs islet cell carcinoma).
+
+      Patients receive oral pazopanib hydrochloride once daily on days 1-28. Treatment repeats
+      every 28 days for 12 courses in the absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed every 3 months for up to 18
+      months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>March 2007</start_date>
+  <primary_completion_date type="Actual">March 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Objective Response Rate (Complete and Partial Response) for Each Cohort Assessed by Response Evaluation Criteria in Solid Tumors (RECIST)</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>RECIST Criteria: Complete Response (CR): Disappearance of all target lesions; Partial Response (PR): 30% decrease in sum of longest diameter (LD) of target lesions, reference baseline sum LD; Progressive Disease (PD): 20% increase in sum of LD of target lesions,  reference smallest sum LD recorded since treatment started or appearance 1/&gt; new lesions; Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, reference smallest sum LD since treatment started.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Trough Level of GW786034</measure>
+    <time_frame>Baseline and day 28</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Baseline to 18 months.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>PFS is defined as the duration of time from start of treatment to time of progression or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Tumor Blood Flow Assessed by Functional CT</measure>
+    <time_frame>Baseline and week 12</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">52</enrollment>
+  <condition>Gastrinoma</condition>
+  <condition>Glucagonoma</condition>
+  <condition>Insulinoma</condition>
+  <condition>Metastatic Gastrointestinal Carcinoid Tumor</condition>
+  <condition>Multiple Endocrine Neoplasia Type 1</condition>
+  <condition>Multiple Endocrine Neoplasia Type 2</condition>
+  <condition>Pancreatic Polypeptide Tumor</condition>
+  <condition>Pulmonary Carcinoid Tumor</condition>
+  <condition>Recurrent Gastrointestinal Carcinoid Tumor</condition>
+  <condition>Recurrent Islet Cell Carcinoma</condition>
+  <condition>Regional Gastrointestinal Carcinoid Tumor</condition>
+  <condition>Somatostatinoma</condition>
+  <condition>WDHA Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Pazopanib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive oral pazopanib hydrochloride 800 mg once daily on days 1-28.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pazopanib hydrochloride</intervention_name>
+    <description>Given oral (PO)</description>
+    <arm_group_label>Pazopanib</arm_group_label>
+    <other_name>GW786034B</other_name>
+    <other_name>Votrient</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Criteria:
+
+          -  At least 4 weeks since prior major surgery
+
+          -  No CYP2C9 inhibitors for 14 days prior to, during, and for 2 weeks after completion
+             of study therapy, including any of the following:
+
+        Oral hypoglycemics (e.g., glipizide, glyburide, tolbutamide, glimepiride, nateglinide)
+        Ergot derivatives (e.g., dihydroergotamine, ergonovine, ergotamine, methylergonovine)
+        Neuroleptics (e.g., pimozide)
+
+          -  No CYP2C9 inhibitors for 14 days prior to, during, and for 2 weeks after completion
+             of study therapy, including any of the following: Erectile dysfunction agents (e.g.,
+             sildenafil, tadalafil, vardenafil) Antiarrhythmics (e.g., bepridil, flecainide,
+             lidocaine, mexiletine hydrochloride, amiodarone, quinidine, propafenone) Immune
+             modulators (e.g., cyclosporine, tacrolimus, sirolimus)
+
+          -  No CYP2C9 inhibitors for 14 days prior to, during, and for 2 weeks after completion
+             of study therapy, including any of the following: Theophylline Quetiapine Risperidone
+             Tacrine Clozapine Atomoxetine
+
+          -  No concurrent therapeutic warfarin Low molecular weight heparin or prophylactic
+             low-dose warfarin allowed provided inclusion criteria for PT and PTT are met
+
+          -  No concurrent grapefruit or its juice
+
+          -  No other concurrent investigational agents
+
+          -  No other concurrent anticancer agents or therapies
+
+          -  No concurrent antiretroviral therapy for HIV-positive patients
+
+          -  No concurrent interferon for control of carcinoid syndrome
+
+          -  WBC &gt;= 3,000/mm³
+
+        Inclusion Criteria:
+
+          -  Histologically or cytologically confirmed low or intermediate grade carcinoid or
+             islet cell carcinoma. Carcinoid or islet cell carcinoma associated with MEN1 syndrome
+             will be eligible and entered in the islet cell cohort.
+
+          -  Measurable disease, defined as at least one lesion that can be accurately measured in
+             at least one dimension (longest diameter to be recorded) as &gt;/= 20 mm with
+             conventional techniques or as &gt;/= 10 mm with spiral CT scan.
+
+          -  Received 0, or 1 prior cytotoxic therapy. Chemotherapy used as a radiosensitizer will
+             be considered one prior chemotherapy regimen. Must not have received prior
+             bevacizumab or any other therapy targeting VEGF or VEGF receptors (ie, SU11248,
+             PTK787/ZK222584, Sorafenib, GW786034).
+
+          -  Must be on a stable dose (the same dose) of a somatostatin analogue (Lanreotide,
+             Octreotide or Vapreotide) for 2 months prior to start of protocol. A somatostatin
+             analogue does not count toward prior therapy.
+
+          -  Prior radiation therapy is permitted. A recovery period of at least 4 weeks after
+             completion of radiotherapy is required prior to enrollment.
+
+          -  Received prior interferon (not counted toward prior cytotoxic chemotherapy).
+
+          -  Received prior therapy targeting c-kit, abl, PDGFR, or EGFR (imatinib, gefitinib,
+             erlotinib, cetuximab; not counted toward prior cytotoxic chemotherapy).
+
+          -  Age &gt;/= 21 years. GW786034 (pazopanib) is contraindicated in the pediatric population
+             due to the potential effect on the epiphyseal growth plates.
+
+          -  Must have unresectable or metastatic disease.
+
+          -  ECOG performance status of 0, or 1 (Karnofsky &gt;/= 70%).
+
+          -  Must have normal organ and marrow function as defined below: Leukocytes &gt;/=
+             3,000/mcL; absolute neutrophil count &gt;/= 1,500/mcL; platelets &gt;/= 120,000/mcL; total
+             bilirubin within normal institutional limits; AST(SGOT)/ALT(SGPT) &lt;/= 3.0 X
+             institutional upper limit of normal; creatinine &lt;/= 2.0 OR creatinine clearance &gt;/=
+             60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal.
+             (Calculated by Cockcroft Gault formula)
+
+          -  Must have PT/INR/PTT within 1.2 X the upper limit of normal.
+
+          -  Must have resting blood pressure (BP) no greater than 140 mmHg (systolic) or 90 mmHg
+             (diastolic) for eligibility. Initiation or adjustment of BP medication is permitted
+             prior to study entry.
+
+          -  The effects of GW786034 (pazopanib) on the developing human fetus are unknown.
+             However, teratogenic effects and reduced fetal body weight have been seen in pregnant
+             rats and/or rabbits given GW786034 (pazopanib). For this reason and because
+             antiangiogenic agents as well as other therapeutic agents used in this trial are
+             known to be teratogenic, women of child-bearing potential and men must agree to use
+             adequate contraception prior to study entry and for the duration of study
+             participation.
+
+          -  Women of child-bearing potential must have a negative blood pregnancy test prior to
+             study entry. Should a woman become pregnant or suspect she is pregnant while
+             participating in this study, she should inform her treating physician immediately.
+
+          -  Acceptable contraceptive methods, when used consistently and in accordance with both
+             the product label and the instructions of the physician, are as follows: An
+             intrauterine device with a documented failure rate of less than 1% per year;
+             Vasectomized partner who is sterile prior to the female patient's entry and is the
+             sole sexual partner for that female;
+
+          -  Acceptable contraceptive methods, when used consistently and in accordance with both
+             the product label and the instructions of the physician, are as follows; Complete
+             abstinence from sexual intercourse for 14 days before exposure to investigation
+             product, through the clinical trial, and for at least 21 days after the last dose of
+             investigational product; Double-barrier contraception (condom with spermicidal jelly,
+             foam suppository, or film; diaphragm with spermicide; or male condom and diaphragm
+             with spermicide). Oral contraceptives are not reliable due to potential drug-drug
+             interaction.
+
+          -  Ability to understand and the willingness to sign a written informed consent
+             document.
+
+          -  Ability to swallow and retain oral medication
+
+          -  Both men and women and members of all races and ethnic groups are eligible for this
+             trial.
+
+        Exclusion Criteria:
+
+          -  Have had chemotherapy or radiotherapy within 4 weeks prior to study enrollment. At
+             least 4 weeks must have elapsed since any major surgery prior to study enrollment.
+
+          -  May not be receiving any other investigational agents.
+
+          -  With QTc &gt; 480msecs
+
+          -  With greater than +1 (&gt;/= 100 mg/dl) proteinuria on two consecutive routine
+             urinalyses taken at least 1 week apart are ineligible.
+
+          -  Certain medications that act through the CYP450 system are specifically prohibited in
+             patients receiving GW786034 (pazopanib) because in vitro data indicate that the agent
+             has the potential to interact with the cytochrome P450 isoenzymes. Certain other
+             agents should be used with caution. A list of medications that are specifically
+             prohibited or that should be used with caution during this trial of GW786034
+             (pazopanib) can be found in Section 8. Selected lists of agents that could affect
+             GW786034 (pazopanib) through the cytochrome P450 system can be found in Appendix II.
+
+          -  With any condition (e.g., gastrointestinal tract disease resulting in an inability to
+             take oral medication or a requirement for IV alimentation, prior surgical procedures
+             affecting absorption, or active peptic ulcer disease) that impairs their ability to
+             swallow and retain GSK786034 (pazopanib) tablets are excluded.
+
+          -  With any of the following conditions are excluded: Serious or non-healing wound,
+             ulcer, or bone fracture; History of abdominal fistula, gastrointestinal perforation,
+             or intra-abdominal abscess within 28 days of treatment; History of known active
+             diverticulitis within the past 3 months; Any history of cerebrovascular accident
+             (CVA) within the last 6 months; Current use of therapeutic warfarin.(Low molecular
+             weight heparin and prophylactic low-dose warfarin are permitted); PT/PTT must meet
+             the inclusion criteria.
+
+          -  With any of the following conditions are excluded: History of myocardial infarction,
+             cardiac arrhythmia, admission for unstable angina, cardiac angioplasty or stenting
+             within the last 12 weeks; History of venous thrombosis in last 12 weeks; Class III or
+             IV heart failure as defined by the NYHA functional classification system; A patient
+             who has a history of Class II heart failure and is asymptomatic on treatment may be
+             considered eligible.
+
+          -  With known brain metastases should be excluded from this clinical trial because of
+             their poor prognosis and because they often develop progressive neurologic
+             dysfunction that would confound the evaluation of neurologic and other adverse
+             events.
+
+          -  No other prior malignancy is allowed except for the following: adequately treated
+             basal cell or squamous cell skin cancer, or other adequately treated in situ cancer,
+             or any other cancer from which the patient has been disease free for five years.
+
+          -  Pregnant women are excluded from this study because GW786034 (pazopanib) is an
+             antiangiogenic agent which has produced teratogenic effects and reduced fetal body
+             weight in pregnant rats and/or rabbits, and therefore has the potential for
+             teratogenic or abortifacient effects in humans. Because there is an unknown but
+             potential risk for adverse events in nursing infants secondary to treatment of the
+             mother with GW786034 (pazopanib), breastfeeding should be discontinued if the mother
+             is treated with GW786034 (pazopanib). These potential risks may also apply to other
+             agents used in this study.
+
+          -  HIV-positive on combination antiretroviral therapy are ineligible because of the
+             potential for pharmacokinetic interactions with GW786034 (pazopanib).
+
+          -  Uncontrolled diarrhea (8 or more bowel movements per day)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James Yao</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>University of Texas MD Anderson Cancer Center Official Website</description>
+  </link>
+  <verification_date>December 2013</verification_date>
+  <lastchanged_date>March 18, 2015</lastchanged_date>
+  <firstreceived_date>March 27, 2007</firstreceived_date>
+  <firstreceived_results_date>January 22, 2015</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Carcinoma, Islet Cell</mesh_term>
+    <mesh_term>Endocrine Gland Neoplasms</mesh_term>
+    <mesh_term>Gastrinoma</mesh_term>
+    <mesh_term>Gastrointestinal Neoplasms</mesh_term>
+    <mesh_term>Glucagonoma</mesh_term>
+    <mesh_term>Insulinoma</mesh_term>
+    <mesh_term>Malignant Carcinoid Syndrome</mesh_term>
+    <mesh_term>Multiple Endocrine Neoplasia</mesh_term>
+    <mesh_term>Multiple Endocrine Neoplasia Type 1</mesh_term>
+    <mesh_term>Multiple Endocrine Neoplasia Type 2a</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+    <mesh_term>Somatostatinoma</mesh_term>
+    <mesh_term>Vipoma</mesh_term>
+  </condition_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

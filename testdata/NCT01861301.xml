@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="380">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01861301</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2013-00937</org_study_id>
+    <secondary_id>NCI-2013-00937</secondary_id>
+    <secondary_id>12-2158</secondary_id>
+    <secondary_id>9267</secondary_id>
+    <secondary_id>N01CM00071</secondary_id>
+    <secondary_id>P30CA014599</secondary_id>
+    <nct_id>NCT01861301</nct_id>
+  </id_info>
+  <brief_title>Tivantinib in Treating Patients With Previously Treated Malignant Mesothelioma</brief_title>
+  <official_title>A Phase 2 Study of ARQ 197 in Patients With Previously-Treated Malignant Mesothelioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies how well tivantinib works in treating patients with previously
+      treated malignant mesothelioma. Tivantinib may stop the growth of tumor cells by blocking
+      some of the enzymes needed for cell growth.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To determine the objective response rate of patients with malignant mesothelioma who are
+      treated with ARQ 197 (tivantinib).
+
+      SECONDARY OBJECTIVES:
+
+      I. To determine the progression-free survival of patients with malignant mesothelioma who
+      are treated with ARQ 197.
+
+      II. To determine the toxicity experienced by patients with malignant mesothelioma who are
+      treated with ARQ 197.
+
+      III. To determine median and overall survival of patients with malignant mesothelioma who
+      are treated with ARQ 197.
+
+      TERTIARY OBJECTIVES:
+
+      I. To determine the frequency of mesenchymal-epithelial transition (MET) gene amplification
+      in malignant mesothelioma patient tumor samples, and to correlate the results with MET
+      immunohistochemistry (IHC).
+
+      II. To determine whether MET gene amplification results in increased sensitivity to ARQ 197
+      as observed by improved clinical outcomes (response rate [RR] and progression free survival
+      [PFS]) compared to those without MET gene over-expression/amplification.
+
+      III. To determine whether high baseline serum hepatocyte growth factor (HGF), as well as
+      changes in serum HGF during treatment at pre-defined early time points, correlate with
+      treatment efficacy and clinical outcome, as measured by response rate and progression-free
+      survival.
+
+      IV. To identify mutations by sequencing of specific areas of the MET gene in tumor samples
+      (semaphorin [SEMA], jumonji [JM] and tyrosine kinase domains).
+
+      V. To perform immunohistochemistry (IHC) of mesothelioma tumors for HGF, MET and
+      phosphorylated (p)-MET (pY1003 and pY1230/34/35).
+
+      VI. To assess serum HGF and serum soluble MET levels by enzyme linked immunosorbent assay
+      (ELISA) (R&amp;D systems) pre-treatment, after 2 cycles and at disease progression.
+
+      OUTLINE:
+
+      Patients receive tivantinib orally (PO) twice daily (BID). Treatment continues in the
+      absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up for 1 year.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>January 2013</start_date>
+  <primary_completion_date type="Anticipated">February 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Objective radiologic response rate (complete or partial response) assessed by the Response Evaluation Criteria in Solid Tumors (RECIST) v1.1</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events, graded per NCI CTCAE version 4</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Toxicity will be summarized by type and grade.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Analyzed using the Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to disease progression</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Analyzed using the Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Association between baseline HGF, MET gene amplification, MET IHC and PFS</measure>
+    <time_frame>Baseline to 1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will be evaluated using the Cox regression model.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in baseline levels of continuous or ordinal markers (e.g., serum HGF/MET IHC) between responders and non-responders</measure>
+    <time_frame>Baseline to 1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Fisher's exact test will be performed for binary variables (e.g., presence/absence of MET gene amplification). Paired t-tests or Wilcoxon signed-ranks test, whichever is appropriate, will be used to examine the changes with treatment in the laboratory correlates that are continuous and McNemar's test will be used for binary markers.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in serum HGF or MET IHC and tumor size change (percent reduction in sum of longest diameters)</measure>
+    <time_frame>Baseline to 1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will be evaluated by Spearman's rank correlation coefficient.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">49</enrollment>
+  <condition>Epithelioid Mesothelioma</condition>
+  <condition>Recurrent Malignant Mesothelioma</condition>
+  <condition>Sarcomatoid Mesothelioma</condition>
+  <condition>Stage II Pleural Mesothelioma</condition>
+  <condition>Stage III Pleural Mesothelioma</condition>
+  <condition>Stage IV Pleural Mesothelioma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (tivantinib)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive tivantinib PO BID. Treatment continues in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (tivantinib)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tivantinib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (tivantinib)</arm_group_label>
+    <other_name>ARQ 197</other_name>
+    <other_name>ARQ-197</other_name>
+    <other_name>c-Met Inhibitor ARQ 197</other_name>
+    <other_name>TIVANTINIB</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have histologically or cytologically confirmed malignant pleural or
+             peritoneal mesothelioma, epithelial, sarcomatoid, or mixed subtype; the patient's
+             disease must be metastatic, recurrent, or unresectable
+
+          -  Patients must have measurable disease, defined as at least one lesion that can be
+             accurately measured in at least one dimension (longest diameter to be recorded for
+             non-nodal lesions and short axis for nodal lesions) as &gt;= 20 mm with conventional
+             techniques or as &gt;= 10 mm with spiral computed tomography (CT) scan, magnetic
+             resonance imaging (MRI), or calipers by clinical exam; pleural effusions and ascites
+             are not considered measurable lesions
+
+          -  No more than two prior cytotoxic chemotherapy regimens; prior chemotherapy with
+             pemetrexed is required; prior intrapleural cytotoxic agents (including bleomycin) are
+             allowed, and are not counted as a cytotoxic chemotherapy; chemotherapy must have been
+             completed at least 4 weeks prior; patients who have previously received radiation
+             therapy are eligible provided that the only site of measurable disease is not located
+             within the radiation therapy port; at least 4 weeks must have elapsed from completion
+             of the radiation therapy and all signs of toxicity must have resolved
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status =&lt; 1 (Karnofsky &gt;= 70%)
+
+          -  Life expectancy of greater than 3 months
+
+          -  Hemoglobin &gt;= 9.0 g/dL
+
+          -  White blood cells (WBC) &gt;= 3,000/mcL
+
+          -  Absolute neutrophil count &gt;= 1,500/mcL
+
+          -  Platelets &gt;= 100,000/mcL
+
+          -  Total bilirubin =&lt; 1.5 X institutional upper limit of normal
+
+          -  Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase
+             [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT])
+             =&lt; 2.5 X institutional upper limit of normal
+
+          -  Serum creatinine =&lt; 1.5 X institutional upper limit of normal OR creatinine clearance
+             &gt;= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+
+          -  The effects of ARQ 197 on the developing human fetus are unknown; for this reason and
+             because tyrosine kinase inhibitors as well as other therapeutic agents used in this
+             trial are known to be teratogenic, women of child-bearing potential and men must
+             agree to use adequate contraception (hormonal or barrier method of birth control;
+             abstinence) prior to study entry and for the duration of study participation; should
+             a woman become pregnant or suspect she is pregnant while she or her partner is
+             participating in this study, she should inform her treating physician immediately;
+             men treated or enrolled on this protocol must also agree to use adequate
+             contraception prior to the study, for the duration of study participation, and 4
+             months after completion of ARQ 197 administration
+
+          -  Ability to understand and the willingness to sign a written informed consent document
+
+        Exclusion Criteria:
+
+          -  Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for
+             nitrosoureas or mitomycin C) prior to entering the study or those who have not
+             recovered from adverse events (to grade =&lt; 1) due to agents administered more than 4
+             weeks earlier
+
+          -  Patients who are receiving any other investigational agents
+
+          -  Patients with known brain metastases should be excluded from this clinical trial
+             because of their poor prognosis and because they often develop progressive neurologic
+             dysfunction that would confound the evaluation of neurologic and other adverse events
+
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic
+             composition to ARQ 197
+
+          -  ARQ 197 is metabolized by cytochrome P450 (CYP)2C19, and to a lesser extent CYP3A4;
+             the metabolism and consequently overall pharmacokinetics of ARQ 197 could be altered
+             by inhibitors and/or inducers or other substrates of CYP2C19 and CYP3A4; while
+             inhibitors/inducers of these cytochrome P450 isoenzymes are not specifically
+             excluded, investigators should be aware that ARQ 197 exposure may be altered by the
+             concomitant administration of these drugs; because the lists of these agents are
+             constantly changing, it is important to regularly consult a frequently-updated list;
+             as part of the enrollment/informed consent procedures, the patient will be counseled
+             on the risk of interactions with other agents, and what to do if new medications need
+             to be prescribed or if the patient is considering a new over-the-counter medicine or
+             herbal product
+
+          -  History of congestive heart failure defined as Class II to IV per New York Heart
+             Association (NYHA) classification; active coronary artery disease (CAD); clinically
+             significant bradycardia or other uncontrolled, cardiac arrhythmia defined as &gt;= grade
+             3 according to National Cancer Institute (NCI) Common Terminology Criteria for
+             Adverse Events (CTCAE), version 4.0, or uncontrolled hypertension; myocardial
+             infarction occurring within 6 months prior to study entry (myocardial infarction
+             occurring &gt; 6 months prior to study entry is permitted)
+
+          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active
+             infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac
+             arrhythmia, or psychiatric illness/social situations that would limit compliance with
+             study requirements
+
+          -  Pregnant women are excluded from this study because ARQ 197 is a tyrosine kinase
+             inhibitor with the potential for teratogenic or abortifacient effects; because there
+             is an unknown but potential risk for adverse events in nursing infants secondary to
+             treatment of the mother with ARQ 197, breastfeeding should be discontinued if the
+             mother is treated with ARQ 197
+
+          -  Human immunodeficiency virus (HIV)-positive patients on combination antiretroviral
+             therapy are ineligible because of the potential for pharmacokinetic interactions with
+             ARQ197; in addition, these patients are at increased risk of lethal infections when
+             treated with marrow-suppressive therapy; appropriate studies will be undertaken in
+             patients receiving combination antiretroviral therapy when indicated
+
+          -  No prior treatment with a c-MET inhibitor
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hedy Kindler</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Chicago Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope Comprehensive Cancer Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>USC / Norris Comprehensive Cancer Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Davis Comprehensive Cancer Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>City of Hope South Pasadena</name>
+      <address>
+        <city>South Pasadena</city>
+        <state>California</state>
+        <zip>91030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Comprehensive Cancer Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Decatur Memorial Hospital</name>
+      <address>
+        <city>Decatur</city>
+        <state>Illinois</state>
+        <zip>62526</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NorthShore University HealthSystem-Evanston Hospital</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ingalls Memorial Hospital</name>
+      <address>
+        <city>Harvey</city>
+        <state>Illinois</state>
+        <zip>60426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Illinois CancerCare-Peoria</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Illinois University</name>
+      <address>
+        <city>Springfield</city>
+        <state>Illinois</state>
+        <zip>62702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fort Wayne Medical Oncology and Hematology Inc-Parkview</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46845</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University/Melvin and Bren Simon Cancer Center</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan Comprehensive Cancer Center</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne State University/Karmanos Cancer Institute</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint John's Mercy Medical Center</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State Milton S Hershey Medical Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033-0850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Cancer Institute</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2015</verification_date>
+  <lastchanged_date>May 6, 2015</lastchanged_date>
+  <firstreceived_date>May 20, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

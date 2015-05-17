@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="556">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT02040272</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MARS2</org_study_id>
+    <nct_id>NCT02040272</nct_id>
+  </id_info>
+  <brief_title>MARS 2: A Feasibility Study Comparing (Extended) Pleurectomy Decortication Versus no Pleurectomy Decortication in Patients With Malignant Pleural Mesothelioma</brief_title>
+  <acronym>MARS2</acronym>
+  <official_title>A Study to Determine if it is Feasible to Recruit Into a Randomised Trial Comparing (Extended) Pleurectomy Decortication Versus no Pleurectomy Decortication in Patients With Malignant Pleural Mesothelioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Royal Brompton &amp; Harefield NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Cancer Research UK</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Papworth Hospital NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Royal Brompton &amp; Harefield NHS Foundation Trust</source>
+  <oversight_info>
+    <authority>United Kingdom: National Health Service</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Mesothelioma is a cancer of the thin membrane that lines the chest and abdomen.  Around 2300
+      people in the UK are diagnosed with mesothelioma each year and the average survival is
+      approximately 17 months.  Exposure to asbestos is the most common cause although the cancer
+      does not usually become apparent until 30-40 years after exposure.  Anti-cancer drugs
+      (chemotherapy) are usually given to help treat mesothelioma and sometimes lung-sparing
+      surgery (pleurectomy decortication) surgery is undertaken.  However, it is not known if this
+      surgery, in addition to chemotherapy, can increase survival and improve the quality of life
+      for patients.  The aim of the MARS2 study is to determine if it is feasible to enrol
+      patients with mesothelioma into a study randomising them to chemotherapy only or
+      chemotherapy and lung-sparing surgery.  Patients will be followed up regularly at their
+      usual clinic visits for to 5 years.  Patients will be asked to complete a Quality of Life
+      Questionnaire at these visits.  Tissue samples will be taken at the time of diagnosis and at
+      surgery (if they are randomised to surgery) for mesothelioma research central storage and
+      blood samples will be taken at the clinic visits up to 12 months for mesothelioma research
+      central storage. If we can show the feasibility of recruitment we will apply to continue the
+      study to include more patients in order to determine if lung-sparing surgery improves
+      survival and quality of life for mesothelioma patients.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2015</start_date>
+  <completion_date type="Anticipated">June 2017</completion_date>
+  <primary_completion_date type="Anticipated">April 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Ability to randomise 50 patients</measure>
+    <time_frame>24 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Ability to randomise 50 patients within the first 24 months or the ability to recruit 25 patients within any 6 month period</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survival from the time point of randomisation</measure>
+    <time_frame>Follow up for up to 5 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life as assessed using QLQ 30 and LC-13 scales</measure>
+    <time_frame>Follow up for up to 5 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Mesothelioma</condition>
+  <arm_group>
+    <arm_group_label>Surgery</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(Extended) pleurectomy decortication</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>no surgery</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>no surgery</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>(Extended) pleurectomy decortication</intervention_name>
+    <arm_group_label>Surgery</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  1. Histological confirmation of mesothelioma, 2. Disease confined to one hemi-thorax.
+
+        Exclusion Criteria:
+
+          -  1. Unable to give informed consent, 2. Patients unwilling to be randomised, 3. Extent
+             of disease not deemed to be surgically resectable, 4. ECOG status 2 or more, 5.
+             Patients with predicted pre-operative FEV1 or TLco less than 20%, 6. Patients with
+             severe heart failure (EF less than 30%), 7. Patients with end stage kidney failure
+             requiring dialysis, 8. Patients with liver failure, 9. Patients who are participating
+             in another interventional clinical trial.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eric Lim</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Royal Brompton Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eric Lim</last_name>
+    <email>e.lim@rbht.nhs.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Belinda Lees</last_name>
+    <email>blees@nhs.net</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospitals of Leicester NHS Trust</name>
+      <address>
+        <city>Leicester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dean Fennell</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dean Fennell</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>May 2015</verification_date>
+  <lastchanged_date>May 12, 2015</lastchanged_date>
+  <firstreceived_date>December 20, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

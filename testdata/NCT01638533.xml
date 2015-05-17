@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="267">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01638533</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2012-01040</org_study_id>
+    <secondary_id>NCI-2012-01040</secondary_id>
+    <secondary_id>NCI-2013-01545</secondary_id>
+    <secondary_id>CDR0000737061</secondary_id>
+    <secondary_id>J11105</secondary_id>
+    <secondary_id>9008</secondary_id>
+    <secondary_id>P30CA006973</secondary_id>
+    <secondary_id>U01CA132123</secondary_id>
+    <secondary_id>U01CA062505</secondary_id>
+    <secondary_id>U01CA069912</secondary_id>
+    <secondary_id>U01CA070095</secondary_id>
+    <secondary_id>UM1CA186644</secondary_id>
+    <secondary_id>UM1CA186686</secondary_id>
+    <secondary_id>UM1CA186690</secondary_id>
+    <secondary_id>UM1CA186691</secondary_id>
+    <secondary_id>UM1CA186717</secondary_id>
+    <nct_id>NCT01638533</nct_id>
+  </id_info>
+  <brief_title>Romidepsin in Treating Patients With Lymphoma, Chronic Lymphocytic Leukemia, or Solid Tumors With Liver Dysfunction</brief_title>
+  <official_title>A Phase 1 and Pharmacokinetic Single Agent Study of Romidepsin in Patients With Lymphomas, Chronic Lymphocytic Leukemia and Select Solid Tumors and Varying Degrees of Liver Dysfunction</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial studies the side effects and best dose of romidepsin in treating patients
+      with lymphoma, chronic lymphocytic leukemia, or solid tumors with liver dysfunction.
+      Romidepsin may stop the growth of cancer cells by entering the cancer cells and by blocking
+      the activity of proteins that are important for the cancer's growth and survival.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To establish the safety and tolerability of romidepsin given on days 1, 8, and 15 of a 28
+      day cycle to patients with varying degrees of liver dysfunction (mild, moderate and severe).
+
+      II. To establish the maximum tolerated dose (MTD) and appropriate dosing recommendations for
+      romidepsin in such patients.
+
+      III. To characterize the pharmacokinetics (PK) of romidepsin in patients with varying
+      degrees of liver dysfunction.
+
+      SECONDARY OBJECTIVES:
+
+      I. To explore correlations of the Child-Pugh classification of liver dysfunction with the
+      observed toxicities and plasma PK of romidepsin administration.
+
+      II. To document any preliminary evidence of antitumor activity at tolerable doses of
+      romidepsin in patients with varying degrees of liver dysfunction.
+
+      OUTLINE: This is a dose-escalation study.
+
+      Patients receive romidepsin intravenously (IV) over 4 hours on days 1, 8, and 15. Courses
+      repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up for 30 days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2012</start_date>
+  <primary_completion_date type="Anticipated">September 2015</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Dose-limiting toxicity of romidepsin in groups of patients with varying degree of hepatic dysfunction according to the National Cancer Institute Common Toxicity Criteria for Adverse Events version 4.0</measure>
+    <time_frame>28 days</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>In order to define levels of hepatic impairment at which dose modifications of romidepsin are required, data will be combined across hepatic dysfunction groups to evaluate the association between toxicity, dose, and liver assay level(s). The outcome variable, drug tolerance and dose-limiting toxicities will be modeled as function of dose and liver assay using multivariate linear regression. Higher order terms of the predictor variables and interactions will be included if there is evidence of non-linear and/or non-additive associations.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MTD of romidepsin in groups of patients with varying degree of hepatic dysfunction according to the National Cancer Institute Common Toxicity Criteria for Adverse Events version 4.0</measure>
+    <time_frame>28 days</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Analyses will be descriptive in nature. The observed toxicities will be characterized by dose level within each category of liver dysfunction (mild, moderate, severe, and liver transplant). These results will be summarized in relation to what is known about romidepsin in a population without liver dysfunction (as defined in this protocol).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK profile of romidepsin in patients with varying degrees of hepatic dysfunction using liquid chromatography-electrospray ionization tandem mass spectrometric method</measure>
+    <time_frame>0, 1, 2, 3, 4, 4.25, 4.5, 5, 6, 8, 10, 24, and 48 hours after initiation of the infusion on day 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>PK variables will be tabulated and descriptive statistics calculated for each function group. Geometric means and coefficients of variation will be presented for maximum concentration and area under the curve for each group.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Antitumor activity assessed using Response Evaluation Criteria in Solid Tumors and the International Workshop Lymphoma Response Criteria</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Association of antitumor activity and romidepsin treatment will be documented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Child-Pugh classification of hepatic dysfunction</measure>
+    <time_frame>Baseline</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Correlations of the Child-Pugh classification of hepatic dysfunction with the observed toxicities and plasma PK of romidepsin administration will be explored.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">132</enrollment>
+  <condition>Adult Anaplastic Astrocytoma</condition>
+  <condition>Adult Anaplastic Ependymoma</condition>
+  <condition>Adult Anaplastic Oligodendroglioma</condition>
+  <condition>Adult Brain Stem Glioma</condition>
+  <condition>Adult Ependymoblastoma</condition>
+  <condition>Adult Giant Cell Glioblastoma</condition>
+  <condition>Adult Glioblastoma</condition>
+  <condition>Adult Gliosarcoma</condition>
+  <condition>Adult Mixed Glioma</condition>
+  <condition>Adult Nasal Type Extranodal NK/T-Cell Lymphoma</condition>
+  <condition>Adult Pineal Gland Astrocytoma</condition>
+  <condition>Adult Solid Neoplasm</condition>
+  <condition>AIDS Related Immunoblastic Lymphoma</condition>
+  <condition>AIDS-Related Burkitt Lymphoma</condition>
+  <condition>AIDS-Related Diffuse Large Cell Lymphoma</condition>
+  <condition>AIDS-Related Diffuse Mixed Cell Lymphoma</condition>
+  <condition>AIDS-Related Diffuse Small Cleaved Cell Lymphoma</condition>
+  <condition>AIDS-Related Hodgkin Lymphoma</condition>
+  <condition>AIDS-Related Lymphoblastic Lymphoma</condition>
+  <condition>AIDS-Related Lymphoma</condition>
+  <condition>AIDS-Related Primary Central Nervous System Lymphoma</condition>
+  <condition>Anaplastic Large Cell Lymphoma</condition>
+  <condition>Angioimmunoblastic T-Cell Lymphoma</condition>
+  <condition>Cutaneous B-Cell Non-Hodgkin Lymphoma</condition>
+  <condition>Extensive Stage Small Cell Lung Carcinoma</condition>
+  <condition>Extra-Adrenal Paraganglioma</condition>
+  <condition>Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue</condition>
+  <condition>Gastrin-Producing Neuroendocrine Tumor</condition>
+  <condition>Hepatic Complication</condition>
+  <condition>Hepatosplenic T-Cell Lymphoma</condition>
+  <condition>Intraocular Lymphoma</condition>
+  <condition>Lung Carcinoid Tumor</condition>
+  <condition>Lymphomatous Involvement of Non-Cutaneous Extranodal Site</condition>
+  <condition>Male Breast Carcinoma</condition>
+  <condition>Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma</condition>
+  <condition>Metastatic Adrenal Gland Pheochromocytoma</condition>
+  <condition>Metastatic Digestive System Neuroendocrine Tumor G1</condition>
+  <condition>Nasal Cavity Inverted Papilloma</condition>
+  <condition>Nodal Marginal Zone Lymphoma</condition>
+  <condition>Olfactory Neuroblastoma</condition>
+  <condition>Pancreatic Glucagonoma</condition>
+  <condition>Pancreatic Insulinoma</condition>
+  <condition>Pancreatic Polypeptide Tumor</condition>
+  <condition>Poorly Differentiated Thyroid Gland Carcinoma</condition>
+  <condition>Recurrent Adrenal Gland Pheochromocytoma</condition>
+  <condition>Recurrent Adult Acute Lymphoblastic Leukemia</condition>
+  <condition>Recurrent Adult Brain Neoplasm</condition>
+  <condition>Recurrent Adult Burkitt Lymphoma</condition>
+  <condition>Recurrent Adult Diffuse Large Cell Lymphoma</condition>
+  <condition>Recurrent Adult Diffuse Mixed Cell Lymphoma</condition>
+  <condition>Recurrent Adult Diffuse Small Cleaved Cell Lymphoma</condition>
+  <condition>Recurrent Adult Grade III Lymphomatoid Granulomatosis</condition>
+  <condition>Recurrent Adult Hodgkin Lymphoma</condition>
+  <condition>Recurrent Adult Immunoblastic Lymphoma</condition>
+  <condition>Recurrent Adult Lymphoblastic Lymphoma</condition>
+  <condition>Recurrent Adult Soft Tissue Sarcoma</condition>
+  <condition>Recurrent Adult T-Cell Leukemia/Lymphoma</condition>
+  <condition>Recurrent Bladder Carcinoma</condition>
+  <condition>Recurrent Breast Carcinoma</condition>
+  <condition>Recurrent Colon Carcinoma</condition>
+  <condition>Recurrent Cutaneous T-Cell Non-Hodgkin Lymphoma</condition>
+  <condition>Recurrent Digestive System Neuroendocrine Tumor G1</condition>
+  <condition>Recurrent Grade 1 Follicular Lymphoma</condition>
+  <condition>Recurrent Grade 2 Follicular Lymphoma</condition>
+  <condition>Recurrent Grade 3 Follicular Lymphoma</condition>
+  <condition>Recurrent Hypopharyngeal Squamous Cell Carcinoma</condition>
+  <condition>Recurrent Inverted Schneiderian Papilloma</condition>
+  <condition>Recurrent Laryngeal Squamous Cell Carcinoma</condition>
+  <condition>Recurrent Laryngeal Verrucous Carcinoma</condition>
+  <condition>Recurrent Lip and Oral Cavity Squamous Cell Carcinoma</condition>
+  <condition>Recurrent Lip Basal Cell Carcinoma</condition>
+  <condition>Recurrent Mantle Cell Lymphoma</condition>
+  <condition>Recurrent Marginal Zone Lymphoma</condition>
+  <condition>Recurrent Melanoma</condition>
+  <condition>Recurrent Merkel Cell Carcinoma</condition>
+  <condition>Recurrent Metastatic Squamous Cell Carcinoma in the Neck With Occult Primary</condition>
+  <condition>Recurrent Mycosis Fungoides and Sezary Syndrome</condition>
+  <condition>Recurrent Nasal Cavity and Paranasal Sinus Squamous Cell Carcinoma</condition>
+  <condition>Recurrent Nasal Type NK/T-Cell Lymphoma</condition>
+  <condition>Recurrent Nasopharyngeal Keratinizing Squamous Cell Carcinoma</condition>
+  <condition>Recurrent Nasopharyngeal Undifferentiated Carcinoma</condition>
+  <condition>Recurrent Non-Small Cell Lung Carcinoma</condition>
+  <condition>Recurrent Olfactory Neuroblastoma</condition>
+  <condition>Recurrent Oral Cavity Adenoid Cystic Carcinoma</condition>
+  <condition>Recurrent Oral Cavity Mucoepidermoid Carcinoma</condition>
+  <condition>Recurrent Oral Cavity Verrucous Carcinoma</condition>
+  <condition>Recurrent Oropharyngeal Squamous Cell Carcinoma</condition>
+  <condition>Recurrent Oropharyngeal Undifferentiated Carcinoma</condition>
+  <condition>Recurrent Pancreatic Carcinoma</condition>
+  <condition>Recurrent Pancreatic Neuroendocrine Carcinoma</condition>
+  <condition>Recurrent Prostate Carcinoma</condition>
+  <condition>Recurrent Rectal Carcinoma</condition>
+  <condition>Recurrent Renal Cell Carcinoma</condition>
+  <condition>Recurrent Salivary Gland Carcinoma</condition>
+  <condition>Recurrent Small Cell Lung Carcinoma</condition>
+  <condition>Recurrent Small Lymphocytic Lymphoma</condition>
+  <condition>Recurrent Thyroid Gland Carcinoma</condition>
+  <condition>Refractory Chronic Lymphocytic Leukemia</condition>
+  <condition>Refractory Hairy Cell Leukemia</condition>
+  <condition>Regional Adrenal Gland Pheochromocytoma</condition>
+  <condition>Regional Digestive System Neuroendocrine Tumor G1</condition>
+  <condition>Small Intestinal Lymphoma</condition>
+  <condition>Somatostatin-Producing Neuroendocrine Tumor</condition>
+  <condition>Splenic Marginal Zone Lymphoma</condition>
+  <condition>Squamous Cell Carcinoma Metastatic in the Neck With Occult Primary</condition>
+  <condition>Stage III Adult Soft Tissue Sarcoma</condition>
+  <condition>Stage III Bladder Cancer</condition>
+  <condition>Stage III Hypopharyngeal Squamous Cell Carcinoma</condition>
+  <condition>Stage III Laryngeal Squamous Cell Carcinoma</condition>
+  <condition>Stage III Laryngeal Verrucous Carcinoma</condition>
+  <condition>Stage III Lip and Oral Cavity Squamous Cell Carcinoma</condition>
+  <condition>Stage III Lip Basal Cell Carcinoma</condition>
+  <condition>Stage III Major Salivary Gland Carcinoma</condition>
+  <condition>Stage III Merkel Cell Carcinoma</condition>
+  <condition>Stage III Nasal Cavity and Paranasal Sinus Squamous Cell Carcinoma</condition>
+  <condition>Stage III Nasal Type NK/T-Cell Lymphoma</condition>
+  <condition>Stage III Nasopharyngeal Keratinizing Squamous Cell Carcinoma</condition>
+  <condition>Stage III Nasopharyngeal Undifferentiated Carcinoma</condition>
+  <condition>Stage III Oral Cavity Adenoid Cystic Carcinoma</condition>
+  <condition>Stage III Oral Cavity Mucoepidermoid Carcinoma</condition>
+  <condition>Stage III Oral Cavity Verrucous Carcinoma</condition>
+  <condition>Stage III Oropharyngeal Squamous Cell Carcinoma</condition>
+  <condition>Stage III Oropharyngeal Undifferentiated Carcinoma</condition>
+  <condition>Stage III Pancreatic Cancer</condition>
+  <condition>Stage III Prostate Cancer</condition>
+  <condition>Stage III Renal Cell Cancer</condition>
+  <condition>Stage III Thyroid Gland Follicular Carcinoma</condition>
+  <condition>Stage III Thyroid Gland Papillary Carcinoma</condition>
+  <condition>Stage IIIA Breast Cancer</condition>
+  <condition>Stage IIIA Colon Cancer</condition>
+  <condition>Stage IIIA Non-Small Cell Lung Cancer</condition>
+  <condition>Stage IIIA Rectal Cancer</condition>
+  <condition>Stage IIIA Skin Melanoma</condition>
+  <condition>Stage IIIB Breast Cancer</condition>
+  <condition>Stage IIIB Colon Cancer</condition>
+  <condition>Stage IIIB Non-Small Cell Lung Cancer</condition>
+  <condition>Stage IIIB Rectal Cancer</condition>
+  <condition>Stage IIIB Skin Melanoma</condition>
+  <condition>Stage IIIC Breast Cancer</condition>
+  <condition>Stage IIIC Colon Cancer</condition>
+  <condition>Stage IIIC Rectal Cancer</condition>
+  <condition>Stage IIIC Skin Melanoma</condition>
+  <condition>Stage IV Adult Soft Tissue Sarcoma</condition>
+  <condition>Stage IV Bladder Cancer</condition>
+  <condition>Stage IV Breast Cancer</condition>
+  <condition>Stage IV Hypopharyngeal Squamous Cell Carcinoma</condition>
+  <condition>Stage IV Merkel Cell Carcinoma</condition>
+  <condition>Stage IV Nasal Type NK/T-Cell Lymphoma</condition>
+  <condition>Stage IV Nasopharyngeal Keratinizing Squamous Cell Carcinoma</condition>
+  <condition>Stage IV Nasopharyngeal Undifferentiated Carcinoma</condition>
+  <condition>Stage IV Non-Small Cell Lung Cancer</condition>
+  <condition>Stage IV Pancreatic Cancer</condition>
+  <condition>Stage IV Prostate Cancer</condition>
+  <condition>Stage IV Renal Cell Cancer</condition>
+  <condition>Stage IV Skin Melanoma</condition>
+  <condition>Stage IVA Basal Cell Lip Carcinoma</condition>
+  <condition>Stage IVA Colon Cancer</condition>
+  <condition>Stage IVA Laryngeal Squamous Cell Carcinoma</condition>
+  <condition>Stage IVA Laryngeal Verrucous Carcinoma</condition>
+  <condition>Stage IVA Lip and Oral Cavity Squamous Cell Carcinoma</condition>
+  <condition>Stage IVA Major Salivary Gland Carcinoma</condition>
+  <condition>Stage IVA Nasal Cavity and Paranasal Sinus Squamous Cell Carcinoma</condition>
+  <condition>Stage IVA Oral Cavity Adenoid Cystic Carcinoma</condition>
+  <condition>Stage IVA Oral Cavity Mucoepidermoid Carcinoma</condition>
+  <condition>Stage IVA Oral Cavity Verrucous Carcinoma</condition>
+  <condition>Stage IVA Oropharyngeal Squamous Cell Carcinoma</condition>
+  <condition>Stage IVA Oropharyngeal Undifferentiated Carcinoma</condition>
+  <condition>Stage IVA Rectal Cancer</condition>
+  <condition>Stage IVA Thyroid Gland Follicular Carcinoma</condition>
+  <condition>Stage IVA Thyroid Gland Papillary Carcinoma</condition>
+  <condition>Stage IVB Basal Cell Lip Carcinoma</condition>
+  <condition>Stage IVB Colon Cancer</condition>
+  <condition>Stage IVB Laryngeal Squamous Cell Carcinoma</condition>
+  <condition>Stage IVB Laryngeal Verrucous Carcinoma</condition>
+  <condition>Stage IVB Lip and Oral Cavity Squamous Cell Carcinoma</condition>
+  <condition>Stage IVB Major Salivary Gland Carcinoma</condition>
+  <condition>Stage IVB Nasal Cavity and Paranasal Sinus Squamous Cell Carcinoma</condition>
+  <condition>Stage IVB Oral Cavity Adenoid Cystic Carcinoma</condition>
+  <condition>Stage IVB Oral Cavity Mucoepidermoid Carcinoma</condition>
+  <condition>Stage IVB Oral Cavity Verrucous Carcinoma</condition>
+  <condition>Stage IVB Oropharyngeal Squamous Cell Carcinoma</condition>
+  <condition>Stage IVB Oropharyngeal Undifferentiated Carcinoma</condition>
+  <condition>Stage IVB Rectal Cancer</condition>
+  <condition>Stage IVB Thyroid Gland Follicular Carcinoma</condition>
+  <condition>Stage IVB Thyroid Gland Papillary Carcinoma</condition>
+  <condition>Stage IVC Basal Cell Lip Carcinoma</condition>
+  <condition>Stage IVC Laryngeal Squamous Cell Carcinoma</condition>
+  <condition>Stage IVC Laryngeal Verrucous Carcinoma</condition>
+  <condition>Stage IVC Lip and Oral Cavity Squamous Cell Carcinoma</condition>
+  <condition>Stage IVC Major Salivary Gland Carcinoma</condition>
+  <condition>Stage IVC Nasal Cavity and Paranasal Sinus Squamous Cell Carcinoma</condition>
+  <condition>Stage IVC Oral Cavity Adenoid Cystic Carcinoma</condition>
+  <condition>Stage IVC Oral Cavity Mucoepidermoid Carcinoma</condition>
+  <condition>Stage IVC Oral Cavity Verrucous Carcinoma</condition>
+  <condition>Stage IVC Oropharyngeal Squamous Cell Carcinoma</condition>
+  <condition>Stage IVC Oropharyngeal Undifferentiated Carcinoma</condition>
+  <condition>Stage IVC Thyroid Gland Follicular Carcinoma</condition>
+  <condition>Stage IVC Thyroid Gland Papillary Carcinoma</condition>
+  <condition>T-Cell Large Granular Lymphocyte Leukemia</condition>
+  <condition>Testicular Lymphoma</condition>
+  <condition>Thyroid Gland Medullary Carcinoma</condition>
+  <condition>Thyroid Gland Undifferentiated (Anaplastic) Carcinoma</condition>
+  <condition>Tongue Carcinoma</condition>
+  <condition>Waldenstrom Macroglobulinemia</condition>
+  <arm_group>
+    <arm_group_label>Treatment (romidepsin)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive romidepsin IV over 4 hours on days 1, 8, and 15. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Pharmacological Study</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (romidepsin)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Romidepsin</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (romidepsin)</arm_group_label>
+    <other_name>Antibiotic FR 901228</other_name>
+    <other_name>Depsipeptide</other_name>
+    <other_name>FK228</other_name>
+    <other_name>FR901228</other_name>
+    <other_name>Istodax</other_name>
+    <other_name>N-[(3S,4E)-3-Hydroxy-7-mercapto-1-oxo-4-heptenyl]-D-valyl-D-cysteinyl-(2Z)-2-amino-2-butenoyl-L-valine, (4-&gt;1) Lactone, Cyclic</other_name>
+    <other_name>ROMIDEPSIN</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have histologically or cytologically confirmed (at original diagnosis
+             or subsequent recurrence or progression) lymphoma, chronic lymphocytic lymphoma (CLL)
+             or solid tumor; patients with lymphoma or CLL must have radiologically or clinically
+             evaluable disease, and be refractory to standard therapy as defined by relapse within
+             6 months of last treatment (see note below); patients with solid tumors must have
+             radiologically or clinically evaluable disease that is metastatic, unresectable,
+             progressive, or recurrent, and for which standard curative measures do not exist or
+             are no longer effective
+
+               -  Patients with a liver mass, raised alpha-fetoprotein level (&gt;= 500 ng/mL) and
+                  positive serology for hepatitis, consistent with a diagnosis of hepatocellular
+                  carcinoma will be eligible without the need for pathologic confirmation of the
+                  diagnosis
+
+               -  Patients with prostate cancer, renal cell cancer, neuroendocrine tumors, lung
+                  cancer, colorectal cancers, soft tissue sarcomas, glioma and thyroid cancer are
+                  excluded in the normal and mild cohorts due to a lack of efficacy in these tumor
+                  types in phase 2 studies; patients with breast, pancreatic, bladder, head and
+                  neck cancers, as well as melanoma and other malignancies are eligible
+
+               -  Note: patients with prostate cancer, renal cell cancer, lung cancer, colorectal
+                  cancers, soft tissue sarcomas, glioma and thyroid cancer are allowed to enroll
+                  in the moderate and severe cohorts provided the patients:
+
+                    -  Sign a separate consent form which outlines the lack of efficacy observed
+                       in prior studies
+
+                    -  Are consented to the study by a protocol-specified designee who is not
+                       their longitudinal oncologist; patients with neuroendocrine tumors are
+                       still excluded from the moderate and severe cohorts
+
+               -  Note: as romidepsin is approved for patients with relapsed or refractory
+                  peripheral T-cell lymphoma (PTCL) or cutaneous T cell lymphoma (CTCL), these
+                  patients would be eligible WITHOUT the requirement of having 'relapsed within 6
+                  months of last treatment'
+
+          -  Life expectancy of &gt; 3 months
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status =&lt; 2 (Karnofsky &gt;= 60%)
+
+          -  Hemoglobin &gt;= 9 g/dL (transfusions and/or erythropoietin are permitted)
+
+          -  Absolute neutrophil count (ANC) &gt;= 1.5 x 10^9/L
+
+          -  Platelets &gt;= 100 x 10^9/L (or platelet count &gt;= 30 × 10^9 cells/L in patients with
+             lymphoma or CLL if bone marrow disease involvement is documented)
+
+          -  Creatinine =&lt; twice upper limit institutional normal
+
+          -  Patients with abnormal liver function will be eligible and will be grouped according
+             to the criteria below
+
+               -  Group A (normal hepatic function)
+
+                    -  Bilirubin =&lt; upper limit of normal (ULN) and aspartate aminotransferase
+                       (AST) =&lt; ULN
+
+               -  Group B (mild hepatic dysfunction)
+
+                    -  B1: bilirubin =&lt; ULN and AST &gt; ULN
+
+                    -  B2: bilirubin &gt; ULN but =&lt; 1.5 x ULN and any AST
+
+               -  Group C (moderate hepatic dysfunction)
+
+                    -  Bilirubin &gt; 1.5 x ULN to =&lt; 3 x ULN and any AST
+
+               -  Group D (severe hepatic dysfunction)
+
+                    -  Bilirubin &gt; 3 x ULN and up to investigators discretion and any AST
+
+               -  Patients with active hemolysis should be excluded; no distinction will be made
+                  between liver dysfunction due to metastases and liver dysfunction due to other
+                  causes; registration laboratory investigations will be used to assign a patient
+                  to a hepatic function group; liver function tests should be repeated within 24
+                  hours prior to starting initial therapy and may result in the patients' group
+                  assignment being altered if different to registration test results
+
+          -  Patients with brain metastases who require corticosteroids or non-enzyme inducing
+             anticonvulsants must be on a stable dose of corticosteroids and seizure free for 1
+             month prior to enrollment; patients with known brain metastases should have completed
+             brain irradiation (whole brain or gamma knife) more than 4 weeks before starting the
+             protocol; patients on enzyme inducing anticonvulsants are not eligible; note that
+             patients should have had their steroids tapered to low dose (i.e. &lt; 1.5 mg of
+             dexamethasone/day) due to the potential for higher dexamethasone doses to induce
+             cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP3A4)
+
+          -  Patients with biliary obstruction for which a stent has been placed are eligible,
+             provided the shunt has been in place for at least 10 days prior to the first dose of
+             romidepsin and the liver function has stabilized; two measurements at least 2 days
+             apart that put the patient in the same hepatic dysfunction stratum will be accepted
+             as evidence of stable hepatic function; there should be no evidence of biliary sepsis
+
+          -  Eligibility of patients receiving any medications or substances known to affect or
+             with the potential to affect the activity or PK of romidepsin will be determined
+             following review of their case by the site principal investigator
+
+               -  Patients treated with any of the medications prohibited must discontinue their
+                  use at least 7 days prior to the first dose of romidepsin; certain other agents
+                  that interact with the CYP3A4 system may be used with caution
+
+          -  Women of childbearing potential and men must agree to use adequate contraception
+             (hormonal or barrier method of birth control; abstinence) prior to study entry and
+             for the duration of study participation; should a woman become pregnant or suspect
+             she is pregnant while participating in this study, she should inform her treating
+             physician immediately; note: since romidepsin binds to the estrogen receptor, the
+             effectiveness of estrogen containing contraceptives may be reduced
+
+          -  Human immunodeficiency virus (HIV)-positive patients who are not receiving: agents
+             with the potential for PK interactions with romidepsin or hepatotoxic antiretrovirals
+             (nucleoside reverse-transcriptase inhibitors [NRTIs]: abacavir, didanosine,
+             emtricitabine, lamivudine, stavudine, and zidovudine), dual protease inhibitor
+             (PI)-based regimens except low-dose boosting with ritonavir, atazanavir, indinavir,
+             maraviroc, and nevirapine may be eligible; additionally, the HIV-positive patients
+             should have a cluster of differentiation (CD)4 count &gt; 250/mm^3; if the specific
+             cause of hepatic dysfunction is unknown, the patient should be worked up for other
+             viral causes of hepatitis and their eligibility determined after consultation with
+             the principal investigator
+
+          -  Patients who have received prior romidepsin use are eligible
+
+          -  Ability to understand and the willingness to sign a written informed consent document
+
+        Exclusion Criteria:
+
+          -  Patients who have had (prior to entering the study): major surgery is not permitted
+             within 4 weeks of romidepsin administration; anti-cancer therapy including
+             chemotherapy, radiotherapy, hormonal (with the exception of hormones for thyroid
+             conditions), and other investigational agents will not be allowed within 14 days or
+             five (5) half-lives (whichever is longer) prior to the first dose of romidepsin (6
+             weeks for nitrosoureas or mitomycin C); additionally, participants must have
+             recovered to less than grade 2 clinically significant adverse effect(s)/toxicity(ies)
+             of the previous therapy, with the exception of alopecia, unless approved by the
+             principal investigator; biologics or immunotherapy will not be allowed within 28 days
+             prior to, or during, romidepsin administration
+
+          -  Patients with prostate cancer, renal cell cancer, neuroendocrine tumors, lung cancer,
+             colorectal cancers, soft tissue sarcomas, glioma, and thyroid cancer are excluded in
+             the normal and mild cohorts due to a lack of efficacy in these tumor types in phase 2
+             studies; patients with prostate cancer, renal cell cancer, lung cancer, colorectal
+             cancers, soft tissue sarcomas, glioma and thyroid cancer are allowed to enroll in the
+             moderate and severe cohorts only; patients with neuroendocrine tumors are still
+             excluded from the moderate and severe cohorts
+
+          -  Patients may not be receiving any other investigational agents
+
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic
+             composition to romidepsin, including cyclic tetrapeptide compounds
+
+          -  Concurrent medications associated with a risk of corrected QT interval (QTc)
+             prolongation and/or Torsades de Pointes are not allowed within 2 weeks of initiation
+             of study treatment; those medications as reported but lacking substantial evidence
+             for causing QTc prolongation and Torsades de Pointes will be allowed, although if an
+             alternative medication can be substituted, that would be preferable
+
+          -  Thiazolidinedione agents such as rosiglitazone and pioglitazone are not permitted
+
+          -  Uncontrolled intercurrent illness including, but not limited to ongoing or active
+             infection, or psychiatric illness/social situations that would limit compliance with
+             study requirements
+
+          -  Patients with current evidence of significant cardiovascular disease (New York Heart
+             Association class III or IV cardiac disease), symptomatic congestive heart failure,
+             dilated/hypertrophic or restrictive cardiomyopathy, myocardial infarction (within the
+             past 6 months), unstable angina, unstable arrhythmia or a need for anti-arrhythmic
+             therapy (use of medications for rate control for atrial fibrillation is allowed such
+             as calcium channel blockers and beta-blockers, if stable medication for at least last
+             month prior to initiation of romidepsin treatment and medication not listed as
+             causing Torsades de Pointes), or evidence of acute ischemia on electrocardiogram
+             (ECG); marked baseline prolongation of QT/QTc interval, e.g., repeated demonstration
+             of a QTc interval &gt; 450 msec*; long QT syndrome; the required use of concomitant
+             medication that may cause Torsades de Pointes or may cause a significant prolongation
+             of the QTc
+
+               -  Note: due to difficulties assessing QTc in patients with heart block, they may
+                  be eligible if deemed safe by a cardiologist
+
+          -  Pregnant women are excluded from this study; breastfeeding should be discontinued if
+             the mother is treated with this drug
+
+          -  Warfarin is not permitted
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Roisin Connolly</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University/Sidney Kimmel Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope Comprehensive Cancer Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vincent Chung</last_name>
+      <phone>800-826-4673</phone>
+      <email>becomingapatient@coh.org</email>
+    </contact>
+    <investigator>
+      <last_name>Vincent Chung</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Davis Comprehensive Cancer Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karen L. Kelly</last_name>
+      <phone>916-734-3089</phone>
+    </contact>
+    <investigator>
+      <last_name>Karen L. Kelly</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>City of Hope South Pasadena</name>
+      <address>
+        <city>South Pasadena</city>
+        <state>California</state>
+        <zip>91030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephen C. Koehler</last_name>
+      <phone>626-396-2900</phone>
+      <email>skoehler@cohmg.com</email>
+    </contact>
+    <investigator>
+      <last_name>Stephen C. Koehler</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University/Sidney Kimmel Cancer Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roisin M. Connolly</last_name>
+      <phone>410-955-8804</phone>
+      <email>jhcccro@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Roisin M. Connolly</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mark O Hatfield-Warren Grant Magnuson Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Institute Developmental Therapeutics Clinic</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shivaani Kummar</last_name>
+      <phone>800-411-1222</phone>
+    </contact>
+    <investigator>
+      <last_name>Shivaani Kummar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Institutes of Health</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne State University/Karmanos Cancer Institute</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ulka N. Vaishampayan</last_name>
+      <phone>313-576-9363</phone>
+    </contact>
+    <investigator>
+      <last_name>Ulka N. Vaishampayan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul Haluska</last_name>
+      <phone>507-284-2511</phone>
+      <email>haluska.paul@mayo.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Paul Haluska</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Case Western Reserve University</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Afshin Dowlati</last_name>
+      <phone>800-641-2422</phone>
+    </contact>
+    <investigator>
+      <last_name>Afshin Dowlati</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State Milton S Hershey Medical Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033-0850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chandra P. Belani</last_name>
+      <phone>717-531-3779</phone>
+      <email>CTO@hmc.psu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Chandra P. Belani</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Hospital and Clinics</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roisin M. Connolly</last_name>
+      <phone>410-614-9217</phone>
+      <email>rconnol2@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Roisin M. Connolly</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Health Network-Princess Margaret Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lillian L. Siu</last_name>
+      <phone>416-946-2911</phone>
+      <email>lillian.siu@uhn.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Lillian L. Siu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>February 2015</verification_date>
+  <lastchanged_date>May 11, 2015</lastchanged_date>
+  <firstreceived_date>July 9, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adenocarcinoma, Follicular</mesh_term>
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Astrocytoma</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Breast Neoplasms, Male</mesh_term>
+    <mesh_term>Burkitt Lymphoma</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Adenoid Cystic</mesh_term>
+    <mesh_term>Carcinoma, Basal Cell</mesh_term>
+    <mesh_term>Carcinoma, Islet Cell</mesh_term>
+    <mesh_term>Carcinoma, Medullary</mesh_term>
+    <mesh_term>Carcinoma, Merkel Cell</mesh_term>
+    <mesh_term>Carcinoma, Mucoepidermoid</mesh_term>
+    <mesh_term>Carcinoma, Neuroendocrine</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Carcinoma, Papillary</mesh_term>
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+    <mesh_term>Carcinoma, Squamous Cell</mesh_term>
+    <mesh_term>Carcinoma, Verrucous</mesh_term>
+    <mesh_term>Ependymoma</mesh_term>
+    <mesh_term>Esthesioneuroblastoma, Olfactory</mesh_term>
+    <mesh_term>Gastrinoma</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Gliosarcoma</mesh_term>
+    <mesh_term>Glucagonoma</mesh_term>
+    <mesh_term>Hodgkin Disease</mesh_term>
+    <mesh_term>Immunoblastic Lymphadenopathy</mesh_term>
+    <mesh_term>Insulinoma</mesh_term>
+    <mesh_term>Intraocular Lymphoma</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Leukemia, Hairy Cell</mesh_term>
+    <mesh_term>Leukemia, Large Granular Lymphocytic</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Leukemia, T-Cell</mesh_term>
+    <mesh_term>Leukemia-Lymphoma, Adult T-Cell</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, AIDS-Related</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, B-Cell, Marginal Zone</mesh_term>
+    <mesh_term>Lymphoma, Extranodal NK-T-Cell</mesh_term>
+    <mesh_term>Lymphoma, Follicular</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+    <mesh_term>Lymphoma, Large-Cell, Anaplastic</mesh_term>
+    <mesh_term>Lymphoma, Large-Cell, Immunoblastic</mesh_term>
+    <mesh_term>Lymphoma, Mantle-Cell</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, T-Cell</mesh_term>
+    <mesh_term>Lymphoma, T-Cell, Cutaneous</mesh_term>
+    <mesh_term>Lymphoma, T-Cell, Peripheral</mesh_term>
+    <mesh_term>Lymphomatoid Granulomatosis</mesh_term>
+    <mesh_term>Melanoma</mesh_term>
+    <mesh_term>Mycosis Fungoides</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neuroblastoma</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+    <mesh_term>Oligodendroglioma</mesh_term>
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+    <mesh_term>Papilloma</mesh_term>
+    <mesh_term>Papilloma, Inverted</mesh_term>
+    <mesh_term>Paraganglioma</mesh_term>
+    <mesh_term>Paraganglioma, Extra-Adrenal</mesh_term>
+    <mesh_term>Pheochromocytoma</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+    <mesh_term>Rectal Neoplasms</mesh_term>
+    <mesh_term>Salivary Gland Neoplasms</mesh_term>
+    <mesh_term>Sarcoma</mesh_term>
+    <mesh_term>Sezary Syndrome</mesh_term>
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+    <mesh_term>Somatostatinoma</mesh_term>
+    <mesh_term>Thyroid Diseases</mesh_term>
+    <mesh_term>Thyroid Neoplasms</mesh_term>
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+    <mesh_term>Waldenstrom Macroglobulinemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Romidepsin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="583">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT02347917</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D8807005</org_study_id>
+    <nct_id>NCT02347917</nct_id>
+  </id_info>
+  <brief_title>A Study of BBI608 in Combination With Pemetrexed and Cisplatin in Adult Patients With Malignant Pleural Mesothelioma</brief_title>
+  <official_title>A Phase I/II Clinical Study of BBI608 in Combination With Pemetrexed and Cisplatin in Adult Patients With Malignant Pleural Mesothelioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sumitomo Dainippon Pharma Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sumitomo Dainippon Pharma Co., Ltd.</source>
+  <oversight_info>
+    <authority>Japan: Pharmaceuticals and Medical Devices Agency</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label, multicenter, phase 1/2 study of BBI608 in combination with pemetrexed
+      and cisplatin chemotherapy as a 1st line treatment for Malignant Pleural Mesothelioma (MPM).
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>February 2015</start_date>
+  <primary_completion_date type="Anticipated">May 2016</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Phase1: Assessment of safety of BBI608 given in combination with Pemetrexed and Cisplatin by reporting the adverse events and serious adverse events.</measure>
+    <time_frame>17months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase1: Assessment of dose-limiting toxicities (DLTs).</measure>
+    <time_frame>23days</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase1: Pharmacokinetics profile of BBI608 when administered with pemetrexed and cisplatin.</measure>
+    <time_frame>On day 1 of the first cycle: prior to BBI608 dosing and 2,4,6,8,10,12,24 hours after the first dose, :on day 3 of the first cycle prior to BBI608 dosing,12 and 24 hours after first dose, before pemetrexed dosing, after pemetrexed dosing, before cisplatin</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase2: Progression Free Survival (PFS)</measure>
+    <time_frame>17months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase1: Anti-tumor activity</measure>
+    <time_frame>17months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase1: Progression Free Survival(PFS)</measure>
+    <time_frame>17months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase1: Overall Survival(OS)</measure>
+    <time_frame>17months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase2: Overall Survival (OS)</measure>
+    <time_frame>17months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase2: Response Rate(RR)</measure>
+    <time_frame>17months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase2: Disease Control Rate(DCR)</measure>
+    <time_frame>17months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase2: Vital Capacity(VC)</measure>
+    <time_frame>17months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase2: Forced vital capacity(FVC)</measure>
+    <time_frame>17months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase2: Forced Expiratory Volume in 1st second(FEV1)</measure>
+    <time_frame>17months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase2: Safety by reporting the adverse events and serious adverse events.</measure>
+    <time_frame>17months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">26</enrollment>
+  <condition>Malignant Pleural Mesothelioma</condition>
+  <condition>Non-Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>BBI608 puls pemetrexed and cisplatin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BBI608</intervention_name>
+    <description>480 mg orally twice daily (960 mg total daily dose)</description>
+    <arm_group_label>BBI608 puls pemetrexed and cisplatin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pemetrexed</intervention_name>
+    <description>500 mg/m2 I.V. infusion on Day 1 of each treatment cycle (except for cycle 1, in which Pemetrexed will be given on Day 3).</description>
+    <arm_group_label>BBI608 puls pemetrexed and cisplatin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <description>75 mg/m2 I.V. infusion on Day 1 of each treatment cycle (except for Cycle 1, in which Cisplatin will be given on Day 3).</description>
+    <arm_group_label>BBI608 puls pemetrexed and cisplatin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Phase 1
+
+        Inclusion Criteria:
+
+          -  Histologically confirmed diagnosis of Malignant Pleural Mesothelioma (MPM) or
+             Non-Small Cell Lung Cancer (NSCLC).
+
+          -  Measurable disease as defined by the modified Response Evaluation Criteria in Solid
+             Tumors (mRECIST) for MPM or the RECIST 1.1 for NSCLC.
+
+          -  ≥ 20 years of age.
+
+          -  Provision of written informed consent.
+
+          -  For male or female patient of child producing potential: Must agree to use
+             contraception or take measures to avoid pregnancy during the study and for 30 days
+             after the last protocol treatment dose.
+
+          -  Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.
+
+          -  Hemoglobin (Hb) ≥ 9.0 g/dL.
+
+          -  Neutrophils ≥ 1500/μL.
+
+          -  Platelets ≥ 100,000/μL.
+
+          -  Aspartate transaminase (AST) and alanine transaminase (ALT) ≤ 2.5-fold the upper
+             limit of normal range (ULN) [≤ 5-fold ULN with any liver metastasis].
+
+          -  Total bilirubin ≤ 1.5-fold ULN.
+
+          -  Creatinine clearance (estimated value) ≥ 60 mL/min.
+
+          -  Life expectancy ≥ 3 months.
+
+          -  Females of childbearing potential have a negative urine pregnancy test.
+
+        Phase 2
+
+        Inclusion Criteria:
+
+          -  Histologically confirmed diagnosis of MPM.
+
+          -  Treatment naïve and not indicated for resection.
+
+          -  Measurable disease as defined by the modified RECIST.
+
+          -  ≥ 20 years of age.
+
+          -  Provision of written informed consent.
+
+          -  For male or female patient of child producing potential: Must agree to use
+             contraception or take measures to avoid pregnancy during the study and for 30 days
+             after the last protocol treatment dose.
+
+          -  ECOG Performance Status of 0 or 1.
+
+          -  Hb ≥ 9.0 g/dL.
+
+          -  Neutrophils ≥ 1500/μL.
+
+          -  Platelets ≥ 100,000/μL.
+
+          -  AST and ALT ≤ 2.5-fold ULN [≤ 5-fold ULN for patients with any liver metastasis].
+
+          -  Total bilirubin ≤ 1.5-fold ULN.
+
+          -  Creatinine clearance (estimated value) &gt; 60 mL/min.
+
+          -  Life expectancy ≥ 3 months.
+
+          -  Females of childbearing potential have a negative urine pregnancy test.
+
+        Both Phase 1 and 2
+
+        Exclusion Criteria:
+
+          -  Prior anti-cancer chemotherapy and radiotherapy.
+
+          -  Prior hormonal therapy, immunotherapy, thermotherapy, operation.
+
+          -  Any brain metastasis requiring treatment or symptomatic.
+
+          -  Active multiple primary cancers.
+
+          -  Crohn's disease, ulcerative colitis, small intestine resection.
+
+          -  Abnormal ECGs.
+
+          -  Prior myocardial infarction.
+
+          -  Current use of antiarrhythmic medication.
+
+          -  Uncontrolled concurrent diseases.
+
+          -  Known severe hypersensitivity to pemetrexed, cisplatin or other drugs containing
+             platinum.
+
+          -  Women who are pregnant or breastfeeding.
+
+          -  Received other investigational drugs.
+
+          -  Unable or unwilling to swallow BBI608 capsules daily.
+
+          -  Prior treatment with BBI608.
+
+          -  Ineligible for participation in the study in the opinion of the Investigators.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sumitomo Dainippon Pharma Co., Ltd.</last_name>
+    <email>pr@ds-pharma.co.jp</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>National Cancer Center Hospital East</name>
+      <address>
+        <city>Chiba</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center Hospital</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <verification_date>February 2015</verification_date>
+  <lastchanged_date>February 15, 2015</lastchanged_date>
+  <firstreceived_date>January 21, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Pemetrexed</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="599">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00985946</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2010-0050 (CO08209)</org_study_id>
+    <secondary_id>CLBH589BUS38T</secondary_id>
+    <nct_id>NCT00985946</nct_id>
+  </id_info>
+  <brief_title>Study of Panobinostat in Patients With Neuroendocrine Tumors</brief_title>
+  <official_title>A Phase II Trial of Panobinostat in Patients With Neuroendocrine Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Wisconsin, Madison</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Wisconsin, Madison</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This summary will use Panobinostat (LBH589) in patients with neuroendocrine tumors to see
+      how the patient's tumor responds to panobinostat. Additionally, this study will examine how
+      long it takes neuroendocrine tumor patient's cancer to progress while taking the drug and
+      examine the overall survival of patients using panobinostat. Also, the study will examine
+      the toxicity and tolerability of panobinostat in the patient population. Finally, this study
+      will look at the effect of panobinostat on Notch 1 signaling before and after treatment with
+      panobinostat.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>May 2010</start_date>
+  <completion_date type="Anticipated">October 2014</completion_date>
+  <primary_completion_date type="Anticipated">October 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>This study will measure the tumor response rate of patients with gastrointestinal neuroendocrine tumors using Response Evaluation Criteria in Solid Tumors (RECIST) criteria.</measure>
+    <time_frame>every 8 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the toxicity an tolerability of panobinostat in the patient population</measure>
+    <time_frame>on a daily basis</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the time to progression and the overall survival of patients with gastrointestinal neuroendocrine tumors treated with panobinostat</measure>
+    <time_frame>on a daily basis</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Delineate the expression of Notch 1 in neuroendocrine tumor samples before and during treatment with panobinostat</measure>
+    <time_frame>prior to treatment and prior to Cycle 3 of treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">15</enrollment>
+  <condition>Neuroendocrine Tumors</condition>
+  <arm_group>
+    <arm_group_label>panobinostat</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is a single arm trial. All patients will take panobinostat</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>panobinostat (LBH589)</intervention_name>
+    <description>Panobinostat will be taken once daily at 20 mg three times a week (every Monday, Wednesday, Friday). It will be taken as long as patients are benefiting from treatment.</description>
+    <arm_group_label>panobinostat</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically confirmed, metastatic, low grade neuroendocrine neoplasms. Small cell
+             lung cancers, paragangliomas, and pheochromocytomas are excluded
+
+          -  Must have measurable disease as defined by RECIST
+
+          -  4 weeks from completion of major surgery, chemotherapy, or other systemic therapy or
+             local liver therapy to study registration. Concurrent octreotide is allowed.
+
+          -  Not allowed to be on concurrent chemotherapy or radiation
+
+          -  18 years of age or older
+
+          -  ECOG Performance status of equal to or less than 2
+
+          -  Able to sign and date a written informed consent prior to participation in the study
+
+          -  Baseline MUGA or ECHO must demonstrate LVEF greater than or equal to the lower limit
+             of the institutional normal
+
+          -  Must have the following laboratory criteria: Neutrophil count greater than 1500/mm3,
+             platelet count greater than 100,000/mm3L, hemoglobin greater than or equal to 9 g/dL,
+             AST/SGOT and ALT/SGPT less than or equal to 2.5 x ULN, serum bilirubin less than or
+             equal to 1.5 x ULN, serum creatinine less than or equal to 1.5 x ULN, total serum
+             calcium greater than or equal to LLN, serum potassium greater than or equal to LLN,
+             serum sodium greater than or equal to LLN, serum albumin greater than or equal to LLN
+             or 3g/dl,
+
+          -  Women of child bearing potential must have a negative urine pregnancy test within 72
+             hours of first administration of study treatment and must be willing to use two
+             methods of contraception
+
+          -  Patients with a history of hypertension must be well controlled (to less than 150/90
+             mmHg) on a stable regimen of anti-hypertensive therapy
+
+        Exclusion Criteria:
+
+          -  Prior HDAC, DAC, HSP90 inhibitors or valproic acid for the treatment of cancer
+
+          -  Patients who will need valproic acid for any medical condition during the study or
+             within 5 days prior to the first panobinostat treatment
+
+          -  Impaired cardiac function including any of the following: Screening ECG with a QTc
+             greater than 450 msec, patients with congenital long QT syndrome, history of
+             unsustained ventricular tachycardia, any history of ventricular fibrillation or
+             torsades de pointes, bradycardia defined as heart rate less than 50 beats per
+             minutes, patients with a myocardial infarction or unstable angina within 6 months of
+             study entry, congestive heart failure, right bundle branch block or left anterior
+             hemiblock
+
+          -  Uncontrolled hypertension
+
+          -  Unresolved diarrhea greater than CTCAE grade 1
+
+          -  Impairment of gastrointestinal (GI) function or GI disease that may significantly
+             alter the absorption of oral panobinostat
+
+          -  Other concurrent sever and/or uncontrolled medical conditions
+
+          -  Patients with a history of another primary malignancy that, in the opinion of the
+             investigator, would interfere with the assessment of the primary endpoint of the
+             study
+
+          -  Patients with known positivity for human immunodeficiency virus (HIV) or hepatitis C,
+             baseline testing is not required
+
+          -  Any significant history of non-compliance to medical regimens or with inability to
+             grant a reliable informed consent
+
+          -  Any medication which may cause QTc prolongation or inducing torsades de pointes
+
+          -  Use of concomitant medications that may interact with panobinostat
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Noelle LoConte, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Wisconsin, Madison</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Wisconsin, Madison</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2014</verification_date>
+  <lastchanged_date>February 21, 2014</lastchanged_date>
+  <firstreceived_date>September 25, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Panobinostat</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

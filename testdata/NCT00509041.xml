@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="387">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00509041</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000558362</org_study_id>
+    <secondary_id>U10CA031946</secondary_id>
+    <secondary_id>CALGB-30601</secondary_id>
+    <nct_id>NCT00509041</nct_id>
+  </id_info>
+  <brief_title>Dasatinib in Treating Patients With Previously Treated Malignant Mesothelioma</brief_title>
+  <official_title>A Phase II Study of Dasatinib (NSC #732517) in Patients With Previously Treated Malignant Mesothelioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cancer and Leukemia Group B</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Alliance for Clinical Trials in Oncology</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Dasatinib may stop the growth of tumor cells by blocking some of the enzymes
+      needed for cell growth.
+
+      PURPOSE: This phase II trial is studying how well dasatinib works in treating patients with
+      previously treated malignant mesothelioma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  To determine the rate of progression-free survival (PFS) at 24 weeks (or 5.5 months) in
+           patients with malignant mesothelioma treated with dasatinib.
+
+      Secondary
+
+        -  To determine the response rate (partial response [PR] and complete response [CR]) in
+           patients with malignant mesothelioma treated with dasatinib.
+
+        -  To determine the response duration in patients with malignant mesothelioma treated with
+           dasatinib.
+
+        -  To describe the overall survival (OS) of patients with malignant mesothelioma treated
+           with dasatinib.
+
+        -  To describe the toxicity profile of dasatinib in patients with malignant mesothelioma.
+
+        -  To determine whether the amount of expression of EphA2 and PDGFRβ, as measured by
+           immunohistochemistry from tumor specimens, correlates with PFS in patients with
+           malignant mesothelioma.
+
+        -  To determine whether plasma levels of VEGF and PDGFRβ, serum levels of CSF-1, and
+           soluble mesothelin-related protein correlate with PFS in patients with malignant
+           mesothelioma.
+
+        -  To determine whether inhibition of Src phosphorylation in PBMC correlates with PFS.
+
+        -  To assess inhibition of phosphorylation of Src, EphA2, and PDGFRβ in tumor tissue by
+           dasatinib.
+
+      OUTLINE: Patients receive oral dasatinib twice daily on days 1-28. Treatment repeats every
+      28 days in the absence of disease progression or unacceptable toxicity.
+
+      Patients undergo tumor tissue and blood sample collection periodically for correlative
+      studies. Tumor tissue samples are analyzed for EphA2 and PDGFRβ expression by
+      immunohistochemistry. Tumor tissue samples may also be analyzed for phosphorylation of Src,
+      EphA2, and PDGFRβ by western blot. Blood samples are analyzed for concentration of VEGF and
+      PDGF by quantitative sandwich enzyme immunoassay technique; mesothelin-related protein level
+      by Mesomark® assay; CSF-1 level by ELISA assay; and phosphorylation of Src by phospho-Src
+      (pTyr418) human ELISA.
+
+      After completion of study treatment, patients are followed at least every 2 months for 1
+      year, then every 4 months for 1 year, then every 6 months for 1 year.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2007</start_date>
+  <completion_date type="Actual">December 2012</completion_date>
+  <primary_completion_date type="Actual">February 2010</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>24 Week Progression Free Survival</measure>
+    <time_frame>24 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage of participants who were alive and progression free at 24 weeks.  The 24 week progression free survival, with 95% confidence interval, was estimated using the Kaplan Meier method.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Overall Tumor Response</measure>
+    <time_frame>Duration of study until progression (up to 3 years)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Response was defined using Response Evaluation Criteria In Solid Tumors (RECIST) criteria:
+Complete Response (CR): disappearance of all target lesions;
+Partial Response (PR) 30% decrease in sum of longest diameter of target lesions;
+Progressive Disease (PD): 20% increase in sum of longest diameter of target lesions;
+Stable Disease (SD): small changes that do not meet above criteria.
+Overall tumor response is the total number of CR and PRs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>Time from registration to death (up to 3 years)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Overall survival (OS) was defined as the time from registration to death of any cause.  Surviving patients were censored at the date of last follow-up.  The median OS with 95% CI was estimated using the Kaplan Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival</measure>
+    <time_frame>Time from registration to progression or death (up to 3 years)</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Progression free survival (PFS) was defined as the time from registration to progression or death of any cause.  Progression free and alive patients were censored at the date of last follow-up.  The median PFS with 95% CI was estimated using the Kaplan Meier method.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">46</enrollment>
+  <condition>Malignant Mesothelioma</condition>
+  <arm_group>
+    <arm_group_label>Dasatinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Use of dasatinib in treatment of pts with previously treated malignant mesothelioma</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>dasatinib</intervention_name>
+    <description>50 mg PO bid</description>
+    <arm_group_label>Dasatinib</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Histologically confirmed malignant mesothelioma of any of the following subtypes:
+
+               -  Epithelial
+
+               -  Sarcomatoid
+
+               -  Mixed
+
+          -  Any site of origin of malignant mesothelioma allowed including, but not limited to,
+             any of the following:
+
+               -  Pleura
+
+               -  Peritoneum
+
+               -  Pericardium
+
+               -  Tunica vaginalis
+
+          -  Pathology blocks or slides from a core surgical biopsy must be available
+
+          -  Not amenable to curative surgery
+
+          -  Measurable disease, defined as lesions that can be accurately measured in at least
+             one dimension (longest diameter to be recorded) as ≥ 20 mm with conventional
+             techniques (CT scan , MRI, or x-ray) or as ≥ 10 mm with spiral CT scan
+
+               -  Patients with pleural rind only disease must have at least one level with one
+                  rind measurement ≥ 1.5 cm
+
+               -  Lesions that are considered nonmeasurable include the following:
+
+                    -  Bone lesions
+
+                    -  Leptomeningeal disease
+
+                    -  Ascites
+
+                    -  Pleural/pericardial effusion
+
+                    -  Lymphangitis cutis/pulmonis
+
+                    -  Abdominal masses that are not confirmed and followed by imaging techniques
+
+                    -  Cystic lesions
+
+          -  Prior treatment with one and only one systemic chemotherapy regimen, which must have
+             included pemetrexed disodium required
+
+               -  Treatment may have been with pemetrexed disodium alone or in combination with
+                  any other agent
+
+          -  No symptomatic pleural effusions, unless the patient undergoes a therapeutic
+             thoracentesis
+
+               -  Patients with pleural effusions who have had a pleurodesis are eligible
+
+          -  No known brain metastases
+
+          -  May be registered on CALGB-150707 companion study
+
+        PATIENT CHARACTERISTICS:
+
+          -  ECOG performance status 0-1
+
+          -  Granulocytes ≥ 1,500/μL
+
+          -  Platelet count ≥ 100,000/μL
+
+          -  Total bilirubin ≤ 2 x upper limit of normal (ULN)
+
+          -  AST (SGOT) ≤ 2.5 x ULN
+
+          -  Creatinine clearance ≥ 60 mL/min
+
+          -  INR &lt; 1.5
+
+          -  PTT &lt; 40 seconds
+
+          -  QTc &lt; 450 msec
+
+          -  Not pregnant or nursing
+
+          -  Fertile patients must use effective contraception
+
+          -  No significant cardiac disease, including any of the following:
+
+               -  New York Heart Association (NYHA) class III-IV congestive heart failure (CHF)
+
+               -  Unstable angina
+
+               -  Myocardial infarction or ventricular tachyarrhythmia within 6 months of study
+                  entry
+
+               -  Ejection fraction less than institutional normal (in patients with a history of
+                  CHF or currently with NYHA class I or II CHF)
+
+               -  Prolonged QTc &gt; 450 msec (Fridericia correction)
+
+               -  Major conduction abnormality, unless a cardiac pacemaker is present
+
+               -  Hypokalemia or hypomagnesemia that cannot be corrected
+
+          -  No history of significant bleeding disorder unrelated to cancer, including any of the
+             following:
+
+               -  Congenital bleeding disorder (e.g., von Willebrand disease)
+
+               -  Acquired bleeding disorder within the past year (e.g., acquired anti-factor VIII
+                  antibodies)
+
+               -  Ongoing or recent (≤ 3 months) significant GI bleeding or hemoptysis
+
+          -  No requirement for supplemental oxygen (i.e., pulse oximetry &lt; 89% at rest)
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  At least 4 weeks since prior pemetrexed disodium-containing chemotherapy
+
+          -  At least 4 weeks since prior major surgery
+
+          -  At least 4 weeks since prior radiation therapy
+
+               -  Measurable disease must be outside the radiation port
+
+          -  Prior intracavitary cytotoxic or sclerosing therapy (including bleomycin) allowed
+
+               -  Intrapleural cytotoxic chemotherapy will not be considered systemic chemotherapy
+
+          -  At least 7 days since prior and no concurrent antithrombotic or anti-platelet agents,
+             including any of the following:
+
+               -  Aspirin or aspirin-containing combinations
+
+               -  Clopidogrel
+
+               -  Dipyridamole
+
+               -  Tirofiban
+
+               -  Epoprostenol
+
+               -  Eptifibatide
+
+               -  Cilostazol
+
+               -  Abciximab
+
+               -  Ticlopidine
+
+               -  Warfarin
+
+                    -  Low-dose warfarin for prophylaxis to prevent catheter thrombosis allowed
+
+               -  Heparin or low molecular weight heparin
+
+                    -  Heparin for IV line flush allowed
+
+          -  At least 7 days since prior and no concurrent use of the following drugs:
+
+               -  Itraconazole
+
+               -  Ketoconazole (at doses &gt; 200 mg/day)
+
+               -  Miconazole
+
+               -  Voriconazole
+
+               -  Telithromycin
+
+               -  Primidone
+
+               -  Rifabutin
+
+               -  Rifampin
+
+               -  St. John's wort
+
+               -  Carbamazepine
+
+               -  Oxcarbazepine
+
+               -  Rifapentine
+
+               -  Phenobarbital
+
+               -  Phenytoin
+
+               -  Quinidine
+
+               -  Procainamide
+
+               -  Disopyramide
+
+               -  Amiodarone
+
+               -  Sotalol
+
+               -  Ibutilide
+
+               -  Dofetilide
+
+               -  Erythromycin
+
+               -  Clarithromycin
+
+               -  Chlorpromazine
+
+               -  Haloperidol
+
+               -  Mesoridazine
+
+               -  Thioridazine
+
+               -  Pimozide
+
+               -  Bepridil
+
+               -  Droperidol
+
+               -  Halofantrine
+
+               -  Levomethadyl
+
+               -  Sparfloxacin
+
+          -  No concurrent H2 blockers or proton pump inhibitors
+
+          -  No bisphosphonate therapy during the first 8 weeks of study treatment
+
+          -  No concurrent hormones or other chemotherapeutic agents except for steroids
+             administered for dasatinib-related pleural effusion or hormones administered for
+             non-disease-related conditions (e.g., insulin for diabetes)
+
+          -  No concurrent palliative radiation therapy
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Arkadiusz Dudek, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Masonic Cancer Center, University of Minnesota</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Rebecca and John Moores UCSD Cancer Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093-0658</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Helen Diller Family Comprehensive Cancer Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tunnell Cancer Center at Beebe Medical Center</name>
+      <address>
+        <city>Lewes</city>
+        <state>Delaware</state>
+        <zip>19958</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CCOP - Christiana Care Health Services</name>
+      <address>
+        <city>Newark</city>
+        <state>Delaware</state>
+        <zip>19713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lombardi Comprehensive Cancer Center at Georgetown University Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Hospital Cancer Institute at Florida Hospital Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803-1273</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Curtis and Elizabeth Anderson Cancer Institute at Memorial Health University Medical Center</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31403-3089</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Cancer Research Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637-1470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Elkhart General Hospital</name>
+      <address>
+        <city>Elkhart</city>
+        <state>Indiana</state>
+        <zip>46515</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fort Wayne Medical Oncology and Hematology</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46845</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Howard Community Hospital</name>
+      <address>
+        <city>Kokomo</city>
+        <state>Indiana</state>
+        <zip>46904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Cancer Therapy at LaPorte Hospital and Health Services</name>
+      <address>
+        <city>La Porte</city>
+        <state>Indiana</state>
+        <zip>46350</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CCOP - Northern Indiana CR Consortium</name>
+      <address>
+        <city>South Bend</city>
+        <state>Indiana</state>
+        <zip>46601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hospital of South Bend</name>
+      <address>
+        <city>South Bend</city>
+        <state>Indiana</state>
+        <zip>46601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Joseph Regional Medical Center</name>
+      <address>
+        <city>South Bend</city>
+        <state>Indiana</state>
+        <zip>46617</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>South Bend Clinic</name>
+      <address>
+        <city>South Bend</city>
+        <state>Indiana</state>
+        <zip>46617</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harry &amp; Jeanette Weinberg Cancer Institute at Franklin Square Hospital Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21237</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Union Hospital Cancer Program at Union Hospital</name>
+      <address>
+        <city>Elkton MD</city>
+        <state>Maryland</state>
+        <zip>21921</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber/Harvard Cancer Center at Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lakeland Regional Cancer Care Center - St. Joseph</name>
+      <address>
+        <city>St. Joseph</city>
+        <state>Michigan</state>
+        <zip>49085</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Masonic Cancer Center at University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arch Medical Services, Incorporated at Center for Cancer Care and Research</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Missouri Baptist Cancer Center</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Estabrook Cancer Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Institute of New Jersey at Cooper - Voorhees</name>
+      <address>
+        <city>Voorhees</city>
+        <state>New Jersey</state>
+        <zip>08043</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical University Hospital</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Comprehensive Cancer Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne Memorial Hospital, Incorporated</name>
+      <address>
+        <city>Goldsboro</city>
+        <state>North Carolina</state>
+        <zip>27534</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kinston Medical Specialists</name>
+      <address>
+        <city>Kinston</city>
+        <state>North Carolina</state>
+        <zip>28501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Iredell Memorial Hospital</name>
+      <address>
+        <city>Statesville</city>
+        <state>North Carolina</state>
+        <zip>28677</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University Comprehensive Cancer Center</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157-1096</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arthur G. James Cancer Hospital and Solove Research Institute at Ohio State University Medical Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210-1240</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CCOP - Greenville</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mountainview Medical</name>
+      <address>
+        <city>Berlin</city>
+        <state>Vermont</state>
+        <zip>05602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fletcher Allen Health Care - University Health Center Campus</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Danville Regional Medical Center</name>
+      <address>
+        <city>Danville</city>
+        <state>Virginia</state>
+        <zip>24541</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/CALGB-30601</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <results_reference>
+    <citation>Dudek A, Pang H, Kratzke RA, et al.: CALGB 30601: A phase II study of dasatinib (D) in patients (pts) with previously treated malignant mesothelioma (MM). [Abstract] J Clin Oncol 28 (Suppl 15) A-7037, 2010.</citation>
+  </results_reference>
+  <verification_date>April 2013</verification_date>
+  <lastchanged_date>April 29, 2013</lastchanged_date>
+  <firstreceived_date>July 30, 2007</firstreceived_date>
+  <firstreceived_results_date>December 11, 2012</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>advanced malignant mesothelioma</keyword>
+  <keyword>epithelial mesothelioma</keyword>
+  <keyword>recurrent malignant mesothelioma</keyword>
+  <keyword>sarcomatous mesothelioma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dasatinib</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

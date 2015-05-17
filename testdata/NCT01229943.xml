@@ -1,0 +1,4830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="54">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01229943</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2011-02609</org_study_id>
+    <secondary_id>NCI-2011-02609</secondary_id>
+    <secondary_id>CDR0000687459</secondary_id>
+    <secondary_id>CALGB-80701</secondary_id>
+    <secondary_id>CALGB 80701</secondary_id>
+    <secondary_id>CALGB-80701</secondary_id>
+    <secondary_id>U10CA180821</secondary_id>
+    <secondary_id>U10CA031946</secondary_id>
+    <nct_id>NCT01229943</nct_id>
+  </id_info>
+  <brief_title>Everolimus and Octreotide Acetate With or Without Bevacizumab in Treating Patients With Locally Advanced or Metastatic Pancreatic Neuroendocrine Tumors That Cannot Be Removed by Surgery</brief_title>
+  <official_title>Randomized Phase II Study of Everolimus Alone Versus Everolimus Plus Bevacizumab in Patients With Locally Advanced or Metastatic Pancreatic Neuroendocrine Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized phase II trial studies how well everolimus and octreotide acetate with or
+      without bevacizumab works in treating patients with pancreatic neuroendocrine tumors that
+      cannot be removed by surgery and have spread nearby or to other places in the body.
+      Everolimus may stop the growth of tumor cells by blocking some of the enzymes needed for
+      cell growth. Octreotide acetate may interfere with and slow the growth of tumor cells.
+      Monoclonal antibodies, such as bevacizumab, may interfere with the ability of tumor cells to
+      grow and spread. Bevacizumab and everolimus also may stop the growth of pancreatic
+      neuroendocrine tumors by blocking blood flow to the tumor. It is not yet known whether
+      giving everolimus and octreotide acetate together is more effective with or without
+      bevacizumab in treating pancreatic neuroendocrine tumors.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      l. To assess the progression-free survival (PFS) rate of patients with locally advanced or
+      metastatic pancreatic neuroendocrine tumors treated with everolimus alone or everolimus plus
+      bevacizumab.
+
+      SECONDARY OBJECTIVES:
+
+      I. To compare PFS among treatment arms shown to be efficacious. II. To estimate the overall
+      tumor response rate in patients with metastatic pancreatic neuroendocrine tumors treated
+      with one of two novel regimens.
+
+      III. To estimate the overall biochemical response rate (as measured by plasma chromogranin A
+      levels) in patients with metastatic pancreatic neuroendocrine tumors treated with these
+      regimens.
+
+      IV. To assess the toxicity of each regimen in patients with metastatic pancreatic
+      neuroendocrine tumors.
+
+      V. To assess the overall survival of patients with pancreatic neuroendocrine tumors treated
+      with these regimens.
+
+      OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+      ARM I: Patients receive everolimus orally (PO) once daily (QD) on days 1-28 and octreotide
+      acetate intramuscularly (IM) on day 1.
+
+      ARM II: Patients receive everolimus and octreotide acetate as in Arm I. Patients also
+      receive bevacizumab intravenously (IV) over 30-90 minutes on days 1 and 15.
+
+      In both arms, courses repeat every 28 days in the absence of disease progression or
+      unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up every 3-6 months for 3 years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>October 2010</start_date>
+  <primary_completion_date type="Actual">December 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Progression Free Survival</measure>
+    <time_frame>From study entry to the date of documented progression or death from any cause, up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Progression Free Survival (PFS) was defined as the time from study entry until disease progression or death, whichever occurs first. The median PFS was estimated using the Kaplan-Meier method. Progression was assessed per RECIST criteria, and defined as at least a 20% increase in the sum of the longest diameters of target lesions (and an absolute increase of at least 0.5 cm) or the appearance of new lesions.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The proportion of patients who respond (completely or partially) to each combination regimen will be estimated. Response was defined using Response Evaluation Criteria In Solid Tumors (RECIST) criteria: Complete Response (CR): disappearance of all target lesions; Partial Response (PR) 30% decrease in sum of longest diameter of target lesions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>From registration to time of death, assessed up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Overall survival (OS) is defined as the time from study entry to death from any cause. The median OS was estimated using the Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">150</enrollment>
+  <condition>Gastrin-Producing Neuroendocrine Tumor</condition>
+  <condition>Malignant Pancreatic Gastrinoma</condition>
+  <condition>Malignant Pancreatic Glucagonoma</condition>
+  <condition>Malignant Pancreatic Insulinoma</condition>
+  <condition>Malignant Pancreatic Somatostatinoma</condition>
+  <condition>Pancreatic Alpha Cell Adenoma</condition>
+  <condition>Pancreatic Beta Cell Adenoma</condition>
+  <condition>Pancreatic Delta Cell Adenoma</condition>
+  <condition>Pancreatic G-Cell Adenoma</condition>
+  <condition>Pancreatic Glucagonoma</condition>
+  <condition>Pancreatic Insulinoma</condition>
+  <condition>Pancreatic Polypeptide Tumor</condition>
+  <condition>Recurrent Pancreatic Carcinoma</condition>
+  <condition>Recurrent Pancreatic Neuroendocrine Carcinoma</condition>
+  <condition>Somatostatin-Producing Neuroendocrine Tumor</condition>
+  <condition>Stage III Pancreatic Cancer</condition>
+  <condition>Stage IV Pancreatic Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm I (octreotide acetate and everolimus)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive 28-day cycles until progression or unacceptable toxicity consisting of: everolimus 10 mg PO QD on days 1-28 and octreotide acetate 20 mg IM on day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (octreotide acetate, everolimus, and bevacizumab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive 28-day cycles until progression or unacceptable toxicity consisting of: everolimus 10 mg PO QD on days 1-28, octreotide acetate 20 mg IM on day 1 and bevacizumab 10 mg/kg IV on days 1 and 15.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Bevacizumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm II (octreotide acetate, everolimus, and bevacizumab)</arm_group_label>
+    <other_name>Anti-VEGF</other_name>
+    <other_name>Anti-VEGF Humanized Monoclonal Antibody</other_name>
+    <other_name>Anti-VEGF rhuMAb</other_name>
+    <other_name>Avastin</other_name>
+    <other_name>BEVACIZUMAB</other_name>
+    <other_name>Bevacizumab Biosimilar BEVZ92</other_name>
+    <other_name>Bevacizumab Biosimilar BI 695502</other_name>
+    <other_name>Immunoglobulin G1 (Human-Mouse Monoclonal rhuMab-VEGF Gamma-Chain Anti-Human Vascular Endothelial Growth Factor), Disulfide With Human-Mouse Monoclonal rhuMab-VEGF Light Chain, Dimer</other_name>
+    <other_name>Recombinant Humanized Anti-VEGF Monoclonal Antibody</other_name>
+    <other_name>rhuMab-VEGF</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Everolimus</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm I (octreotide acetate and everolimus)</arm_group_label>
+    <arm_group_label>Arm II (octreotide acetate, everolimus, and bevacizumab)</arm_group_label>
+    <other_name>42-O-(2-Hydroxy)ethyl Rapamycin</other_name>
+    <other_name>Afinitor</other_name>
+    <other_name>Certican</other_name>
+    <other_name>EVEROLIMUS</other_name>
+    <other_name>RAD 001</other_name>
+    <other_name>RAD001</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Octreotide Acetate</intervention_name>
+    <description>Given IM</description>
+    <arm_group_label>Arm I (octreotide acetate and everolimus)</arm_group_label>
+    <arm_group_label>Arm II (octreotide acetate, everolimus, and bevacizumab)</arm_group_label>
+    <other_name>D-Phenylalanyl-L-cysteinyl-L-phenylalanyl-D-tryptophyl-L-lysyl-L-threonyl-N-[(1R,2R)-2-hydroxy-1-(hyroxymethyl)propyl]-L-cysteinamide, Cyclic (2-&gt;7)-disulfide, Acetate (Salt)</other_name>
+    <other_name>Longastatin</other_name>
+    <other_name>Longastatina</other_name>
+    <other_name>OCTREOTIDE ACETATE</other_name>
+    <other_name>Samilstin</other_name>
+    <other_name>Sandostatin</other_name>
+    <other_name>Sandostatin Lar Depot</other_name>
+    <other_name>Sandostatina</other_name>
+    <other_name>Sandostatine</other_name>
+    <other_name>SMS 201-995</other_name>
+    <other_name>SMS 201-995 AC</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have histologic documentation of well-differentiated or moderately
+             differentiated neuroendocrine tumor from either a primary or metastatic site
+
+               -  If different histologic classification schemes are used, equivalent histologic
+                  classifications (for example &quot;grade 1&quot;, &quot;low-grade&quot;, or &quot;intermediate-grade&quot;)
+                  are allowed
+
+               -  Patients with poorly differentiated neuroendocrine carcinoma or small cell
+                  carcinoma are excluded
+
+               -  Documentation from a metastatic disease site is sufficient if there is clinical
+                  evidence of a pancreatic primary site
+
+          -  Locally unresectable or metastatic disease
+
+          -  Patients must have either histologic documentation of a pancreatic primary site, or
+             clinical evidence of a pancreatic neuroendocrine primary tumor as determined by the
+             treating physician
+
+               -  Patients with neuroendocrine tumors (e.g., gastrinoma, VIPoma) in whom a
+                  pancreatic or peripancreatic primary site is strongly suspected are also
+                  eligible
+
+          -  Patients must have evidence of disease (measurable or non-measurable) with evidence
+             of progression within the past 12 months
+
+          -  Measurable disease:
+
+        Lesions that can be accurately measured in at least one dimension (longest diameter to be
+        recorded) as &gt;= 2 cm with conventional techniques or as &gt;= 1 cm with spiral computed
+        tomography (CT) scan
+
+          -  Non-measurable disease:
+
+        All other lesions, including small lesions (longest diameter &lt; 20 mm with conventional
+        techniques or &lt; 10 mm with spiral CT scan) and truly non-measurable lesions; lesions that
+        are considered non-measurable include the following:
+
+          -  Bone lesions
+
+          -  Leptomeningeal disease
+
+          -  Ascites
+
+          -  Pleural/pericardial effusion
+
+          -  Inflammatory breast disease
+
+          -  Lymphangitis cutis/pulmonis
+
+          -  Abdominal masses that are not confirmed and followed by imaging techniques
+
+          -  Cystic lesions
+
+               -  No prior treatment with bevacizumab, everolimus, or other mammalian target of
+                  rapamycin (mTOR) inhibitors
+
+               -  Other prior treatments, including but not limited to prior cytotoxic
+                  chemotherapy, alpha interferon, tyrosine kinase inhibitors, external beam
+                  radiation therapy, and radiopeptide therapy are allowed
+
+          -  There is no limit on the number of prior treatment regimens
+
+          -  Any prior treatment (with the exception of octreotide) must be completed at least 4
+             weeks prior to initiation of treatment
+
+               -  Prior treatment with embolization or ablative therapies is allowed if measurable
+                  disease remains outside of the treated area
+
+          -  There is no limit on the prior number of procedures
+
+               -  Treatment with somatostatin analogs is a requirement of the study
+
+          -  Patients receiving octreotide at the time of study entry may continue at the same
+             dose level for the duration of the study
+
+          -  Patients not receiving octreotide will initiate treatment according to study
+             guidelines
+
+          -  Prior progression on somatostatin analogs or a negative octreotide scan does not
+             exclude patient participation in this study
+
+               -  Patients should have completed any major surgery &gt;= 4 weeks from start of
+                  treatment
+
+          -  Patients must have completed any minor surgery &gt;= 2 weeks prior to start of treatment
+
+          -  Patients must have fully recovered from the procedure
+
+          -  Insertion of a vascular access device is not considered major or minor surgery
+
+               -  Patients should not receive immunization with attenuated live vaccines within
+                  one week prior to registration or during protocol therapy
+
+               -  No concurrent condition resulting in immune compromise, including chronic
+                  treatment with corticosteroids or other immuno suppressive agents
+
+               -  No active or severe liver disease (e.g., acute or chronic hepatitis, cirrhosis);
+                  no positive anti-hepatitis B (HBV); HBV seropositive patients (hepatitis B
+                  surface antigen [HBsAg] positive) are eligible if they are closely monitored for
+                  evidence of active HBV infection by HBV deoxyribonucleic acid (DNA) testing, and
+                  they agree to receive suppressive therapy with lamivudine or other
+                  HBV-suppressive therapy until at least 4 weeks after the last dose of
+                  everolimus; patients who are hepatitis C antibody positive are eligible provided
+                  that hepatitis C viral load (hepatitis C ribonucleic acid [RNA]) is undetectable
+
+               -  No clinical evidence of brain metastases or carcinomatous meningitis
+
+               -  No history of gastrointestinal (GI) perforation within 12 months prior to
+                  registration
+
+               -  No history of clinically significant bleeding episodes
+
+               -  Patients on therapeutic anticoagulation are eligible for the study provided that
+                  they are on a stable dose of anticoagulants
+
+               -  No uncontrolled diabetes mellitus
+
+               -  Patients with a history of severely impaired lung function as defined as
+                  spirometry and diffusing capacity of the lung for carbon monoxide (DLCO) that is
+                  50% of the normal predicted value and/or oxygen (O2) saturation that is 88% or
+                  less at rest on room air are excluded
+
+               -  Patients with fasting serum cholesterol &gt;= 300 mg/dL OR &gt;= 7.75 mmol/L AND
+                  fasting triglycerides &gt;= 2.5 X upper limit of normal (ULN) should initiate
+                  lipid-lowering medications with the goal of achieving levels below these
+                  thresholds
+
+               -  No history of intolerance or allergies to octreotide
+
+               -  Patients with a history of hypertension must be adequately controlled (baseline
+                  blood pressure [BP] &lt; 150/90 mm Hg) on antihypertensives
+
+               -  No current congestive heart failure (New York Heart Association class II, III,
+                  or IV)
+
+               -  No symptomatic arterial peripheral vascular disease
+
+               -  No history of aortic aneurysm, aortic dissection, angina, myocardial infarction,
+                  stroke, or other arterial thrombotic events within 6 months of registration
+
+               -  Eastern Cooperative Oncology Group (ECOG) performance status 0-1
+
+               -  Women must not be pregnant or lactating; both men and women of childbearing
+                  potential must be advised of the importance of using effective birth control
+                  measures during the course of the study
+
+               -  Granulocytes &gt;= 1,500/uL
+
+               -  Platelets &gt;= 100,000/uL
+
+               -  Creatinine =&lt; 1.5 x upper limit of normal
+
+               -  Bilirubin =&lt; 1.5 x upper limit of normal
+
+               -  Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) =&lt; 2.5 x
+                  upper limit of normal (=&lt; 5 x upper limit of normal if liver metastases present)
+
+               -  Urine protein =&lt; 1+ OR urine creatinine ratio =&lt; 1 (by urinalysis)
+
+          -  If urine protein creatinine (UPC) ratio is &gt; 1 on urinalysis, then 24-hour urine
+             collection for protein must be obtained and level must be &lt; 1,000 mg for patient
+             enrollment
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthew Kulke</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Alliance for Clinical Trials in Oncology</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Providence Hospital</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Anaheim Medical Center</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Deer Valley Medical Center</name>
+      <address>
+        <city>Antioch</city>
+        <state>California</state>
+        <zip>94531</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Medical Group - Baldwin Park</name>
+      <address>
+        <city>Baldwin Park</city>
+        <state>California</state>
+        <zip>91706</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Foundation Hospital</name>
+      <address>
+        <city>Bellflower</city>
+        <state>California</state>
+        <zip>90706</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alta Bates Summit Medical Center-Herrick Campus</name>
+      <address>
+        <city>Berkeley</city>
+        <state>California</state>
+        <zip>94704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mills - Peninsula Hospitals</name>
+      <address>
+        <city>Burlingame</city>
+        <state>California</state>
+        <zip>94010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Hospital</name>
+      <address>
+        <city>Fontana</city>
+        <state>California</state>
+        <zip>92335</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente, Fremont</name>
+      <address>
+        <city>Fremont</city>
+        <state>California</state>
+        <zip>94538</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente - Harbor City</name>
+      <address>
+        <city>Harbor City</city>
+        <state>California</state>
+        <zip>90710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southern California Permanente Medical Group</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92618</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Los Angeles Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-West Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sutter Cancer Research Consortium</name>
+      <address>
+        <city>Novato</city>
+        <state>California</state>
+        <zip>94945</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Oakland</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente - Panorama City</name>
+      <address>
+        <city>Panorama City</city>
+        <state>California</state>
+        <zip>91402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Redwood City</name>
+      <address>
+        <city>Redwood City</city>
+        <state>California</state>
+        <zip>94063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Richmond</name>
+      <address>
+        <city>Richmond</city>
+        <state>California</state>
+        <zip>94801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Medical Center</name>
+      <address>
+        <city>Riverside</city>
+        <state>California</state>
+        <zip>92505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Roseville</name>
+      <address>
+        <city>Roseville</city>
+        <state>California</state>
+        <zip>95661</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente - Sacramento</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95825</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-South Sacramento</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95823</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente at San Diego</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Mission</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>California Pacific Medical Center-Pacific Campus</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Medical Center-Mount Zion</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Santa Teresa-San Jose</name>
+      <address>
+        <city>San Jose</city>
+        <state>California</state>
+        <zip>95119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente San Leandro</name>
+      <address>
+        <city>San Leandro</city>
+        <state>California</state>
+        <zip>94577</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Health Care</name>
+      <address>
+        <city>San Marcos</city>
+        <state>California</state>
+        <zip>92069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-San Rafael</name>
+      <address>
+        <city>San Rafael</city>
+        <state>California</state>
+        <zip>94903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Medical Center - Santa Clara</name>
+      <address>
+        <city>Santa Clara</city>
+        <state>California</state>
+        <zip>95051</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Santa Rosa</name>
+      <address>
+        <city>Santa Rosa</city>
+        <state>California</state>
+        <zip>95403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sutter Pacific Medical Foundation</name>
+      <address>
+        <city>Santa Rosa</city>
+        <state>California</state>
+        <zip>95403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-South San Francisco</name>
+      <address>
+        <city>South San Francisco</city>
+        <state>California</state>
+        <zip>94080</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University Hospitals and Clinics</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Stockton</name>
+      <address>
+        <city>Stockton</city>
+        <state>California</state>
+        <zip>95210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Medical Center-Vacaville</name>
+      <address>
+        <city>Vacaville</city>
+        <state>California</state>
+        <zip>95688</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Vallejo</name>
+      <address>
+        <city>Vallejo</city>
+        <state>California</state>
+        <zip>94589</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sutter Solano Medical Center/Cancer Center</name>
+      <address>
+        <city>Vallejo</city>
+        <state>California</state>
+        <zip>94589</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-Walnut Creek</name>
+      <address>
+        <city>Walnut Creek</city>
+        <state>California</state>
+        <zip>94596</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente</name>
+      <address>
+        <city>Woodland Hills</city>
+        <state>California</state>
+        <zip>91367</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Medical Center of Aurora</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boulder Community Hospital</name>
+      <address>
+        <city>Boulder</city>
+        <state>Colorado</state>
+        <zip>80301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penrose-Saint Francis Healthcare</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Colorado Cancer Research Program CCOP</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80224-2522</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Exempla Saint Joseph Hospital</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Porter Adventist Hospital</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Presbyterian - Saint Lukes Medical Center - Health One</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rose Medical Center</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Medical Center</name>
+      <address>
+        <city>Englewood</city>
+        <state>Colorado</state>
+        <zip>80113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Mary's Hospital and Regional Medical Center</name>
+      <address>
+        <city>Grand Junction</city>
+        <state>Colorado</state>
+        <zip>81502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Colorado Medical Center</name>
+      <address>
+        <city>Greeley</city>
+        <state>Colorado</state>
+        <zip>80631</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Anthony Hospital</name>
+      <address>
+        <city>Lakewood</city>
+        <state>Colorado</state>
+        <zip>80228</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Littleton Adventist Hospital</name>
+      <address>
+        <city>Littleton</city>
+        <state>Colorado</state>
+        <zip>80122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sky Ridge Medical Center</name>
+      <address>
+        <city>Lone Tree</city>
+        <state>Colorado</state>
+        <zip>80124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Longmont United Hospital</name>
+      <address>
+        <city>Longmont</city>
+        <state>Colorado</state>
+        <zip>80501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McKee Medical Center</name>
+      <address>
+        <city>Loveland</city>
+        <state>Colorado</state>
+        <zip>80539</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Parker Adventist Hospital</name>
+      <address>
+        <city>Parker</city>
+        <state>Colorado</state>
+        <zip>80138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Mary Corwin Medical Center</name>
+      <address>
+        <city>Pueblo</city>
+        <state>Colorado</state>
+        <zip>81004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Suburban Medical Center</name>
+      <address>
+        <city>Thornton</city>
+        <state>Colorado</state>
+        <zip>80229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Exempla Lutheran Medical Center</name>
+      <address>
+        <city>Wheat Ridge</city>
+        <state>Colorado</state>
+        <zip>80033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Francis Hospital and Medical Center</name>
+      <address>
+        <city>Hartford</city>
+        <state>Connecticut</state>
+        <zip>06105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Hospital of Central Connecticut</name>
+      <address>
+        <city>New Britain</city>
+        <state>Connecticut</state>
+        <zip>06050</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beebe Medical Center</name>
+      <address>
+        <city>Lewes</city>
+        <state>Delaware</state>
+        <zip>19958</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Christiana Care Health System-Christiana Hospital</name>
+      <address>
+        <city>Newark</city>
+        <state>Delaware</state>
+        <zip>19718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lombardi Comprehensive Cancer Center at Georgetown University</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington Hospital Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lakeland Regional Cancer Center</name>
+      <address>
+        <city>Lakeland</city>
+        <state>Florida</state>
+        <zip>33805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Hospital Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgia Regents University Medical Center</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pali Momi Medical Center</name>
+      <address>
+        <city>Aiea</city>
+        <state>Hawaii</state>
+        <zip>96701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Moanalua Medical Center</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96819</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kapiolani Medical Center for Women and Children</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96826</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oncare Hawaii Inc-Kuakini</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oncare Hawaii Inc-POB II</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OnCare Hawaii-Liliha</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96817-3169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Queen's Medical Center</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Straub Clinic and Hospital</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Cancer Center of Hawaii-Liliha</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Hawaii Cancer Center</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Castle Medical Center</name>
+      <address>
+        <city>Kailua</city>
+        <state>Hawaii</state>
+        <zip>96734</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wilcox Memorial Hospital and Kauai Medical Clinic</name>
+      <address>
+        <city>Lihue</city>
+        <state>Hawaii</state>
+        <zip>96766</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maui Memorial Medical Center</name>
+      <address>
+        <city>Wailuku</city>
+        <state>Hawaii</state>
+        <zip>96793</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Cancer Institute of Maui</name>
+      <address>
+        <city>Wailuku</city>
+        <state>Hawaii</state>
+        <zip>96793</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Alphonsus Cancer Care Center-Boise</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <zip>83706</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology and Oncology Associates</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Comprehensive Cancer Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advocate Sherman Hospital</name>
+      <address>
+        <city>Elgin</city>
+        <state>Illinois</state>
+        <zip>60123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Oncology Associates of Illinois-Highland Park</name>
+      <address>
+        <city>Highland Park</city>
+        <state>Illinois</state>
+        <zip>60035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Presence Saint Mary's Hospital</name>
+      <address>
+        <city>Kankakee</city>
+        <state>Illinois</state>
+        <zip>60901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Adventist La Grange Memorial Hospital</name>
+      <address>
+        <city>La Grange</city>
+        <state>Illinois</state>
+        <zip>60525</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore Hematology Oncology</name>
+      <address>
+        <city>Libertyville</city>
+        <state>Illinois</state>
+        <zip>60048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Loyola University Medical Center</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Garneau, Stewart C MD (UIA Investigator)</name>
+      <address>
+        <city>Moline</city>
+        <state>Illinois</state>
+        <zip>61265</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Porubcin, Michael MD (UIA Investigator)</name>
+      <address>
+        <city>Moline</city>
+        <state>Illinois</state>
+        <zip>61265</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spector, David MD (UIA Investigator)</name>
+      <address>
+        <city>Moline</city>
+        <state>Illinois</state>
+        <zip>61265</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Trinity Medical Center</name>
+      <address>
+        <city>Moline</city>
+        <state>Illinois</state>
+        <zip>61265</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Illinois Cancer Specialists-Niles</name>
+      <address>
+        <city>Niles</city>
+        <state>Illinois</state>
+        <zip>60714</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish American Hospital</name>
+      <address>
+        <city>Rockford</city>
+        <state>Illinois</state>
+        <zip>61104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Oncology Associates of Illinois - Skokie</name>
+      <address>
+        <city>Skokie</city>
+        <state>Illinois</state>
+        <zip>60076</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Francis Hospital and Health Centers</name>
+      <address>
+        <city>Beech Grove</city>
+        <state>Indiana</state>
+        <zip>46107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University/Melvin and Bren Simon Cancer Center</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sidney and Lois Eskenazi Hospital</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Reid Hospital and Health Care Services</name>
+      <address>
+        <city>Richmond</city>
+        <state>Indiana</state>
+        <zip>47374</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McFarland Clinic PC-William R Bliss Cancer Center</name>
+      <address>
+        <city>Ames</city>
+        <state>Iowa</state>
+        <zip>50010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Constantinou, Costas L MD (UIA Investigator)</name>
+      <address>
+        <city>Bettendorf</city>
+        <state>Iowa</state>
+        <zip>52722</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology and Hematology Associates-West Des Moines</name>
+      <address>
+        <city>Clive</city>
+        <state>Iowa</state>
+        <zip>50325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Cancer Center-West Lakes</name>
+      <address>
+        <city>Clive</city>
+        <state>Iowa</state>
+        <zip>50325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Iowa Lutheran Hospital</name>
+      <address>
+        <city>Des Moines</city>
+        <state>Iowa</state>
+        <zip>50316</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Iowa Methodist Medical Center</name>
+      <address>
+        <city>Des Moines</city>
+        <state>Iowa</state>
+        <zip>50309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Iowa Oncology Research Association CCOP</name>
+      <address>
+        <city>Des Moines</city>
+        <state>Iowa</state>
+        <zip>50309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology and Hematology Associates-Des Moines</name>
+      <address>
+        <city>Des Moines</city>
+        <state>Iowa</state>
+        <zip>50309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology and Hematology Associates-Laurel</name>
+      <address>
+        <city>Des Moines</city>
+        <state>Iowa</state>
+        <zip>50314</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Medical Center - Des Moines</name>
+      <address>
+        <city>Des Moines</city>
+        <state>Iowa</state>
+        <zip>50314</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa Hospitals and Clinics</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ottumwa Regional Health Center</name>
+      <address>
+        <city>Ottumwa</city>
+        <state>Iowa</state>
+        <zip>52501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Medical Center-Sioux City</name>
+      <address>
+        <city>Sioux City</city>
+        <state>Iowa</state>
+        <zip>51104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Regional Medical Center</name>
+      <address>
+        <city>Sioux City</city>
+        <state>Iowa</state>
+        <zip>51104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Siouxland Hematology Oncology Associates</name>
+      <address>
+        <city>Sioux City</city>
+        <state>Iowa</state>
+        <zip>51101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Medical Center-West Lakes</name>
+      <address>
+        <city>West Des Moines</city>
+        <state>Iowa</state>
+        <zip>50266</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist West Hospital</name>
+      <address>
+        <city>West Des Moines</city>
+        <state>Iowa</state>
+        <zip>50266-7700</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas - Chanute</name>
+      <address>
+        <city>Chanute</city>
+        <state>Kansas</state>
+        <zip>66720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas - Dodge City</name>
+      <address>
+        <city>Dodge City</city>
+        <state>Kansas</state>
+        <zip>67801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas - El Dorado</name>
+      <address>
+        <city>El Dorado</city>
+        <state>Kansas</state>
+        <zip>67042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas - Fort Scott</name>
+      <address>
+        <city>Fort Scott</city>
+        <state>Kansas</state>
+        <zip>66701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas-Independence</name>
+      <address>
+        <city>Independence</city>
+        <state>Kansas</state>
+        <zip>67301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas-Kingman</name>
+      <address>
+        <city>Kingman</city>
+        <state>Kansas</state>
+        <zip>67068</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lawrence Memorial Hospital</name>
+      <address>
+        <city>Lawrence</city>
+        <state>Kansas</state>
+        <zip>66044</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas-Liberal</name>
+      <address>
+        <city>Liberal</city>
+        <state>Kansas</state>
+        <zip>67901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas - McPherson</name>
+      <address>
+        <city>McPherson</city>
+        <state>Kansas</state>
+        <zip>67460</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas - Newton</name>
+      <address>
+        <city>Newton</city>
+        <state>Kansas</state>
+        <zip>67114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Menorah Medical Center</name>
+      <address>
+        <city>Overland Park</city>
+        <state>Kansas</state>
+        <zip>66209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's South Hospital</name>
+      <address>
+        <city>Overland Park</city>
+        <state>Kansas</state>
+        <zip>66213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas - Parsons</name>
+      <address>
+        <city>Parsons</city>
+        <state>Kansas</state>
+        <zip>67357</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kansas City CCOP</name>
+      <address>
+        <city>Prairie Village</city>
+        <state>Kansas</state>
+        <zip>66208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas - Pratt</name>
+      <address>
+        <city>Pratt</city>
+        <state>Kansas</state>
+        <zip>67124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas - Salina</name>
+      <address>
+        <city>Salina</city>
+        <state>Kansas</state>
+        <zip>67401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stormont-Vail Regional Health Center</name>
+      <address>
+        <city>Topeka</city>
+        <state>Kansas</state>
+        <zip>66604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas - Wellington</name>
+      <address>
+        <city>Wellington</city>
+        <state>Kansas</state>
+        <zip>67152</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Associates In Womens Health</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas - Main Office</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas-Wichita Medical Arts Tower</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Via Christi Regional Medical Center</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wichita CCOP</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Kansas - Winfield</name>
+      <address>
+        <city>Winfield</city>
+        <state>Kansas</state>
+        <zip>67156</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Health Center-Summa</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Health Center-Covington</name>
+      <address>
+        <city>Covington</city>
+        <state>Louisiana</state>
+        <zip>70433</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Baptist Medical Center</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Clinic CCOP</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Medical Center Jefferson</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Union Hospital of Cecil County</name>
+      <address>
+        <city>Elkton MD</city>
+        <state>Maryland</state>
+        <zip>21921</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital Cancer Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bixby Medical Center</name>
+      <address>
+        <city>Adrian</city>
+        <state>Michigan</state>
+        <zip>49221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hickman Cancer Center</name>
+      <address>
+        <city>Adrian</city>
+        <state>Michigan</state>
+        <zip>49221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Michigan Cancer Research Consortium Community Clinical Oncology Program</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Joseph Mercy Hospital</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48106-0995</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronson Battle Creek</name>
+      <address>
+        <city>Battle Creek</city>
+        <state>Michigan</state>
+        <zip>49017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health Big Rapids Hospital</name>
+      <address>
+        <city>Big Rapids</city>
+        <state>Michigan</state>
+        <zip>49307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oakwood Hospital and Medical Center</name>
+      <address>
+        <city>Dearborn</city>
+        <state>Michigan</state>
+        <zip>48124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint John Hospital and Medical Center</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48236</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology - Escanaba</name>
+      <address>
+        <city>Escanaba</city>
+        <state>Michigan</state>
+        <zip>49431</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Genesys Regional Medical Center-West Flint Campus</name>
+      <address>
+        <city>Flint</city>
+        <state>Michigan</state>
+        <zip>48532</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hurley Medical Center</name>
+      <address>
+        <city>Flint</city>
+        <state>Michigan</state>
+        <zip>48502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Genesys Regional Medical Center</name>
+      <address>
+        <city>Grand Blanc</city>
+        <state>Michigan</state>
+        <zip>48439</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grand Rapids Clinical Oncology Program</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Health Saint Mary's</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health at Butterworth Campus</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology - Iron Mountain</name>
+      <address>
+        <city>Iron Mountain</city>
+        <state>Michigan</state>
+        <zip>49801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Allegiance Health</name>
+      <address>
+        <city>Jackson</city>
+        <state>Michigan</state>
+        <zip>49201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Borgess Medical Center</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronson Methodist Hospital</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West Michigan Cancer Center</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sparrow Hospital</name>
+      <address>
+        <city>Lansing</city>
+        <state>Michigan</state>
+        <zip>48912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Mary Mercy Hospital</name>
+      <address>
+        <city>Livonia</city>
+        <state>Michigan</state>
+        <zip>48154</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Community Cancer Center of Monroe</name>
+      <address>
+        <city>Monroe</city>
+        <state>Michigan</state>
+        <zip>48162</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Memorial Hospital</name>
+      <address>
+        <city>Monroe</city>
+        <state>Michigan</state>
+        <zip>48162</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Health Mercy Campus</name>
+      <address>
+        <city>Muskegon</city>
+        <state>Michigan</state>
+        <zip>49444</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Joseph Mercy Oakland</name>
+      <address>
+        <city>Pontiac</city>
+        <state>Michigan</state>
+        <zip>48341</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Joseph Mercy Port Huron</name>
+      <address>
+        <city>Port Huron</city>
+        <state>Michigan</state>
+        <zip>48060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health Reed City Hospital</name>
+      <address>
+        <city>Reed City</city>
+        <state>Michigan</state>
+        <zip>49677</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>William Beaumont Hospital-Royal Oak</name>
+      <address>
+        <city>Royal Oak</city>
+        <state>Michigan</state>
+        <zip>48073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Mary's of Michigan</name>
+      <address>
+        <city>Saginaw</city>
+        <state>Michigan</state>
+        <zip>48601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Munson Medical Center</name>
+      <address>
+        <city>Traverse City</city>
+        <state>Michigan</state>
+        <zip>49684</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint John Macomb-Oakland Hospital</name>
+      <address>
+        <city>Warren</city>
+        <state>Michigan</state>
+        <zip>48093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Essentia Health Saint Joseph's Medical Center</name>
+      <address>
+        <city>Brainerd</city>
+        <state>Minnesota</state>
+        <zip>56401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fairview Ridges Hospital</name>
+      <address>
+        <city>Burnsville</city>
+        <state>Minnesota</state>
+        <zip>55337</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Hospital</name>
+      <address>
+        <city>Coon Rapids</city>
+        <state>Minnesota</state>
+        <zip>55433</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Essentia Health Cancer Center</name>
+      <address>
+        <city>Duluth</city>
+        <state>Minnesota</state>
+        <zip>55805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Essentia Health Saint Mary's Medical Center</name>
+      <address>
+        <city>Duluth</city>
+        <state>Minnesota</state>
+        <zip>55805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miller-Dwan Hospital</name>
+      <address>
+        <city>Duluth</city>
+        <state>Minnesota</state>
+        <zip>55805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fairview-Southdale Hospital</name>
+      <address>
+        <city>Edina</city>
+        <state>Minnesota</state>
+        <zip>55435</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Unity Hospital</name>
+      <address>
+        <city>Fridley</city>
+        <state>Minnesota</state>
+        <zip>55432</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hutchinson Area Health Care</name>
+      <address>
+        <city>Hutchinson</city>
+        <state>Minnesota</state>
+        <zip>55350</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Minnesota Oncology Hematology PA-Maplewood</name>
+      <address>
+        <city>Maplewood</city>
+        <state>Minnesota</state>
+        <zip>55109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint John's Hospital - Healtheast</name>
+      <address>
+        <city>Maplewood</city>
+        <state>Minnesota</state>
+        <zip>55109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Abbott-Northwestern Hospital</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hennepin County Medical Center</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New Ulm Medical Center</name>
+      <address>
+        <city>New Ulm</city>
+        <state>Minnesota</state>
+        <zip>56073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Memorial Medical Health Center</name>
+      <address>
+        <city>Robbinsdale</city>
+        <state>Minnesota</state>
+        <zip>55422</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Metro-Minnesota CCOP</name>
+      <address>
+        <city>Saint Louis Park</city>
+        <state>Minnesota</state>
+        <zip>55416</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Park Nicollet Clinic - Saint Louis Park</name>
+      <address>
+        <city>Saint Louis Park</city>
+        <state>Minnesota</state>
+        <zip>55416</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regions Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>United Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Francis Regional Medical Center</name>
+      <address>
+        <city>Shakopee</city>
+        <state>Minnesota</state>
+        <zip>55379</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lakeview Hospital</name>
+      <address>
+        <city>Stillwater</city>
+        <state>Minnesota</state>
+        <zip>55082</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ridgeview Medical Center</name>
+      <address>
+        <city>Waconia</city>
+        <state>Minnesota</state>
+        <zip>55387</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rice Memorial Hospital</name>
+      <address>
+        <city>Willmar</city>
+        <state>Minnesota</state>
+        <zip>56201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Minnesota Oncology and Hematology PA-Woodbury</name>
+      <address>
+        <city>Woodbury</city>
+        <state>Minnesota</state>
+        <zip>55125</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southeast Cancer Center</name>
+      <address>
+        <city>Cape Girardeau</city>
+        <state>Missouri</state>
+        <zip>63703</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Missouri - Ellis Fischel</name>
+      <address>
+        <city>Columbia</city>
+        <state>Missouri</state>
+        <zip>65212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Capital Region Medical Center-Goldschmidt Cancer Center</name>
+      <address>
+        <city>Jefferson City</city>
+        <state>Missouri</state>
+        <zip>65109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Heartland Hematology and Oncology Associates Incorporated</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Kansas City Hospital</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64116</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Medical Center</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Cancer Institute</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Hospital of Kansas City</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's East - Lee's Summit</name>
+      <address>
+        <city>Lee's Summit</city>
+        <state>Missouri</state>
+        <zip>64086</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Liberty Radiation Oncology Center</name>
+      <address>
+        <city>Liberty</city>
+        <state>Missouri</state>
+        <zip>64068</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Heartland Regional Medical Center</name>
+      <address>
+        <city>Saint Joseph</city>
+        <state>Missouri</state>
+        <zip>64506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Joseph Oncology Inc</name>
+      <address>
+        <city>Saint Joseph</city>
+        <state>Missouri</state>
+        <zip>64507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Cancer Care PC</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Missouri Baptist Medical Center</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Louis University Hospital</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Billings Clinic Cancer Center</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Frontier Cancer Center and Blood Institute-Billings</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montana Cancer Consortium CCOP</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Vincent Healthcare</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bozeman Deaconess Cancer Center</name>
+      <address>
+        <city>Bozeman</city>
+        <state>Montana</state>
+        <zip>59715</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bozeman Deaconess Hospital</name>
+      <address>
+        <city>Bozeman</city>
+        <state>Montana</state>
+        <zip>59715</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint James Community Hospital and Cancer Treatment Center</name>
+      <address>
+        <city>Butte</city>
+        <state>Montana</state>
+        <zip>59701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Benefis Healthcare- Sletten Cancer Institute</name>
+      <address>
+        <city>Great Falls</city>
+        <state>Montana</state>
+        <zip>59405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Big Sky Oncology</name>
+      <address>
+        <city>Great Falls</city>
+        <state>Montana</state>
+        <zip>59405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Great Falls Clinic</name>
+      <address>
+        <city>Great Falls</city>
+        <state>Montana</state>
+        <zip>59405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northern Montana Hospital</name>
+      <address>
+        <city>Havre</city>
+        <state>Montana</state>
+        <zip>59501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Peter's Community Hospital</name>
+      <address>
+        <city>Helena</city>
+        <state>Montana</state>
+        <zip>59601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Glacier Oncology PLLC</name>
+      <address>
+        <city>Kalispell</city>
+        <state>Montana</state>
+        <zip>59901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kalispell Medical Oncology</name>
+      <address>
+        <city>Kalispell</city>
+        <state>Montana</state>
+        <zip>59901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kalispell Regional Medical Center</name>
+      <address>
+        <city>Kalispell</city>
+        <state>Montana</state>
+        <zip>59901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montana Cancer Specialists</name>
+      <address>
+        <city>Missoula</city>
+        <state>Montana</state>
+        <zip>59802</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Patrick Hospital - Community Hospital</name>
+      <address>
+        <city>Missoula</city>
+        <state>Montana</state>
+        <zip>59802</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Francis Medical Center</name>
+      <address>
+        <city>Grand Island</city>
+        <state>Nebraska</state>
+        <zip>68803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Great Plains Regional Medical Center</name>
+      <address>
+        <city>North Platte</city>
+        <state>Nebraska</state>
+        <zip>69103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nebraska Methodist Hospital</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nebraska Medical Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth Hitchcock Medical Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Norris Cotton Cancer Center-Manchester</name>
+      <address>
+        <city>Manchester</city>
+        <state>New Hampshire</state>
+        <zip>03102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cooper Hospital University Medical Center</name>
+      <address>
+        <city>Camden</city>
+        <state>New Jersey</state>
+        <zip>08103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UMDNJ - New Jersey Medical School</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Oncology Hematology PC - Albany</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Oncology Hematology PC -Albany Medical Center</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Oncology Hematology PC - Amsterdam</name>
+      <address>
+        <city>Amsterdam</city>
+        <state>New York</state>
+        <zip>12010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Oncology Associates of Central New York-East Syracuse</name>
+      <address>
+        <city>East Syracuse</city>
+        <state>New York</state>
+        <zip>13057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Glens Falls Hospital</name>
+      <address>
+        <city>Glens Falls</city>
+        <state>New York</state>
+        <zip>12801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Oncology Hematology PC-Hudson</name>
+      <address>
+        <city>Hudson</city>
+        <state>New York</state>
+        <zip>12534</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Oncology Hematology PC - Latham</name>
+      <address>
+        <city>Latham</city>
+        <state>New York</state>
+        <zip>12110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Orange Regional Medical Center</name>
+      <address>
+        <city>Middletown</city>
+        <state>New York</state>
+        <zip>10940</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Oncology Hematology PC - Rexford</name>
+      <address>
+        <city>Rexford</city>
+        <state>New York</state>
+        <zip>12148</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Oncology Hematology PC - Troy</name>
+      <address>
+        <city>Troy</city>
+        <state>New York</state>
+        <zip>12180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novant Health Presbyterian Medical Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne Memorial Hospital</name>
+      <address>
+        <city>Goldsboro</city>
+        <state>North Carolina</state>
+        <zip>27534</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Iredell Memorial Hospital</name>
+      <address>
+        <city>Statesville</city>
+        <state>North Carolina</state>
+        <zip>28677</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University Health Sciences</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bismarck Cancer Center</name>
+      <address>
+        <city>Bismarck</city>
+        <state>North Dakota</state>
+        <zip>58501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mid Dakota Clinic</name>
+      <address>
+        <city>Bismarck</city>
+        <state>North Dakota</state>
+        <zip>58501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Alexius Medical Center</name>
+      <address>
+        <city>Bismarck</city>
+        <state>North Dakota</state>
+        <zip>58501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford Bismarck Medical Center</name>
+      <address>
+        <city>Bismarck</city>
+        <state>North Dakota</state>
+        <zip>58501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Rutan Hospital</name>
+      <address>
+        <city>Bellefontaine</city>
+        <state>Ohio</state>
+        <zip>43311</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Clinic Cancer Centers-Bowling Green</name>
+      <address>
+        <city>Bowling Green</city>
+        <state>Ohio</state>
+        <zip>43402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Adena Regional Medical Center</name>
+      <address>
+        <city>Chillicothe</city>
+        <state>Ohio</state>
+        <zip>45601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Coast Cancer Care-Clyde</name>
+      <address>
+        <city>Clyde</city>
+        <state>Ohio</state>
+        <zip>43410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arthur G. James Cancer Hospital and Solove Research Institute at Ohio State University Medical Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbus CCOP</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Doctors Hospital</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43228</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grant Medical Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Carmel Health Center West</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43222</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University Comprehensive Cancer Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Riverside Methodist Hospital</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dayton CCOP</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45420</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Good Samaritan Hospital - Dayton</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grandview Hospital</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Valley Hospital</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samaritan North Health Center</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grady Memorial Hospital</name>
+      <address>
+        <city>Delaware</city>
+        <state>Ohio</state>
+        <zip>43015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Oncology Center Incorporated</name>
+      <address>
+        <city>Elyria</city>
+        <state>Ohio</state>
+        <zip>44035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Cancer Center-Elyria</name>
+      <address>
+        <city>Elyria</city>
+        <state>Ohio</state>
+        <zip>44035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Blanchard Valley Hospital</name>
+      <address>
+        <city>Findlay</city>
+        <state>Ohio</state>
+        <zip>45840</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Atrium Medical Center-Middletown Regional Hospital</name>
+      <address>
+        <city>Franklin</city>
+        <state>Ohio</state>
+        <zip>45005-1066</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne Hospital</name>
+      <address>
+        <city>Greenville</city>
+        <state>Ohio</state>
+        <zip>45331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kettering Medical Center</name>
+      <address>
+        <city>Kettering</city>
+        <state>Ohio</state>
+        <zip>45429</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fairfield Medical Center</name>
+      <address>
+        <city>Lancaster</city>
+        <state>Ohio</state>
+        <zip>43130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lima Memorial Hospital</name>
+      <address>
+        <city>Lima</city>
+        <state>Ohio</state>
+        <zip>45804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Marietta Memorial Hospital</name>
+      <address>
+        <city>Marietta</city>
+        <state>Ohio</state>
+        <zip>45750</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Hospital</name>
+      <address>
+        <city>Maumee</city>
+        <state>Ohio</state>
+        <zip>43537</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Clinic Cancer Centers-Maumee</name>
+      <address>
+        <city>Maumee</city>
+        <state>Ohio</state>
+        <zip>43537</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Radiation Oncology at Northwest Ohio Onocolgy Center</name>
+      <address>
+        <city>Maumee</city>
+        <state>Ohio</state>
+        <zip>43537</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Knox Community Hospital</name>
+      <address>
+        <city>Mount Vernon</city>
+        <state>Ohio</state>
+        <zip>43050</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Licking Memorial Hospital</name>
+      <address>
+        <city>Newark</city>
+        <state>Ohio</state>
+        <zip>43055</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fisher-Titus Medical Center</name>
+      <address>
+        <city>Norwalk</city>
+        <state>Ohio</state>
+        <zip>44857</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Charles Hospital</name>
+      <address>
+        <city>Oregon</city>
+        <state>Ohio</state>
+        <zip>43616</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Clinic Cancer Centers-Oregon</name>
+      <address>
+        <city>Oregon</city>
+        <state>Ohio</state>
+        <zip>43616</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Ohio Medical Center</name>
+      <address>
+        <city>Portsmouth</city>
+        <state>Ohio</state>
+        <zip>45662</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Coast Cancer Care</name>
+      <address>
+        <city>Sandusky</city>
+        <state>Ohio</state>
+        <zip>44870</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Springfield Regional Medical Center</name>
+      <address>
+        <city>Springfield</city>
+        <state>Ohio</state>
+        <zip>45505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Flower Hospital</name>
+      <address>
+        <city>Sylvania</city>
+        <state>Ohio</state>
+        <zip>43560</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Hospital of Tiffin</name>
+      <address>
+        <city>Tiffin</city>
+        <state>Ohio</state>
+        <zip>44883</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Saint Anne Hospital</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43623</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Vincent Mercy Medical Center</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Toledo Hospital/Toledo Children's Hospital</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Clinic Cancer Centers-Toledo</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43623</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Community Hospital Oncology Program CCOP</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43617</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Toledo</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Upper Valley Medical Center</name>
+      <address>
+        <city>Troy</city>
+        <state>Ohio</state>
+        <zip>45373</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fulton County Health Center</name>
+      <address>
+        <city>Wauseon</city>
+        <state>Ohio</state>
+        <zip>43567</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Ann's Hospital</name>
+      <address>
+        <city>Westerville</city>
+        <state>Ohio</state>
+        <zip>43081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinton Memorial Hospital</name>
+      <address>
+        <city>Wilmington</city>
+        <state>Ohio</state>
+        <zip>45177</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greene Memorial Hospital</name>
+      <address>
+        <city>Xenia</city>
+        <state>Ohio</state>
+        <zip>45385</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Genesis HealthCare System</name>
+      <address>
+        <city>Zanesville</city>
+        <state>Ohio</state>
+        <zip>43701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Oklahoma Health Sciences Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clackamas Radiation Oncology Center</name>
+      <address>
+        <city>Clackamas</city>
+        <state>Oregon</state>
+        <zip>97015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Milwaukie Hospital</name>
+      <address>
+        <city>Milwaukie</city>
+        <state>Oregon</state>
+        <zip>97222</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Newberg Medical Center</name>
+      <address>
+        <city>Newberg</city>
+        <state>Oregon</state>
+        <zip>97132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Willamette Falls Medical Center</name>
+      <address>
+        <city>Oregon City</city>
+        <state>Oregon</state>
+        <zip>97045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Adventist Medical Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Portland Medical Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Saint Vincent Medical Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Western Oncology Research Consortium</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Butler Memorial Hospital</name>
+      <address>
+        <city>Butler</city>
+        <state>Pennsylvania</state>
+        <zip>16001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Medical Center</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Medical Center-Cancer Center Hazleton</name>
+      <address>
+        <city>Hazleton</city>
+        <state>Pennsylvania</state>
+        <zip>18201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pottstown Memorial Medical Center</name>
+      <address>
+        <city>Pottstown</city>
+        <state>Pennsylvania</state>
+        <zip>19464</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Medical Group</name>
+      <address>
+        <city>State College</city>
+        <state>Pennsylvania</state>
+        <zip>16801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Reading Hospital</name>
+      <address>
+        <city>West Reading</city>
+        <state>Pennsylvania</state>
+        <zip>19611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Wyoming Valley</name>
+      <address>
+        <city>Wilkes-Barre</city>
+        <state>Pennsylvania</state>
+        <zip>18711</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Roper Hospital</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Health System Cancer Institute-Butternut</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Health System Cancer Institute-Eastside</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Health System Cancer Institute-Faris</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Memorial Hospital</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Self Regional Healthcare</name>
+      <address>
+        <city>Greenwood</city>
+        <state>South Carolina</state>
+        <zip>29646</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Centers of the Carolinas-Greer Medical Oncology</name>
+      <address>
+        <city>Greer</city>
+        <state>South Carolina</state>
+        <zip>29650</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Health System Cancer Institute-Seneca</name>
+      <address>
+        <city>Seneca</city>
+        <state>South Carolina</state>
+        <zip>29672</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Health System Cancer Institute-Spartanburg</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Avera Cancer Institute</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Avera McKennan Hospital and University Health Center</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thompson Cancer Survival Center</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Tennessee - Knoxville</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Don and Sybil Harrington Cancer Center</name>
+      <address>
+        <city>Amarillo</city>
+        <state>Texas</state>
+        <zip>79106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Parkland Memorial Hospital</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zale Lipshy University Hospital</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Huntsman Cancer Institute/University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fredericksburg Oncology Inc</name>
+      <address>
+        <city>Fredericksburg</city>
+        <state>Virginia</state>
+        <zip>22401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Center at Island Hospital</name>
+      <address>
+        <city>Anacortes</city>
+        <state>Washington</state>
+        <zip>98221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PeaceHealth Saint Joseph Medical Center</name>
+      <address>
+        <city>Bellingham</city>
+        <state>Washington</state>
+        <zip>98225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harrison HealthPartners Hematology and Oncology-Bremerton</name>
+      <address>
+        <city>Bremerton</city>
+        <state>Washington</state>
+        <zip>98310</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Highline Medical Center-Main Campus</name>
+      <address>
+        <city>Burien</city>
+        <state>Washington</state>
+        <zip>98166</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Cancer Institute-Issaquah</name>
+      <address>
+        <city>Issaquah</city>
+        <state>Washington</state>
+        <zip>98029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kadlec Clinic Hematology and Oncology</name>
+      <address>
+        <city>Kennewick</city>
+        <state>Washington</state>
+        <zip>99336</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Skagit Valley Hospital</name>
+      <address>
+        <city>Mount Vernon</city>
+        <state>Washington</state>
+        <zip>98274</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harrison HealthPartners Hematology and Oncology-Poulsbo</name>
+      <address>
+        <city>Poulsbo</city>
+        <state>Washington</state>
+        <zip>98370</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Group Health Cooperative-Seattle</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harborview Medical Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Medical Center-First Hill</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98122-4307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Polyclinic</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington Medical Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>United General Hospital</name>
+      <address>
+        <city>Sedro-Woolley</city>
+        <state>Washington</state>
+        <zip>98284</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Northwest - Spokane South</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Evergreen Hematology and Oncology PS</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Compass Oncology Vancouver</name>
+      <address>
+        <city>Vancouver</city>
+        <state>Washington</state>
+        <zip>98684</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PeaceHealth Southwest Medical Center</name>
+      <address>
+        <city>Vancouver</city>
+        <state>Washington</state>
+        <zip>98664</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wenatchee Valley Hospital and Clinics</name>
+      <address>
+        <city>Wenatchee</city>
+        <state>Washington</state>
+        <zip>98801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology at Saint Vincent Hospital</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54301-3526</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology Limited at Saint Mary's Hospital</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Mary's Hospital</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Vincent Hospital</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gundersen Lutheran Medical Center</name>
+      <address>
+        <city>La Crosse</city>
+        <state>Wisconsin</state>
+        <zip>54601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Health System-Franciscan Healthcare</name>
+      <address>
+        <city>La Crosse</city>
+        <state>Wisconsin</state>
+        <zip>54601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Family Memorial Hospital</name>
+      <address>
+        <city>Manitowoc</city>
+        <state>Wisconsin</state>
+        <zip>54221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bay Area Medical Center</name>
+      <address>
+        <city>Marinette</city>
+        <state>Wisconsin</state>
+        <zip>54143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology - Oconto Falls</name>
+      <address>
+        <city>Oconto Falls</city>
+        <state>Wisconsin</state>
+        <zip>54154</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Nicholas Hospital</name>
+      <address>
+        <city>Sheboygan</city>
+        <state>Wisconsin</state>
+        <zip>53081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology - Sturgeon Bay</name>
+      <address>
+        <city>Sturgeon Bay</city>
+        <state>Wisconsin</state>
+        <zip>54235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Oncology</name>
+      <address>
+        <city>Casper</city>
+        <state>Wyoming</state>
+        <zip>82609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Welch Cancer Center</name>
+      <address>
+        <city>Sheridan</city>
+        <state>Wyoming</state>
+        <zip>82801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>BCCA-Vancouver Cancer Centre</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 4E6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Vitalite Health Network - Dr Leon Richard Oncology Centre</name>
+      <address>
+        <city>Moncton</city>
+        <state>New Brunswick</state>
+        <zip>E1C 8X3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>QEII Health Sciences Centre/Capital District Health Authority</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H 1V8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ottawa Health Research Institute-General Division</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 1C4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Health Network-Princess Margaret Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Allan Blair Cancer Centre</name>
+      <address>
+        <city>Regina</city>
+        <state>Saskatchewan</state>
+        <zip>S4T 7T1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>January 2015</verification_date>
+  <lastchanged_date>April 22, 2015</lastchanged_date>
+  <firstreceived_date>October 27, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adenoma</mesh_term>
+    <mesh_term>Adenoma, Islet Cell</mesh_term>
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Islet Cell</mesh_term>
+    <mesh_term>Carcinoma, Neuroendocrine</mesh_term>
+    <mesh_term>Gastrinoma</mesh_term>
+    <mesh_term>Glucagonoma</mesh_term>
+    <mesh_term>Insulinoma</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+    <mesh_term>Somatostatinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Endothelial Growth Factors</mesh_term>
+    <mesh_term>Everolimus</mesh_term>
+    <mesh_term>Octreotide</mesh_term>
+    <mesh_term>Sirolimus</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

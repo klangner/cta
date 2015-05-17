@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="274">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00131911</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2009-00121</org_study_id>
+    <secondary_id>MC044H</secondary_id>
+    <secondary_id>7046</secondary_id>
+    <secondary_id>CDR0000437792</secondary_id>
+    <secondary_id>N01CM62205</secondary_id>
+    <nct_id>NCT00131911</nct_id>
+  </id_info>
+  <brief_title>Sorafenib Tosylate in Treating Patients With Progressive Metastatic Neuroendocrine Tumors</brief_title>
+  <official_title>A Phase II Trial of Bay 43-9006 in Progressive Metastatic Neuroendocrine Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial is studying how well sorafenib tosylate works in treating patients with
+      progressive metastatic neuroendocrine tumors. Sorafenib tosylate may stop the growth of
+      tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood
+      flow to the tumor.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To determine the objective tumor response rate of BAY 43-9006 (sorafenib tosylate) in
+      patients with advanced neuroendocrine tumors.
+
+      SECONDARY OBJECTIVES:
+
+      I. Adverse event rate(s). II. Progression free survival and time to progression. III.
+      Improvement in circulating hormone levels. IV. Overall survival.
+
+      OUTLINE: This is a multicenter study. Patients are grouped into 2 separate analysis Groups
+      according to tumor type (Group A: Carcinoid; Group B: Islet cell/other well-differentiated
+      tumor). Each Group was independently evaluated for all study endpoints.
+
+      Patients receive oral sorafenib tosylate twice daily on days 1-28. Courses repeat every 28
+      days in the absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed every 3 months until disease
+      progression and then every 6 months for up to 2 years from study entry.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2005</start_date>
+  <completion_date type="Actual">April 2013</completion_date>
+  <primary_completion_date type="Actual">October 2010</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Confirmed Response Rate</measure>
+    <time_frame>Duration of Treatment (Up to 2 years)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Confirmed response rate was defined using Response Evaluation Criteria In Solid Tumors (RECIST).  A confirmed response is defined as a complete response (CR) or partial response (PR) observed on subsequent scans at least 4 weeks apart. Confirmed response rate was estimated by the number of successes divided by the total number of evaluable patients.
+&gt;
+&gt; Complete Response (CR) is defined as the disappearance of all target lesions.
+&gt; Partial Response (PR) is defined as a 30% decrease in sum of longest diameter of target lesions;
+&gt;
+&gt; We report the percentage of patients with a confirmed response and a 95% confidence interval estimated by the Duffy and Santner method.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>For this secondary endpoint, toxicity is defined as a grade 3 or higher adverse events that is classified as either possibly, probably, or definitely related to study treatment.  The assignment of attribution to study treatment and grade (or degree of severity) of the adverse event are classified using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 3.0.  The number of participants reporting a grade 3 or higher toxicity are reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>From registration to death (up to 2 years)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Overall survival (OS) was defined as the time from registration to death of any cause. Surviving patients were censored at the date of last follow-up. The median OS with 95% CI was estimated using the Kaplan Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival</measure>
+    <time_frame>Time from registration to progression or death (up to 2 years)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Progression was defined using Response Evaluation Criteria In Solid Tumors (RECIST) as a 20% increase in the su of longest diameter of target lesions.  Progression free survival (PFS) was defined as the time from registration to progression or death of any cause. Participants who were progression free were censored at the date of their most recent disease assessment. The median PFS with 95% CI was estimated using the Kaplan Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>Time from response to progression (up to 2 years)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Duration of response (DOR) was defined as the time from attaining a response (PR or CR) to the date of progression.  Participants without progression were censored at the date of their most recent disease assessment. The median DOR was estimated using simple summary statistics.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">93</enrollment>
+  <condition>Gastrinoma</condition>
+  <condition>Glucagonoma</condition>
+  <condition>Insulinoma</condition>
+  <condition>Metastatic Gastrointestinal Carcinoid Tumor</condition>
+  <condition>Neuroendocrine Tumor</condition>
+  <condition>Pancreatic Polypeptide Tumor</condition>
+  <condition>Recurrent Gastrointestinal Carcinoid Tumor</condition>
+  <condition>Recurrent Islet Cell Carcinoma</condition>
+  <condition>Somatostatinoma</condition>
+  <condition>WDHA Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Group A (patients with carcinoid tumors)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive 400 mg oral sorafenib twice daily on days 1-28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B (islet cell and other neuroendocrine tumors)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive 400 mg oral sorafenib twice daily on days 1-28.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>sorafenib tosylate</intervention_name>
+    <description>400 mg given orally</description>
+    <arm_group_label>Group A (patients with carcinoid tumors)</arm_group_label>
+    <arm_group_label>Group B (islet cell and other neuroendocrine tumors)</arm_group_label>
+    <other_name>BAY 43-9006</other_name>
+    <other_name>BAY 43-9006 Tosylate Salt</other_name>
+    <other_name>BAY 54-9085</other_name>
+    <other_name>Nexavar</other_name>
+    <other_name>SFN</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Criteria:
+
+          -  Histologically confirmed neuroendocrine tumor:
+
+               -  Carcinoid tumor OR islet cell carcinoma/other well-differentiated tumor
+
+               -  No anaplastic or high-grade histology
+
+               -  Metastatic disease
+
+          -  Measurable disease
+
+          -  No thyroid carcinoma of any histology, thymoma, or pheochromocytoma/paraganglioma
+
+          -  No known brain metastases
+
+          -  Performance status:
+
+               -  Eastern Cooperative Oncology Group (ECOG) 0-2
+
+          -  Life expectancy:
+
+               -  At least 24 weeks
+
+          -  Hematopoietic:
+
+               -  Absolute neutrophil count &gt;= 1,500/mm3
+
+               -  Platelet count &gt;= 100,000/mm3
+
+               -  No bleeding diathesis
+
+          -  Hepatic:
+
+               -  Bilirubin =&lt; 2 times upper limit of normal (ULN)
+
+               -  Aspartate aminotransferase (AST) =&lt; 3 times ULN (5 times ULN if liver metastases
+                  are present)
+
+               -  International normalized ratio (INR) normal
+
+               -  PTT normal
+
+          -  Renal:
+
+               -  Creatinine =&lt; 1.5 times ULN
+
+          -  Cardiovascular:
+
+        No poorly controlled hypertension; No symptoms of congestive heart failure; No unstable
+        angina pectoris; No cardiac arrhythmia
+
+          -  Gastrointestinal:
+
+               -  Able to swallow capsules intact
+
+               -  No gastrointestinal tract disease resulting in an inability to take oral
+                  medication (e.g., dysphagia)
+
+               -  No requirement for IV alimentation
+
+               -  No active peptic ulcer disease
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception
+
+          -  No ongoing or active infection
+
+          -  No psychiatric illness or social situation that would preclude study compliance
+
+          -  No other invasive malignancy within the past 3 years except adequately treated basal
+             cell or squamous cell skin cancer or carcinoma in situ of the cervix
+
+          -  No other uncontrolled illness
+
+          -  At least 4 weeks since prior interferon
+
+          -  No more than 1 prior systemic chemotherapy regimen:
+
+        Chemoembolization is not considered systemic chemotherapy
+
+          -  At least 4 weeks since prior chemoembolization
+
+          -  At least 3 weeks since prior radiotherapy
+
+          -  No prior procedures adversely affecting intestinal absorption
+
+          -  At least 4 weeks since prior hepatic artery embolization
+
+          -  No other prior systemic therapy
+
+          -  No other concurrent investigational treatment
+
+          -  No concurrent combination antiretroviral therapy for HIV-positive patients
+
+          -  No concurrent enzyme-inducing anticonvulsants (e.g., carbamazepine, phenobarbital, or
+             phenytoin)
+
+          -  No concurrent rifampin
+
+          -  No concurrent Hypericum perforatum (St. John's wort)
+
+          -  Prior or concurrent octreotide for symptomatic treatment allowed
+
+          -  No concurrent therapeutic anticoagulation:
+
+        Concurrent prophylactic anticoagulation (i.e., low dose warfarin) of venous or arterial
+        access devices allowed provided requirements for INR or PTT are met
+
+          -  At least 4 weeks since prior major surgery
+
+          -  Recovered from all prior therapy
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Timothy Hobday</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Australia</country>
+    <country>Hong Kong</country>
+    <country>Singapore</country>
+  </removed_countries>
+  <verification_date>June 2014</verification_date>
+  <lastchanged_date>November 14, 2014</lastchanged_date>
+  <firstreceived_date>August 16, 2005</firstreceived_date>
+  <firstreceived_results_date>June 19, 2014</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Carcinoma, Islet Cell</mesh_term>
+    <mesh_term>Gastrinoma</mesh_term>
+    <mesh_term>Gastrointestinal Neoplasms</mesh_term>
+    <mesh_term>Glucagonoma</mesh_term>
+    <mesh_term>Insulinoma</mesh_term>
+    <mesh_term>Malignant Carcinoid Syndrome</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+    <mesh_term>Somatostatinoma</mesh_term>
+    <mesh_term>Vipoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Niacinamide</mesh_term>
+    <mesh_term>Sorafenib</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

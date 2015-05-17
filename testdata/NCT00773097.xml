@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="172">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00773097</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO07030214</org_study_id>
+    <nct_id>NCT00773097</nct_id>
+  </id_info>
+  <brief_title>Study of the MUC1 Peptide-Poly-ICLC Adjuvant Vaccine in Individuals With Advanced Colorectal Adenoma</brief_title>
+  <official_title>Study of the MUC1 Peptide - Poly-ICLC Adjuvant Vaccine in Individuals With Advanced Colorectal Adenoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the immune response to MUC1 - poly-ICLC vaccine, an
+      investigational or study vaccine. The MUC1 - poly-ICLC vaccine is being tested in persons
+      with a history of advanced adenomatous polyps, the precursor to colorectal cancer.  The MUC1
+      - poly-ICLC vaccine is being developed to prevent polyps from advancing into colon cancer
+      and to prevent polyps from recurring.
+
+      MUC1 is mucus that is normally present on the lining of the human colon. However, MUC1 is
+      expressed in a larger amount and in a modified form on adenomatous polyps and colorectal
+      cancer. These changes in MUC1 are thought to be part of the process of progression from
+      adenomas toward cancer. The goal of a vaccine is to help the immune system in the body
+      identify the changes in MUC1 that accompany the progression to cancer and eliminate the
+      abnormal cells that make abnormal MUC1.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase II trial designed to assess antibody and T cell responses to MUC1 vaccine
+      among subjects at increased risk for colorectal cancer by virtue of a history of advanced
+      adenoma. The primary objective is to evaluate the immunogenicity of a combination of the
+      100mer MUC1 peptide and adjuvant Poly-ICLC in boosting the immune response to MUC1. Among
+      the secondary objectives is to determine if anti-MUC1 immunity, preexisting or vaccine
+      induced, has an effect on the recurrence of polyps. Subjects with a history of advanced
+      adenoma will be recruited for MUC1 vaccination. Vaccine will be administered at weeks 0, 2,
+      and 10. Some subjects may have pre-existing immunity to MUC1, and this will be accounted for
+      in the analytic phase. However, all subjects will be administered the vaccine, regardless of
+      baseline antibody status. To insure accurate standardization in measurement and assessment
+      of antibody levels, assays for baseline antibody status will be done at the same time as
+      those for response to vaccine.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2008</start_date>
+  <completion_date type="Actual">October 2012</completion_date>
+  <primary_completion_date type="Actual">October 2011</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Number of Participants With Anti Muc-1 Antibody</measure>
+    <time_frame>52 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Evaluation of the immune response to MUC1 peptide vaccine administered with Poly-ICLC, measured by Anti MUC1 antibody, in patients with a history of advanced colorectal adenoma.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Autoimmune Response to Muc-1 Vaccine</measure>
+    <time_frame>52 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Evaluate for autoimmune response by measuring the Anti-muc-1 IgG antibodies to the muc-1 vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Adverse Events Associated With the Study Agent</measure>
+    <time_frame>54 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Laboratory monitoring including Toxicity laboratory test or monitored through out  the study up to week 54.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">46</enrollment>
+  <condition>Risk for Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>MUC1 Poly-ICLC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MUC1 - Poly ICLC</intervention_name>
+    <description>The vaccine will be administered on an outpatient basis in the Digestive Disorders Clinic. The total volume of each dose of vaccine MUC1+ POLY-ICLC will be approximately 250 microliters subcutaneously (SQ) in the upper thigh. The site of injection will remain the same thigh, to enhance the potential immune response.</description>
+    <arm_group_label>MUC1 Poly-ICLC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        -Age 40 - 70 years of age.
+
+          -  History of any of the following conditions (operative notes, endoscopy reports,
+             and/or pathology reports must be reviewed locally to confirm that the candidate meets
+             at least one of the following entry criteria).
+
+               1. Colorectal adenoma(s) ≥ 1 cm in maximal diameter
+
+               2. Colorectal adenoma(s) with villous or tubulovillous histology
+
+               3. Colorectal adenoma(s) with high-grade dysplasia
+
+          -  Willingness to avoid pregnancy or impregnate (see below) for the period of active
+             study (1 year).
+
+          -  ECOG performance status 0 or 1
+
+          -  Hemoglobin greater than 95% of the lower limit of institutional normal. Platelets
+             ≥100,000/µL.
+
+          -  AST (SGOT), ALT (SGPT), alkaline phosphatase, total bilirubin, BUN, creatinine ≤ 1.5x
+             upper limit of institutional normal.
+
+          -  ANA &lt; 1:160
+
+        Exclusion Criteria:
+
+          -  Receiving any other investigational agents.
+
+          -  Presence of an active acute or chronic infection
+
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic
+             composition to the study agents.
+
+          -  History of heritable cancer syndrome (FAP, HNPCC)
+
+          -  Patients with a history of auto-immune disease such as, but not restricted to,
+             inflammatory bowel disease, systemic lupus erythematosus, rheumatoid arthritis,
+             ankylosing spondylitis, scleroderma, or multiple sclerosis.
+
+          -  History of malignancy &lt; 5 years prior to the Registration/Randomization evaluation,
+             excluding non-melanoma skin cancer.
+
+          -  Any use of oral corticosteroids ≤ 12 weeks prior to Registration/Randomization.
+
+          -  Current or planned use of immunomodulators including: Remicade, 6-MP
+             (Mercaptopurine), Methotrexate, cyclosporine, or other immunomodulatory drugs.
+
+          -  Pregnant women, because the teratogenic or abortifacient effects of the study agents
+             remain incompletely defined. Breastfeeding women, because there is an unknown but
+             potential risk for adverse events in nursing infants secondary to treatment of the
+             mother with the study agents.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert E Schoen</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Digestive Disorders Clinic</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Kimura T, McKolanis JR, Dzubinski LA, Islam K, Potter DM, Salazar AM, Schoen RE, Finn OJ. MUC1 vaccine for individuals with advanced adenoma of the colon: a cancer immunoprevention feasibility study. Cancer Prev Res (Phila). 2013 Jan;6(1):18-26. doi: 10.1158/1940-6207.CAPR-12-0275. Epub 2012 Dec 17.</citation>
+    <PMID>23248097</PMID>
+  </results_reference>
+  <verification_date>February 2014</verification_date>
+  <lastchanged_date>February 12, 2014</lastchanged_date>
+  <firstreceived_date>October 15, 2008</firstreceived_date>
+  <firstreceived_results_date>July 17, 2013</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Robert Schoen</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Prevention</keyword>
+  <keyword>Colorectal Cancer</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Poly ICLC</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

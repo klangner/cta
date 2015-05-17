@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="548">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT02194231</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRFMN-MPM-6077</org_study_id>
+    <secondary_id>2011-006330-16</secondary_id>
+    <nct_id>NCT02194231</nct_id>
+  </id_info>
+  <brief_title>ATREUS - Phase II Study on the Activity of Trabectedin in Patients With Malignant Pleural Mesothelioma (MPM)</brief_title>
+  <acronym>ATREUS</acronym>
+  <official_title>ATREUS Trial - A Phase II Study on the Activity of Trabectedin of Pretreated Epithelioid or Biphasic / Sarcomatoid Malignant Pleural Mesothelioma(MPM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mario Negri Institute for Pharmacological Research</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>PharmaMar</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mario Negri Institute for Pharmacological Research</source>
+  <oversight_info>
+    <authority>Italy: Agenzia Italiana del Farmaco (AIFA)</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether trabectedin is effective in the treatment
+      of malignant pleural mesothelioma (MPM).
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>July 2013</start_date>
+  <completion_date type="Anticipated">October 2016</completion_date>
+  <primary_completion_date type="Anticipated">October 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>12 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>24 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">79</enrollment>
+  <condition>Malignant Pleural Mesothelioma</condition>
+  <arm_group>
+    <arm_group_label>Trabectedin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive trabectedin treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Trabectedin</intervention_name>
+    <description>Trabectedin 1.3 mg/m2 Continuous intravenous infusion in 5% glucose (preceded by dexamethasone 20 mg) via central venous catheter over 3 hours every 21 days.</description>
+    <arm_group_label>Trabectedin</arm_group_label>
+    <other_name>Yondelis</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Cytological or histological diagnosis of unresectable MPM
+
+          -  age &gt;18 years
+
+          -  Performance status 0-1 (ECOG)
+
+          -  measurable disease (CT-PET)
+
+          -  normal bone marrow reserve
+
+          -  adequate liver and renal function
+
+          -  not more than one previous chemotherapy course (of pemetrexed plus platinum
+             derivative)
+
+          -  previous chemotherapy course concluded at least 3 weeks prior to recruitment
+
+          -  patients must have recovered from toxicities of prior treatment (grade ≤ 1),
+
+          -  life expectancy &gt;3 months
+
+          -  written informed consent
+
+          -  Patients who have received palliative radiation are eligible if &lt;30% of bone marrow
+             was irradiated and normal hematological function was completely regained
+
+          -  Adequate contraceptive methods for male patients whose partner is of childbearing
+             age/potential, during the study and for three months after the end of treatment
+
+        Exclusion Criteria:
+
+          -  Radiotherapy with curative intent to thoracic wall (concomitant with or prior to
+             chemotherapy)
+
+          -  adjuvant chemotherapy; severe concomitant illness
+
+          -  uncompensated diabetes mellitus or other condition absolutely contra-indicating
+             dexamethasone (20 mg, used as pre-medication)
+
+          -  enrollment in other trials
+
+          -  female patients in childbearing age/potential
+
+          -  prior exposure to trabectedin; history of other malignancies (except basal cell
+             carcinoma or cervical carcinoma in situ, adequately treated)
+
+          -  unless in remission for 5 years or more and judged of negligible potential of relapse
+
+          -  active viral hepatitis or chronic liver disease
+
+          -  unstable cardiac condition, including congestive heart failure or angina pectoris,
+             myocardial infarction within one year before enrolment, uncontrolled arterial
+             hypertension or arrhythmias
+
+          -  active major infection
+
+          -  other serious concomitant illnesses
+
+          -  brain / leptomeningeal involvement
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paolo Bidoli, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Azienda Ospedaliera San Gerardo di Monza</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Irene C Floriani, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>IRCCS Istituto di Ricerche Farmacologiche Mario Negri</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lital H Hollander, MSc</last_name>
+    <phone>0039023901</phone>
+    <phone_ext>4640</phone_ext>
+    <email>lital.hollander@marionegri.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Azienda ospedaliera ss. Antonio e Biagio e Cesare Arrigo</name>
+      <address>
+        <city>Alessandria</city>
+        <state>AL</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Federica Grosso, MD</last_name>
+      <email>fgrosso@ospedale.al.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniche Humanitas Gavazzeni</name>
+      <address>
+        <city>Bergamo</city>
+        <state>BG</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giovanni L Ceresoli, MD</last_name>
+      <email>giovanni_luca.ceresoli@gavazzeni.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>P.O. Spedalli Civili</name>
+      <address>
+        <city>Brescia</city>
+        <state>BS</state>
+        <zip>25125</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gianfranco MD Tassi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera S. Gerardo di Monza</name>
+      <address>
+        <city>Monza</city>
+        <state>MB</state>
+        <zip>20900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Paolo Bidoli, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ASL VC</name>
+      <address>
+        <city>Vercelli</city>
+        <state>VC</state>
+        <zip>13100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luciano MD Mutti</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>April 21, 2015</lastchanged_date>
+  <firstreceived_date>July 16, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Mesothelioma</keyword>
+  <keyword>MPM</keyword>
+  <keyword>Trabectedin</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Trabectedin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

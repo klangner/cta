@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="683">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00983580</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2009-01192</org_study_id>
+    <secondary_id>NCI-2009-01192</secondary_id>
+    <secondary_id>09-001758</secondary_id>
+    <secondary_id>MC054A</secondary_id>
+    <secondary_id>R01-CA-113681</secondary_id>
+    <secondary_id>P30CA015083</secondary_id>
+    <secondary_id>R01CA113681</secondary_id>
+    <nct_id>NCT00983580</nct_id>
+    <nct_alias>NCT01647126</nct_alias>
+  </id_info>
+  <brief_title>Acetylsalicylic Acid and Eflornithine in Treating Patients at High Risk for Colorectal Cancer</brief_title>
+  <official_title>Randomized Phase II Trial of Aspirin and Difluoromethylornithine (DFMO) in Patients at High Risk of Colorectal Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial is studying how well giving acetylsalicylic acid together with
+      eflornithine works in treating patients at high risk for colorectal cancer. Chemoprevention
+      is the use of certain drugs to keep cancer from forming. The use of acetylsalicylic acid and
+      eflornithine may prevent colorectal cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. The proportion of subjects with an adenoma recurrence at the 1-year follow-up colonoscopy
+      exam. This adenoma recurrence rate for difluoromethylornithine (DFMO) (eflornithine) +
+      aspirin will be compared to double placebo to see if there is improvement in the adenoma
+      recurrence rate in this patient population.
+
+      SECONDARY OBJECTIVES:
+
+      I. To determine the relative tolerability and safety of the treatment regimens administered
+      for 12 months.
+
+      II. To determine the effect of the study drugs (aspirin [acetylsalicylic acid] + DFMO) and
+      placebo with respect to proliferation (Ki67 labeling index), apoptosis (caspase-3 expression
+      assay), and drug effect markers (COX-1, -2, polyamines, PGE2) from adenomas, aberrant crypt
+      focus (ACF) and normal-appearing mucosa using pre- and 12-month post-intervention tissue
+      biopsy samples.
+
+      III. To estimate the percentage change in rectal ACF number, as determined by magnifying
+      colonoscopy in subjects treated for 12 months with placebo or study drugs (aspirin +DFMO) by
+      comparing % change in drug versus placebo arms.
+
+      IV. To characterize ACF based on three criteria (ACF size [crypt number &lt; 50 or &gt;= 50],
+      crypt morphology characteristics, and histology) of ACF and to correlate such
+      characteristics with the intervention (vs placebo). Also, to evaluate the natural history of
+      ACF over 1-year on placebo.
+
+      V. To correlate the 12-month measurements of ACF size (# crypts/ACF), number, morphology,
+      and histopathology with the adenoma recurrence data at 12 and 36 months; correlate the
+      12-month % (and actual) change in ACF size and number with the 12- and 36-month adenoma
+      recurrence rate; and correlate the adenoma recurrence data at 1 year with the adenoma
+      recurrence data at 3 years.
+
+      TERTIARY OBJECTIVES:
+
+      I. To explore the effects of the study agents on a focused panel of tissue biomarkers in
+      pre- and post-intervention biopsy samples from recurrent adenomas, rectal ACF, and adjacent
+      normal-appearing mucosa among subjects enrolled in the phase II clinical trial.
+
+      II. To determine if cleaved capase-3 expression can improve the detection of apoptotic cells
+      by recognizing cellular commitment to apoptosis prior to late nuclear morphologic features
+      and correlate with apoptotic regulatory proteins, histology, and treatment response.
+
+      III. To determine the effects of aspirin on its biochemical targets COX-1, -2, and
+      prostaglandin E2, and polyamine levels in subjects receiving DFMO.
+
+      IV. To examine COX-2-dependent genes (i.e., Bcl-2 and DR5) in adenomas and ACF that have
+      been shown to regulate the intrinsic mitochondrial and extrinsic death receptor-mediated
+      apoptotic pathways in vitro and in vivo.
+
+      V. To perform expression profiling of adenomas or ACF and to relate such date to ACF
+      histology, size/morphology, modulation by chemopreventive agents, and subsequent adenoma
+      recurrence rates.
+
+      OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+      ARM I: Patients receive acetylsalicylic acid orally (PO) once daily and eflornithine PO
+      twice daily on days 1-28.
+
+      ARM II: Patients receive placebo PO three times daily on days 1-28.
+
+      Treatment repeats every 28 days for 12 months in the absence of disease progression or
+      unacceptable toxicity.
+
+      After completion of study treatment, patients are followed at 6, 12, and 36 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2009</start_date>
+  <primary_completion_date type="Anticipated">July 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Adenoma recurrence rate for the treatment arm relative to placebo</measure>
+    <time_frame>At 1 year</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ACF characteristics vs adenoma recurrence rate</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>ACF analysis will only be conducted in those participants who have at least 5 rectal ACF at baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterization of ACF</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Based on four criteria and correlate such characterizations with the intervention (vs. placebo), as well as exploring the natural history of ACF.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of the percent change in ACF number across the 2 treatment arms</measure>
+    <time_frame>At 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Calculated as the number of ACF present at the 12-month post-intervention exam minus the baseline number of ACF, divided by the number of ACF present at baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effect of the study drugs and placebo with respect to biomarkers</measure>
+    <time_frame>Baseline and 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>For continuous variables, we will use the 2-sample t-test (or nonparametric equivalent) to compare the active arm to the placebo arm. For categorical data, we will explore the relationship between the treatment arms and biomarkers with chi-square or fisher's exact tests. Correlations will be sought between caspase-3 staining, proliferative indices and their ratio, as well as other biomarkers using a chi-square test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gene expression analysis</measure>
+    <time_frame>Baseline and 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Differences in log-transformed values among ACF or patient characteristics will be compared using t tests or analysis of variance (ANOVAs). P &lt; 0.05 was considered statistically significant.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety, tolerability, and adverse events of study treatment</measure>
+    <time_frame>Up to 48 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Reviewed via frequency tables and univariate statistics. Chi-square tests will be used to explore the relationship between tolerability and intervention, for categorical data. To evaluate the adverse event profile associated with the intervention arm, the maximum grade for each type of adverse event will be recorded for each subject, and frequency tables will be reviewed to determine the overall patterns. The National Cancer Institute (NCI) Common Terminology Criteria (CTC) Version 3.0 will be used to grade all adverse events.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">104</enrollment>
+  <condition>Adenomatous Polyp</condition>
+  <arm_group>
+    <arm_group_label>Arm I (acetylsalicylic acid and eflornithine)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive acetylsalicylic acid PO once daily and eflornithine PO twice daily on days 1-28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (placebo)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients receive placebo PO three times daily on days 1-28.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aspirin</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm I (acetylsalicylic acid and eflornithine)</arm_group_label>
+    <other_name>Acetylsalicylic Acid</other_name>
+    <other_name>ASA</other_name>
+    <other_name>Aspergum</other_name>
+    <other_name>ASPIRIN</other_name>
+    <other_name>Ecotrin</other_name>
+    <other_name>Empirin</other_name>
+    <other_name>Entericin</other_name>
+    <other_name>Extren</other_name>
+    <other_name>Measurin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Eflornithine</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm I (acetylsalicylic acid and eflornithine)</arm_group_label>
+    <other_name>Alpha-Difluoromethylornithine</other_name>
+    <other_name>DFMO</other_name>
+    <other_name>Difluoromethylornithine</other_name>
+    <other_name>Difluromethylornithine</other_name>
+    <other_name>EFLORNITHINE</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative study</description>
+    <arm_group_label>Arm I (acetylsalicylic acid and eflornithine)</arm_group_label>
+    <arm_group_label>Arm II (placebo)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm II (placebo)</arm_group_label>
+    <other_name>placebo</other_name>
+    <other_name>placebo therapy</other_name>
+    <other_name>PLCB</other_name>
+    <other_name>sham therapy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Telephone-Based Intervention</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Arm I (acetylsalicylic acid and eflornithine)</arm_group_label>
+    <arm_group_label>Arm II (placebo)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Current or prior advanced adenomas
+
+          -  Advanced adenomas are defined as subject with polyps &gt;= 1 cm, tubulovillous adenomas
+             (25-75 percent villous features), villous adenomas (&gt; 75 percent villous), or
+             high-grade dysplasia
+
+          -  Prior colon cancer (&gt;= 3 years out from invasive cancer)
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1
+
+          -  Ability to under and the willingness to sign a written informed consent document
+
+          -  Willingness to provide mandatory tissue for research purposes
+
+          -  Negative pregnancy test =&lt; 7 days prior to randomization
+
+          -  Hemoglobin (Hgb) within normal limits for institution/lab
+
+          -  Platelet count &gt;= 100,000/ul
+
+          -  White blood cell count (WBC) &gt;= 3,000/ul
+
+          -  Alanine aminotransferase (ALT) =&lt; 2 x institutional upper limit of normal (ULN)
+
+          -  Aspartate aminotransferase (AST) =&lt; 2 x institutional ULN
+
+          -  Total bilirubin =&lt; 1.5 x institutional ULN
+
+          -  Serum calcium =&lt; institutional ULN
+
+          -  Serum creatinine =&lt; 1.5 x institutional ULN
+
+          -  Colonoscopy =&lt; 45 days prior to randomization with removal of all adenomas or polyps
+             &gt;= 2 mm in size
+
+        Exclusion Criteria:
+
+          -  Any history of current or prior rectal cancer
+
+          -  Known diagnosis of colon heritable cancer syndrome (familial adenomatous polyposis
+             [FAP], hereditary nonpolyposis colorectal cancer [HNPCC]) or inflammatory bowel
+             disease (Crohn's disease, ulcerative colitis)
+
+          -  Inability to swallow pills
+
+          -  Bleeding diathesis
+
+          -  New diagnosis of carcinoma
+
+          -  History of hypersensitivity to COX-2 inhibitors, sulfonamides, nonsteroidal
+             antiinflammatory drugs (NSAIDs), salicylates, or ursodeoxycholic acid
+
+          -  History of gastroduodenal ulcers documented =&lt; 1 year
+
+          -  Known inability to participate in the scheduled follow-up tests
+
+          -  Significant medical or psychiatric problems which would make the subject a poor
+             protocol candidate, in the opinion of the treating physician
+
+          -  Total colectomy
+
+          -  Patients with a colostomy
+
+          -  History of pelvic or rectal radiation therapy
+
+          -  History of invasive carcinoma =&lt; 5 years (except subjects with Dukes A/B1 carcinoma
+             =&lt; 5 years prior to pre-registration or any stage of colon cancer if &gt;= 3 years post
+             surgical resection)
+
+          -  Acute liver disease, unexplained transaminase elevations, or elevated serum calcium
+
+          -  History of allergic reactions attributed to compounds of similar chemical composition
+             to the study agents
+
+          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active
+             infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac
+             arrhythmia
+
+          -  Concomitant corticosteroids or anticoagulants needed on a regular or predictable
+             intermittent basis
+
+          -  New diagnosis of invasive carcinoma
+
+          -  Use of non-study investigational agent(s) =&lt; 3 months prior to randomization
+
+          -  Chemotherapy =&lt; 6 months prior to randomization (Note: topical chemotherapy will be
+             assessed on a case-by-case basis)
+
+          -  Pregnant women
+
+          -  Nursing women
+
+          -  Men or women of childbearing potential who are unwilling to employ adequate
+             contraception
+
+          -  Regular use of NSAIDs =&lt; 6 weeks prior to randomization, defined as a frequency of 7
+             consecutive days (1 week) for &gt; 3 weeks (Exception: low dose aspirin [81 mg] for
+             those subjects who are chronic users of aspirin prior to the beginning of the study)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Frank Sinicrope</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Chicago Comprehensive Cancer Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bruce M. Bissonette</last_name>
+      <email>mbissonn@medicine.bsd.uchicago.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Bruce M. Bissonette</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Illinois College of Medicine - Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Richard V. Benya</last_name>
+      <email>rvbenya@uic.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Richard V. Benya</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mayo Clinic Clinical Trials Office</last_name>
+      <phone>507-538-7623</phone>
+      <email>clinicaltrials@mayo.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Frank A. Sinicrope</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2014</verification_date>
+  <lastchanged_date>May 6, 2015</lastchanged_date>
+  <firstreceived_date>September 23, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adenomatous Polyps</mesh_term>
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Aspirin</mesh_term>
+    <mesh_term>Eflornithine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

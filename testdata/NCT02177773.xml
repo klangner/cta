@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="335">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT02177773</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UCSF-DOTA-TOC</org_study_id>
+    <nct_id>NCT02177773</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Gallium-68 DOTA-TOC Imaging of Somatostatin Receptor Positive Malignancies</brief_title>
+  <acronym>DOTA-TOC</acronym>
+  <official_title>Evaluation of Gallium-68 DOTA-TOC Imaging of Somatostatin Receptor Positive Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to determine if Gallium-68 labeled DOTA-TOC will
+      result in the delineation of more lesions in patients with somatostatin receptor positive
+      malignancies than with conventional imaging.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2014</start_date>
+  <primary_completion_date type="Anticipated">June 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>Number of lesions visualized</measure>
+    <time_frame>24 hours from injection of DOTA-TOC</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Neuroendocrine Tumor</condition>
+  <condition>Paraganglioma</condition>
+  <condition>Carcinoid Tumors</condition>
+  <condition>Neuroblastoma</condition>
+  <arm_group>
+    <arm_group_label>Ga-68 DOTA-TOC PET/CT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DOTA-TOC PET/CT</intervention_name>
+    <description>Single Gallium-68 DOTA-TOC PET/CT in patients with somatostatin receptor positive malignancies.</description>
+    <arm_group_label>Ga-68 DOTA-TOC PET/CT</arm_group_label>
+    <other_name>Gallium-68 DOTA-TOC</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Known or suspected somatostatin receptor positive tumor such as carcinoid;
+             neuroendocrine tumor; neuroblastoma; pheochromocytoma.  Supporting evidence may
+             include MRI, CT, biochemical markers, and or pathology report.
+
+          -  Age &gt; 18.
+
+          -  Karnofsky performance status of &gt; 50 (or ECOG/WHO equivalent).
+
+          -  Not pregnant. A negative serum pregnancy test is required for all female subjects
+             with child-bearing potential.
+
+          -  Ability to understand a written informed consent document, and the willingness to
+             sign it
+
+        Exclusion Criteria:
+
+          -  Hepatic enzymes 5 times greater than the upper limits of normal, serum creatinine &gt;
+             3.0 mg/dL (270 uM/L)
+
+          -  Patients exceeding the weight limitations of the scanner or are not able to enter the
+             bore of the PET/CT scanner due to BMI
+
+          -  Inability to lie still for the entire imaging time (e.g. cough, severe arthritis,
+             etc.)
+
+          -  Inability to complete the needed investigational and standard-of-care imaging
+             examinations due to other reasons (severe claustrophobia, radiation phobia, etc.)
+
+          -  Any additional medical condition, serious intercurrent illness, or other extenuating
+             circumstance that, in the opinion of the Investigator, may significantly interfere
+             with study compliance
+
+          -  Recognized concurrent active infection
+
+          -  Previous systemic or radiation treatment for another cancer of any type within the
+             last 2 months
+
+          -  Use of any other investigational product or device within 30 days prior to dosing, or
+             known requirement for any other investigational agent prior to completion of all
+             scheduled study assessments.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas A Hope, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCSF Imaging Center at China Basin</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Samantha Wong</last_name>
+      <email>samantha.wong@ucsf.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.nanets.net/</url>
+    <description>North American NeuroEndocrine Tumor Society</description>
+  </link>
+  <verification_date>July 2014</verification_date>
+  <lastchanged_date>July 17, 2014</lastchanged_date>
+  <firstreceived_date>June 25, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, San Francisco</investigator_affiliation>
+    <investigator_full_name>Thomas Hope</investigator_full_name>
+    <investigator_title>Assistant Professor of Radiology and Biomedical Engineering</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Neuroblastoma</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+    <mesh_term>Paraganglioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Somatostatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

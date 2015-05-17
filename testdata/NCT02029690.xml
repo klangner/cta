@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="529">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT02029690</url>
+  </required_header>
+  <id_info>
+    <org_study_id>POLARIS2013-006</org_study_id>
+    <nct_id>NCT02029690</nct_id>
+  </id_info>
+  <brief_title>Ph 1 Study in Subjects With Tumors Requiring Arginine to Assess ADI-PEG 20 With Pemetrexed and Cisplatin</brief_title>
+  <acronym>TRAP</acronym>
+  <official_title>Phase 1 Study in Subjects With Tumors Requiring Arginine to Assess ADI-PEG 20 With Pemetrexed and Cisplatin (ADIPemCis) (TRAP Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Polaris Group</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Polaris Group</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A study of ADI-PEG 20 (pegylated arginine deiminase), an arginine degrading enzyme in
+      patients with histologically proven advanced MPM, advanced peritoneal mesothelioma (for dose
+      escalation cohort only) or non-squamous NSCLC (stage IIIB/IV).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Weekly ADI-PEG 20 will be cohort dose escalated (18, 27 and 36 mg/m2), with pemetrexed 500
+      mg/m2 and cisplatin 75 mg/m2 both given every 3 weeks. Subjects may receive a maximum of 6 -
+      3 week cycles of ADIPemCis for a total of 18 weeks of treatment. Those subjects completing
+      18 weeks may continue on ADI-PEG 20 monotherapy if they have SD or better.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2014</start_date>
+  <completion_date type="Anticipated">September 2016</completion_date>
+  <primary_completion_date type="Anticipated">July 2016</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Determine preliminary estimates of efficacy, measured by modified RECIST criteria for MPM and RECIST 1.1 criteria for non-squamous NSCLC, for ADI-PEG 20 in combination with pemetrexed and cisplatin</measure>
+    <time_frame>18 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Determine the MTD of ADI-PEG 20 in combination with pemetrexed and cisplatin</measure>
+    <time_frame>18 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">47</enrollment>
+  <condition>Pleural Mesothelioma Malignant Advanced</condition>
+  <condition>Peritoneal Mesothelioma Malignant Advanced</condition>
+  <condition>Non-squamous Non-small Cell Lung Carcinoma Stage IIIB/IV (NSCLC)</condition>
+  <arm_group>
+    <arm_group_label>ADI-PEG 20</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arginine deiminase formulated with polyethylene glycol</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ADI-PEG 20</intervention_name>
+    <arm_group_label>ADI-PEG 20</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically proven advanced MPM, advanced peritoneal mesothelioma (for dose
+             escalation cohort only) or non-squamous NSCLC (stage IIIB/IV) who have not been
+             treated with prior chemotherapy or immunotherapy, except that NSCLC subjects with
+             EGFR mutant or ALK positive must have had an EGFR tyrosine kinase inhibitor (TKI) or
+             ALK inhibitor and progressed or been shown to be intolerant of therapy prior to
+             enrolling in this trial, if such ALK inhibitor and EGFR targeted therapy are approved
+             and available in the country in which patients are being enrolled.
+
+          -  ASS1 deficiency (defined as ≤50% ASS expression) demonstrated on tissue specimen
+             (cytospin samples are acceptable) by immunohistochemistry (IHC).  biopsy
+
+          -  ECOG 0-1
+
+          -  Predicted life expectancy of at least 12 weeks.
+
+        Exclusion Criteria:
+
+          -  Radiotherapy (except for palliative reasons), targeted therapy, or immunotherapy the
+             previous four weeks before study treatment
+
+          -  Ongoing toxic manifestations of previous treatments.  Exceptions to this are alopecia
+             or certain Grade 1 toxicities, which in the opinion of the Investigator are stable
+             and with the trial sponsor approval should not exclude the patient
+
+          -  Symptomatic brain (patients must be stable for &gt; 1 month post radiotherapy or
+             surgery) or spinal cord metastases
+
+          -  Major thoracic or abdominal surgery from which the patient has not yet recovered
+
+          -  Therapeutic anticoagulation (prophylactic dose low molecular weight heparin is
+             acceptable).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Szlosarek, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Barts Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>John Bomalaski, MD</last_name>
+    <phone>858-452-6688</phone>
+    <phone_ext>114</phone_ext>
+    <email>jbomalaski@polarispharma.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Monica Diaz</last_name>
+    <phone>858-452-6688</phone>
+    <phone_ext>115</phone_ext>
+    <email>mdiaz@polarispharma.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Centre for Experimental Cancer Medicine (CECM)</name>
+      <address>
+        <city>London</city>
+        <state>England</state>
+        <zip>EC1M 6BQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter Szlosarek, MD, PhD</last_name>
+      <email>p.w.szlosarek@qmul.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2015</verification_date>
+  <lastchanged_date>March 26, 2015</lastchanged_date>
+  <firstreceived_date>December 16, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>argininosuccinate synthetase</keyword>
+  <keyword>arginine</keyword>
+  <keyword>arginine deiminase</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

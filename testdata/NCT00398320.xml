@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="596">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00398320</url>
+  </required_header>
+  <id_info>
+    <org_study_id>END0002</org_study_id>
+    <secondary_id>97273</secondary_id>
+    <secondary_id>END0002</secondary_id>
+    <nct_id>NCT00398320</nct_id>
+  </id_info>
+  <brief_title>Phase II Capecitabine, Oxaliplatin &amp; Bevacizumab for Metastatic / Unresectable Neuroendocrine Tumors</brief_title>
+  <official_title>A Phase II Study of Capecitabine, Oxaliplatin and Bevacizumab for Metastatic or Unresectable Neuroendocrine Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pamela L. Kunz</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Given the lack of other viable treatment options for metastatic neuroendocrine tumors,
+      contrasted with our positive anecdotal experience, and the relative tolerability of the
+      treatment regimen for colorectal cancer patients, we propose a single-institution phase II
+      trial investigating the efficacy of capecitabine, oxaliplatin and bevacizumab for patients
+      with metastatic neuroendocrine tumors.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY
+
+        1. Determine an estimation of median time to progression (TTP) for patients treated with
+           bevacizumab in combination with capecitabine and oxaliplatin
+
+        2. Assess the toxicities associated with this regimen
+
+      SECONDARY
+
+        1. Determine objective response rate (RR) for patients treated with this regimen
+
+        2. Conduct exploratory analyses of efficacy according to degree of tumor differentiation
+           and primary location
+
+        3. Determine utility of biochemical markers as a surrogate endpoint for tumor response
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2006</start_date>
+  <completion_date type="Actual">October 2012</completion_date>
+  <primary_completion_date type="Actual">October 2012</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>12-month Progression Free Survival (PFS)</measure>
+    <time_frame>assessed every 3 months by RECIST</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>PFS is defined as the time from enrollment until documented disease progression or death (whichever occurred first).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Toxicity by CTCAE Version 3.0</measure>
+    <time_frame>Assessed at every visit (approx every 3 wks)</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Participants were monitored every 3 weeks while on study.  Toxicity and attributions were as per CTCAE version 3.0 guidelines.  Analysis population below is patient who experienced related Grade 3 or higher AE; denominator is 40 total patients enrolled.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Response Rates</measure>
+    <time_frame>Response rates by RECIST criteria assessed every 3 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Response rate is defined as percent of patients with complete response (CR) and partial response (PR) as their best response as defined by RECIST criteria (version 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>Continuous</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>OS is defined as time from enrollment until death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical Markers</measure>
+    <time_frame>Assessed every 3 weeks while on treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Neuroendocrine Tumors</condition>
+  <arm_group>
+    <arm_group_label>Bevacizumab (Avastin), Oxaliplatin (Eloxatin)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Capecitabine</intervention_name>
+    <description>850 mg/m2 by mouth twice a day for days 1-14 oa a 21 day cycle</description>
+    <arm_group_label>Bevacizumab (Avastin), Oxaliplatin (Eloxatin)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oxaliplatin</intervention_name>
+    <description>130 mg/m2 intravenously on day 1 of a 21 day cycle</description>
+    <arm_group_label>Bevacizumab (Avastin), Oxaliplatin (Eloxatin)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bevacizumab</intervention_name>
+    <description>7.5mg/kg Intravenous on day 1 of a 21 day cycle</description>
+    <arm_group_label>Bevacizumab (Avastin), Oxaliplatin (Eloxatin)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:Subjects must be treated at Stanford University Medical Center for the
+        entire length of study participation.
+
+          -  Patients must have histologically or cytologically confirmed neuroendocrine tumor,
+             including both well-differentiated tumors (carcinoid) or moderately to poorly
+             differentiated tumors. Patients must be deemed unresectable due to involvement of
+             critical vasculature, adjacent organ invasion, or presence of metastasis.
+
+          -  Patients with prior surgical resection who develop radiological or clinical evidence
+             of metastatic cancer do not require separate histological or cytological confirmation
+             of metastatic disease unless an interval of &gt; 5 years has elapsed between the primary
+             surgery and the development of metastatic disease. Clinicians should consider biopsy
+             of lesions to establish diagnosis of metastatic disease if there is substantial
+             clinical ambiguity regarding the nature or source of apparent metastases.
+
+          -  Prior chemotherapy will be permitted, although the patient may not have had prior
+             oxaliplatin.
+
+          -  Patients must have a primary or metastatic lesion measurable in at least one
+             dimension by Modified RECIST criteria (see Section 4.2) within 4 weeks prior to entry
+             of study
+
+          -  Patients must have ECOG performance status of 0-2
+
+          -  Patients must be &gt;= 18 years of age
+
+          -  Laboratory values &lt;= 2 weeks prior to randomization:
+
+               -  Absolute Neutrophil Count (ANC)  &gt;=1500/mm3
+
+               -  Platelets (PLT) &gt;=  100,000/mm3
+
+               -  Hemoglobin (Hgb) &gt;= 9 g/dL
+
+               -  Serum creatinine &lt;= 1.5 x ULN
+
+               -  Serum bilirubin &lt;= 1.5 x ULN (&lt;= 3.0 x ULN if liver metastases present)
+
+               -  Aspartate aminotransferase (AST/SGOT), alanine aminotransferase (ALT/SGPT), and
+                  alkaline phosphatase &lt;= 3.0 x ULN (&lt;= 5.0 x ULN if liver metastases present).
+                  Note: ERCP or percutaneous stenting may be used to normalize the liver function
+                  tests.
+
+          -  Life expectancy &gt;= 12 weeks
+
+          -  Ability to give written informed consent according to local guidelines
+
+        Exclusion Criteria:- Disease-Specific Exclusions
+
+          1. Prior oxaliplatin for any reason.
+
+          2. Prior full field radiotherapy &lt;= 4 weeks or limited field radiotherapy &lt;= 2 weeks
+             prior to enrollment. Patients must have recovered from all therapy-related
+             toxicities. The site of previous radiotherapy should have evidence of progressive
+             disease if this is the only site of disease.
+
+          3. Prior biologic or immunotherapy &lt;= 2 weeks prior to registration. Patients must have
+             recovered from all therapy-related toxicities
+
+          4. Prior therapy with anti-VEGF agents
+
+          5. If history of other primary cancer, subject will be eligible only if she or he has:
+
+               -  Curatively resected non-melanomatous skin cancer
+
+               -  Curatively treated cervical carcinoma in situ
+
+               -  Other primary solid tumor curatively treated with no known active disease
+                  present and no treatment administered for the last 3 years
+
+          6. Concurrent use of other investigational agents and patients who have received
+             investigational drugs &lt;= 4 weeks prior to enrollment.
+
+               -  General Medical Exclusions
+
+        1. Subjects known to have chronic or active hepatitis B or C infection 2. History of any
+        medical or psychiatric condition or laboratory abnormality that in the opinion of the
+        investigator may increase the risks associated with study participation or study drug
+        administration or may interfere with the conduct of the study or interpretation of study
+        results 3. Male subject who is not willing to use adequate contraception upon enrollment
+        into this study and for 6 months following the last dose of second-line treatment 4.
+        Female subject (of childbearing potential, post-menopausal for less than 6 months, not
+        surgically sterilized, or not abstinent) who is not willing to use an oral, patch or
+        implanted contraceptive, double-barrier birth control, or an IUD during the course of the
+        study and for 6 months following the last dose of second-line treatment 5. Female subject
+        who is breast-feeding or who has positive serum pregnancy test 72 hours prior to
+        randomization 6. Pleural effusion or ascites that causes respiratory compromise (&gt;= CTCAE
+        grade 2 dyspnea) 7. Any of the following concurrent severe and/or uncontrolled medical
+        conditions within 24 weeks of enrollment which could compromise participation in the
+        study:
+
+          -  Unstable angina pectoris
+
+          -  Symptomatic congestive heart failure
+
+          -  Myocardial infarction &lt;= 6 months prior to registration and/or randomization
+
+          -  Serious uncontrolled cardiac arrhythmia
+
+          -  Uncontrolled diabetes
+
+          -  Active or uncontrolled infection
+
+          -  Interstitial pneumonia or   extensive and symptomatic interstitial fibrosis of the
+             lung
+
+          -  Chronic renal disease
+
+          -  Acute or chronic liver disease (e.g., hepatitis, cirrhosis) 8. Patients unwilling to
+             or unable to comply with the protocol 9. Life expectancy of less than 12 weeks 10.
+             Current, recent (within 4 weeks of the first infusion of this study), or planned
+             participation in an experimental drug study other than a Genentech-sponsored
+             bevacizumab cancer study
+
+               -  Bevacizumab-Specific Exclusions
+
+                    1. Inadequately controlled hypertension (defined as systolic blood pressure &gt;
+                       150 and/or diastolic blood pressure &gt; 100 mmHg on antihypertensive
+                       medications)
+
+                    2. Any prior history of hypertensive crisis or hypertensive encephalopathy
+
+                    3. New York Heart Association (NYHA) Grade II or greater congestive heart
+                       failure (see Appendix E)
+
+                    4. History of myocardial infarction or unstable angina within 6 months prior
+                       to study enrollment
+
+                    5. History of stroke or transient ischemic attack within 6 months prior to
+                       study enrollment
+
+                    6. Known CNS disease
+
+                    7. Significant vascular disease (e.g., aortic aneurysm, aortic dissection)
+
+                    8. Symptomatic peripheral vascular disease
+
+                    9. Evidence of bleeding diathesis or coagulopathy
+
+                   10. Major surgical procedure, open biopsy, or significant traumatic injury
+                       within 28 days prior to study enrollment or anticipation of need for major
+                       surgical procedure during the course of the study
+
+                   11. Core biopsy or other minor surgical procedure, excluding placement of a
+                       vascular access device, within 7 days prior to study enrollment
+
+                   12. History of abdominal fistula, gastrointestinal perforation, or
+                       intra-abdominal abscess within 6 months prior to study enrollment
+
+                   13. Serious, non-healing wound, ulcer, or bone fracture
+
+                   14. Urine protein &gt;= 2+ on urinalysis dipstick and &gt;= 1.0 gram on 24-hour urine
+                       collection
+
+                   15. Known hypersensitivity to any component of bevacizumab
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pam Kunz</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University School of Medicine</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 15, 2013</lastchanged_date>
+  <firstreceived_date>October 31, 2006</firstreceived_date>
+  <firstreceived_results_date>October 15, 2013</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Pamela L. Kunz</investigator_full_name>
+    <investigator_title>Assistant Professor of Medicine</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Capecitabine</mesh_term>
+    <mesh_term>Oxaliplatin</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="182">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT02273752</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00072091</org_study_id>
+    <secondary_id>NCI-2014-02112</secondary_id>
+    <secondary_id>WINSHIP2645-14</secondary_id>
+    <nct_id>NCT02273752</nct_id>
+  </id_info>
+  <brief_title>Pharmacokinetically Guided Everolimus in Patients With Breast Cancer, Pancreatic Neuroendocrine Tumors, or Kidney Cancer</brief_title>
+  <official_title>Phase II Evaluation of Real-Time, Pharmacokinetically Guided Everolimus in Patients With Hormone Receptor Positive Breast Cancer, Pancreatic Neuroendocrine Tumors (PNET), and Renal Cell Carcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Emory University</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies how well real-time pharmacokinetic therapeutic drug monitoring
+      works in preventing stomatitis from developing in patients with hormone receptor positive
+      breast cancer, pancreatic neuroendocrine tumors, or kidney cancer that are receiving a type
+      of cancer drug called everolimus. Stomatitis is a common side effect of everolimus that
+      causes inflammation of the mouth, with or without oral ulcers, and frequently leads to
+      patients discontinuing the medication. Monitoring the blood levels of everolimus and making
+      adjustments in a patient's dose may be able to decrease the incidence of stomatitis, while
+      maintaining the effectiveness of everolimus to treat the cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:
+
+      To determine frequency of any grade of stomatitis at day 29 (cycle 2, day 1) in patients
+      receiving dose-adjusted everolimus.
+
+      SECONDARY OBJECTIVES:
+
+        1. Progression-free survival rates at 6 months.
+
+        2. Pharmacodynamic (PD)-inhibition of downstream mammalian target of rapamycin (mTOR)
+           effectors in peripheral blood.
+
+        3. Number of dose adjustments required.
+
+        4. Percentage of days on therapy.
+
+        5. Average minimum concentration (Cmin) values.
+
+        6. Frequency and type of treatments for stomatitis.
+
+        7. Genetic predictors of stomatitis development in selected outlier patients.
+
+      OUTLINE:
+
+      Patients receive everolimus orally (PO) daily on days 1-28. Treatment repeats every 28 days
+      for up to 6 courses in the absence of disease progression or unacceptable toxicity. Patients
+      also undergo real-time pharmacokinetic therapeutic drug monitoring (TDM) on days 4, 8, and
+      15 of course 1. Dosing adjustments of everolimus will be performed on day 8, if necessary.
+      If the everolimus dose is adjusted, patients will continue to undergo real-time
+      pharmacokinetic TDM weekly until goal concentrations are achieved on 2 consecutive measures.
+      Patients whose everolimus dose is not adjusted undergo real-time pharmacokinetic TDM on day
+      1 of courses 2-6.
+
+      After completion of study treatment, patients are followed up every 12 weeks.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2014</start_date>
+  <completion_date type="Anticipated">May 2017</completion_date>
+  <primary_completion_date type="Anticipated">October 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Incidence of stomatitis</measure>
+    <time_frame>Day 29</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Stomatitis graded rates and severity will be evaluated and recorded per World Health Organization and Common Terminology Criteria for Adverse Events criteria in the study population.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival (PFS)</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>PFS will be evaluated based on rates of cancer progression and time to progression in the population. Progression will be determined using standard RECIST criteria. The median PFS for this study will be estimated by Kaplan-Meier method along with 95% confidence interval.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Downstream markers of mTOR function measured in peripheral blood mononuclear cells</measure>
+    <time_frame>Up to day 15 of course 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Pharmacodynamics will be evaluated for phosphorylated and non-phosphorylated ribosomal protein S6 kinase, protein kinase B, and eukaryotic translation initiation factor 4E-binding protein 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of days on therapy</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage of days on therapy will be calculated using the formula: (expected - actual days)/expected x 100.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dose interruptions and adjustments</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Dose interruptions and adjustments will be made on a per subject basis and total for the population.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of treatments for stomatitis</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Frequency of treatments for stomatitis will be collection of prescription and non-prescription interventions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Type of treatments for stomatitis</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Type of treatments for stomatitis will be collection of prescription and non-prescription interventions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rate assessed using RECIST criteria</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Response rate will be measured at different time points, e.g. 8, 16, and 24 weeks, and will be summarized as percentage of stable disease, complete remission or partial remission along with 95% confidence interval.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">26</enrollment>
+  <condition>Estrogen Receptor-positive Breast Cancer</condition>
+  <condition>Gastrinoma</condition>
+  <condition>Glucagonoma</condition>
+  <condition>HER2-negative Breast Cancer</condition>
+  <condition>Insulinoma</condition>
+  <condition>Mucositis</condition>
+  <condition>Oral Complications</condition>
+  <condition>Pancreatic Polypeptide Tumor</condition>
+  <condition>Progesterone Receptor-positive Breast Cancer</condition>
+  <condition>Recurrent Breast Cancer</condition>
+  <condition>Recurrent Islet Cell Carcinoma</condition>
+  <condition>Recurrent Renal Cell Cancer</condition>
+  <condition>Somatostatinoma</condition>
+  <condition>Stage III Renal Cell Cancer</condition>
+  <condition>Stage IIIA Breast Cancer</condition>
+  <condition>Stage IIIB Breast Cancer</condition>
+  <condition>Stage IIIC Breast Cancer</condition>
+  <condition>Stage IV Breast Cancer</condition>
+  <condition>Stage IV Renal Cell Cancer</condition>
+  <arm_group>
+    <arm_group_label>Supportive care (real-time pharmacokinetic TDM of everolimus)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive everolimus PO daily on days 1-28. Treatment repeats every 28 days for up to 6 courses in the absence of disease progression or unacceptable toxicity. Patients also undergo real-time pharmacokinetic TDM on days 4, 8, and 15 of course 1. Dosing adjustments of everolimus will be performed on day 8, if necessary. If the everolimus dose is adjusted, patients will continue to undergo real-time pharmacokinetic TDM weekly until goal concentrations are achieved on 2 consecutive measures. Patients whose everolimus dose is not adjusted undergo real-time pharmacokinetic TDM on day 1 of courses 2-6.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>everolimus</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Supportive care (real-time pharmacokinetic TDM of everolimus)</arm_group_label>
+    <other_name>42-O-(2-hydroxy)ethyl rapamycin</other_name>
+    <other_name>Afinitor</other_name>
+    <other_name>RAD001</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+
+          -  Confirmed diagnosis of:
+
+               -  Postmenopausal advanced hormone receptor-positive, human epidermal growth factor
+                  receptor 2 (HER2)-negative breast cancer after failure of treatment with
+                  letrozole or anastrozole
+
+               -  Progressive neuroendocrine tumors of pancreatic origin (PNET) that is
+                  unresectable, locally advanced or metastatic
+
+               -  Advanced renal cell carcinoma (RCC) after failure of treatment with sunitinib or
+                  sorafenib
+
+          -  Histologically confirmed, measurable or evaluable disease; patients should have at
+             least one measurable lesion; if applicable, Response Evaluation Criteria in Solid
+             Tumors (RECIST) criteria should be used
+
+          -  Absolute neutrophil count (ANC) &gt; 1,500/μL
+
+          -  Platelets ≥ 100,000/μL
+
+          -  Hemoglobin &gt; 10 g/dL
+
+          -  Creatinine ≤ 1.5 x upper limit of normal (ULN)
+
+          -  Bilirubin ≤ 1.5 x ULN
+
+          -  International normalized ratio (INR) ≤ 1.3 (or ≤ 3 on warfarin)
+
+          -  Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) &lt; 2 x ULN unless
+             related to primary disease
+
+          -  Signed informed consent
+
+          -  Adequate birth control when appropriate
+
+          -  Fasting serum cholesterol ≤ 300 mg/dL OR ≤ 7.75 mmol/L AND fasting triglycerides ≤
+             2.5 x ULN; NOTE: in case one or both of these thresholds are exceeded, the patient
+             can only be included after initiation of appropriate lipid lowering medication
+
+        Exclusion Criteria:
+
+          -  Prior treatment with everolimus or other mTOR inhibitor
+
+          -  Active infection: temperature &gt; 100 Fahrenheit (F), fever of unknown origin, active
+             symptoms or signs of infection as defined by the investigator
+
+          -  Pregnant or lactating women
+
+          -  Prior chemotherapy within the last 4 weeks, or 5 half-lives, whichever is shorter
+
+          -  Prior radiation therapy within the last 2 weeks; prior radiation therapy to indicator
+             lesion (unless objective disease recurrence or progression within the radiation
+             portal has been documented since completion of radiation)
+
+          -  Emotional limitations, which the investigator judges could limit the patient's
+             ability to follow up and comply with study procedures
+
+          -  Known liver disease such as cirrhosis, chronic active hepatitis or chronic persistent
+             hepatitis
+
+          -  Female patients who are pregnant or breast feeding, or adults of reproductive
+             potential who are not using effective birth control methods; if barrier
+             contraceptives are being used, these must be continued throughout the trial by both
+             sexes; hormonal contraceptives are not acceptable as a sole method of contraception;
+             (women of childbearing potential must have a negative urine or serum pregnancy test
+             within 7 days prior to administration of everolimus)
+
+          -  Symptomatic intrinsic lung disease or extensive tumor involvement of the lungs,
+             resulting in dyspnea at rest
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>R. Donald Harvey, PharmD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Emory University/Winship Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>R. Donald Harvey, PharmD</last_name>
+    <phone>404-778-4381</phone>
+    <email>donald.harvey@emory.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Emory University Hospital Midtown</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rijalda Deovic</last_name>
+      <phone>404-778-5849</phone>
+      <email>rijalda.deovic@emory.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University/Winship Cancer Institute</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rijalda Deovic</last_name>
+      <phone>404-778-5849</phone>
+      <email>rijalda.deovic@emory.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2015</verification_date>
+  <lastchanged_date>April 23, 2015</lastchanged_date>
+  <firstreceived_date>October 22, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Emory University</investigator_affiliation>
+    <investigator_full_name>R. Donald Harvey, PharmD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adenoma, Islet Cell</mesh_term>
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Carcinoma, Islet Cell</mesh_term>
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+    <mesh_term>Gastrinoma</mesh_term>
+    <mesh_term>Glucagonoma</mesh_term>
+    <mesh_term>Insulinoma</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+    <mesh_term>Somatostatinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Everolimus</mesh_term>
+    <mesh_term>Sirolimus</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

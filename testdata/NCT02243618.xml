@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="155">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT02243618</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4-2014-0381</org_study_id>
+    <nct_id>NCT02243618</nct_id>
+  </id_info>
+  <brief_title>The Effect of Proton Pump Inhibitor and Polaprezinc Combination Therapy for Healing of Endoscopic Submucosal Dissection-induced Ulcer</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yonsei University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Yonsei University</source>
+  <oversight_info>
+    <authority>Korea: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Endoscopic submucosal dissection (ESD) is an advanced technique that enables en bloc
+      resection of superficial tumors in the gastrointestinal tract. ESD, however, is a
+      time-consuming procedure that requires a high level of endoscopic skill to achieve a
+      desirable oncologic outcome. Several procedure-related complications may occur after ESD.
+      Especially, iatrogenic ulcer bleeding after ESD can be a concern for both endoscopists and
+      patients. In order to reduce the bleeding rate, proton pump inhibitors (PPIs) are
+      administered after ESD. In addition, ulcer protective agents such as rebamipide can be added
+      to PPIs for accelerating ulcer healing. We aimed to evaluate the efficacy of polaprezinc for
+      healing of iatrogenic ulcer.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>September 2014</start_date>
+  <completion_date type="Anticipated">August 2015</completion_date>
+  <primary_completion_date type="Anticipated">August 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Ulcering healing rate</measure>
+    <time_frame>4 weeks after the ESD</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Healing rate of the iatrogenic ulcer according to the type of ulcer protective agents (polaprezinc vs. rebamipide).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Scarring change rate</measure>
+    <time_frame>4 weeks after the ESD</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Scarring change rate of the iatrogenic ulcer according to the type of ulcer protective agents (polaprezinc vs. rebamipide).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">218</enrollment>
+  <condition>Gastric Adenoma and Early Gastric Cancer</condition>
+  <arm_group>
+    <arm_group_label>Rebamipide group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Polaprezinc group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Polaprezinc</intervention_name>
+    <description>Administration of pantoprazole 40 mg q.d. and polaprezinc 75 mg b.i.d. for 4 weeks after the ESD.</description>
+    <arm_group_label>Polaprezinc group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rebamipide</intervention_name>
+    <description>Administration of pantoprazole 40 mg q.d. and rebamipide 100 mg t.i.d. for 4 weeks after the ESD.</description>
+    <arm_group_label>Rebamipide group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Age, between 19 and 79
+
+          2. Patients with gastric adenoma or early gastric cancer
+
+          3. Patients with ECOG-PS 0 or 1
+
+          4. Patients with adequate renal function
+
+          5. Patients with adequate hepatic function
+
+          6. Patients with adequate bone marrow function
+
+        Exclusion Criteria:
+
+          1. Patients who has taken the medications for ulcer including PPIs, H2 blockers, and
+             mucosal protective agents within 3 months prior to the ESD.
+
+          2. Patients who has taken steroid or NSAIDswithin 3 months prior to the ESD.
+
+          3. Patients who has undergone gastrostomy
+
+          4. Patients with allergy for pantoprazole, polaprezinc, or rebamipide.
+
+          5. Pregnant or breast feeding.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>79 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jun Chul Park, MD</last_name>
+    <phone>82-2-2228-2272</phone>
+    <email>junchul75@yuhs.ac</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sevrance hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>July 2014</verification_date>
+  <lastchanged_date>September 15, 2014</lastchanged_date>
+  <firstreceived_date>September 15, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Polaprezinc</mesh_term>
+    <mesh_term>Proton Pump Inhibitors</mesh_term>
+    <mesh_term>Rebamipide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

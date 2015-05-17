@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="418">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT02357147</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MORAb-009-201</org_study_id>
+    <nct_id>NCT02357147</nct_id>
+  </id_info>
+  <brief_title>Study of the Safety and Efficacy of Amatuximab in Combination With Pemetrexed and Cisplatin in Subjects With Unresectable Malignant Pleural Mesothelioma (MPM).</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-controlled Study of the Safety and Efficacy of Amatuximab in Combination With Pemetrexed and Cisplatin in Subjects With Unresectable Malignant Pleural Mesothelioma.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Morphotek</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Morphotek</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter, double-blind, randomized, parallel-group study, using a placebo
+      control or amatuximab 5 mg/kg, administered weekly, designed to evaluate the safety and
+      efficacy of amatuximab in combination with pemetrexed and cisplatin in subjects with
+      unresectable Malignant Pleural Mesothelioma who have not received prior systemic therapy.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>April 2015</start_date>
+  <completion_date type="Anticipated">September 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Until date of death or up to 60 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>OS is defined as the time from the date of randomization to the date of death, regardless of cause.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>First observation of disease progression or until date of death or up to 60 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>PFS is defined as the time (in weeks) from the date of randomization to the date of the first observation of progression as determined by the independent radiologic assessment using the modified Response Evaluation Criteria In Solid Tumors (RECIST) criteria or the date of death, whichever comes first, regardless of the cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate [ORR]</measure>
+    <time_frame>Until date of death or up to 60 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>ORR (the proportion of subjects with complete response [CR] and partial response [PR]) as defined by the modified RECIST criteria using an independent radiologic review of computed tomography (CT)/Magnetic resonance imaging (MRI) scan.  Objective response will be assessed at select visits during the Combination Treatment Phase as well as the Maintenance Treatment Phase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DR)</measure>
+    <time_frame>First documentation of objective tumor progression or until date of death or up to 60 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>DR is defined as the time from the first documentation of objective tumor response to the first documentation of objective tumor progression or to death on study (ie, within 30 days after the last dose of Test Article).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rates (DCR)</measure>
+    <time_frame>Until date of death or up to 60 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>DCR is the proportion of subjects with CR, PR, or stable disease (SD) as defined by the modified RECIST criteria using an independent radiologic review of CT/MRI scan.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of disease control (DDC)</measure>
+    <time_frame>First documentation of objective tumor progression or until date of death or up to 60 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>DDC is defined as the time from the first documentation of objective tumor response or SD to the first documentation of objective tumor progression or to death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health related quality of life (QOL)</measure>
+    <time_frame>Until date of death or up to 60 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>QOL as measured by the Lung Cancer Symptom Scale for mesothelioma (LCSS-Meso; Hollen, et al., 2006) as the treatment population average across the duration of the trial for 9 items.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Performance Status Maintenance (DPSM)</measure>
+    <time_frame>Until date of death or up to 60 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>DPSM is defined as the time from randomization until the last time the performance status was no worse than at baseline or to death on study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and tolerability as a measure of number of participants with Adverse Events (AEs)/Serious Adverse Events (SAEs)</measure>
+    <time_frame>Until date of death or up to 60 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Safety assessments will consist of monitoring and recording all adverse events, including adverse events of interest, hypersensitivity adverse events and serious adverse events; regular monitoring of hematology, blood chemistry, and urine values; regular monitoring of electrocardiograms (ECGs); periodic measurement of vital signs; and performance of physical examinations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) and pharmacodynamic (PD) profile</measure>
+    <time_frame>Serum samples of amatuximab at Day 1 of every Cycle during the combination treatment phase and every third cycle during the maintenance treatment phase until first evidence of disease progression or up to 60</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>PK and PD profile is analyzed to study exposure-response relationships for effects of amatuximab on OS, PFS, ORR, DR, DCR, DDC and DPSM and hypersensitivity adverse events.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">610</enrollment>
+  <condition>Mesothelioma, Malignant</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Combination Phase - Amatuximab + Pemetrexed and Cisplatin
+Maintenance Phase - Amatuximab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Combination Phase - Placebo + Pemetrexed and Cisplatin
+Maintenance Phase - Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Combination Phase - Placebo will be administered IV (intravenous infusion) once weekly for six 21-day cycles.
+Maintenance Phase - Placebo will be administered IV (intravenous infusion) once weekly until disease progression.</description>
+    <arm_group_label>Arm 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amatuximab</intervention_name>
+    <description>Combination Phase - Amatuximab 5mg/kg will be administered IV (intravenous infusion) once weekly for six 21-day cycles.
+Maintenance Phase - Amatuximab 5mg/kg will be administered IV (intravenous infusion) once weekly until disease progression.</description>
+    <arm_group_label>Arm 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pemetrexed</intervention_name>
+    <description>Combination Phase - Pemetrexed 500 mg/m2 will be administered IV on Day 1 of each 21-day cycle for 6 cycles.</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <description>Combination Phase - Cisplatin 75 mg/m2 will be administered IV on Day 1 of each 21-day cycle for 6 cycles.</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Subjects must meet all of the following criteria to be included in this study:
+
+          1. Are at least 18 years of age at the time of informed consent.
+
+          2. Have confirmed diagnosis of MPM with the following characteristics:
+
+               1. Unresectable disease (defined as the subject not being a candidate for curative
+                  surgery).
+
+               2. Epithelial type.
+
+               3. Have an archived tissue sample to be submitted either as a formalin fixed
+                  paraffin embedded (FFPE) tumor block, or 5 to 15 unstained slides.
+
+          3. Have measurable disease at Screening by computed tomography (CT) (or magnetic
+             resonance imaging [MRI]) as defined by at least 1 lesion of greater than or equal to
+             1.5 cm in the longest diameter for a non-lymph node or greater than or equal to 1.5
+             cm in the short-axis diameter for a lymph node that is serially measurable according
+             to the modified RECIST criteria.
+
+          4. Have other significant medical conditions well-controlled and stable in the opinion
+             of the investigator for at least 30 days prior to Day 1.
+
+          5. Have an Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1 at
+             Screening.
+
+          6. Have a life expectancy of at least 3 months, as estimated by the investigator.
+
+          7. Have adequate organ reserve as determined by laboratory test results obtained within
+             2 weeks prior to Study Day 1 as indicated below:
+
+               1. Absolute neutrophil count greater than or equal to 1.5 x 10^9/L.
+
+               2. Platelet count greater than or equal to 100 x 10^9/L.
+
+               3. Hemoglobin greater than or equal to 9 g/dL.
+
+               4. Serum bilirubin less than or equal to 1.5 x upper limit of normal (ULN)
+                  (Subjects with serum bilirubin abnormalities greater than this specified limit
+                  are eligible only if they have known Gilberts disease).
+
+               5. Aspartate aminotransferase less than or equal to 3 x ULN.
+
+               6. Alanine aminotransferase less than or equal to 3 x ULN.
+
+               7. Alkaline phosphatase less than or equal to 3 x ULN.
+
+          8. Have a calculated serum creatinine clearance greater than or equal to 45 mL/min using
+             the Cockcroft-Gault equation.
+
+          9. Pregnant and/or lactating females are excluded; a negative beta-human chorionic
+             gonadotropin (beta-hCG) is required during Screening, and a separate assessment is
+             required if a negative screening pregnancy test was obtained more than 72 hours
+             before the first dose of Test Article.
+
+         10. Subjects of childbearing potential must be surgically sterile or consent to use a
+             medically acceptable method of contraception throughout the study period. All females
+             will be considered to be of childbearing potential unless they are postmenopausal
+             (amenorrheic for at least 12 consecutive months, in the appropriate age group, and
+             without other known or suspected cause) or have been sterilized surgically (ie,
+             bilateral tubal ligation, total hysterectomy, or bilateral oophorectomy). If a
+             patient of childbearing potential is neither surgically sterile nor postmenopausal,
+             contraceptive measures must start either prior to or at Screening and continue
+             throughout the entire study period and for 30 days after the last dose of Test
+             Article is administered.
+
+         11. Male subjects must have had a successful vasectomy (confirmed azoospermia) or they
+             and their female partners must meet the criteria above (ie, not of childbearing
+             potential or practicing highly effective contraception throughout the study period
+             and for 5 weeks after Test Article discontinuation). No sperm donation is allowed
+             during the study period and for 90 days after Test Article discontinuation.
+
+         12. Be willing and able to provide written informed consent.
+
+         13. Be willing and able to comply with all aspects of the protocol.
+
+        Exclusion Criteria:
+
+        Subjects who meet any of the following criteria will be excluded from this study:
+
+          1. Have any history of the following:
+
+               1. Prior systemic therapy or radiotherapy for MPM; local radiotherapy of
+                  noncurative intent (ie, for prevention of instrument-tract recurrence [National
+                  Comprehensive Cancer Network, 2013] and/or symptom control) is permitted.
+
+               2. Evidence of other active, invasive malignancy requiring treatment within the
+                  past 5 years.
+
+          2. Currently have mesothelioma of the sarcomatous type, mixed histologic disease, or
+             have malignant peritoneal mesothelioma.
+
+          3. Have confirmed presence of central nervous system metastases.
+
+          4. Active viral hepatitis or active human immunodeficiency virus infection.
+
+          5. Have evidence of any other serious systemic disease, including active bacterial or
+             fungal infection, or any medical condition that, in the opinion of the
+             investigator(s) could affect the subject's safety or interfere with the study
+             assessments.
+
+          6. Clinically significant heart disease (eg, congestive heart failure of New York Heart
+             Association Class 3 or 4, angina not well controlled by medication, or myocardial
+             infarction within 6 months).
+
+          7. ECG demonstrating clinically significant arrhythmias (Note:  subjects with chronic
+             atrial arrhythmia, ie, atrial fibrillation or paroxysmal supraventricular
+             tachycardia, are eligible). A clinically significant ECG abnormality, including a
+             marked prolonged QT/QTc interval (eg, a repeated demonstration of a QTc interval of
+             greater than 500 ms).
+
+          8. Have known intolerance to the Test Article (ie, documented hypersensitivity AE to
+             prior monoclonal antibody therapy, or to amatuximab or any of its excipients).
+
+          9. Have any medical or other condition that in the opinion of the investigator(s) would
+             preclude the subject's participation in a clinical study.
+
+         10. Are scheduled for debulking surgery during the study.
+
+         11. Are currently enrolled in another clinical study or used any investigational drug or
+             device within 30 days (or 5 x the half-life of the investigational drug/device,
+             whichever is longer) preceding informed consent.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>MORPHOTEK INC.</last_name>
+    <email>info@morphotek.com</email>
+  </overall_contact>
+  <verification_date>January 2015</verification_date>
+  <lastchanged_date>February 2, 2015</lastchanged_date>
+  <firstreceived_date>January 14, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Amatuximab</keyword>
+  <keyword>Pemetrexed</keyword>
+  <keyword>Cisplatin</keyword>
+  <keyword>Unresectable Malignant Pleural Mesothelioma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Pemetrexed</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

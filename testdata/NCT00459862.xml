@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="305">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00459862</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2009-00656</org_study_id>
+    <secondary_id>NCI-2009-00656</secondary_id>
+    <secondary_id>CDR0000539269</secondary_id>
+    <secondary_id>N0623</secondary_id>
+    <secondary_id>N0623</secondary_id>
+    <secondary_id>U10CA025224</secondary_id>
+    <nct_id>NCT00459862</nct_id>
+  </id_info>
+  <brief_title>Pazopanib in Treating Patients With Malignant Pleural Mesothelioma</brief_title>
+  <official_title>Phase II Study of GW786034 in Patients With Malignant Pleural Mesothelioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial is studying the side effects and how well pazopanib works in treating
+      patients with malignant pleural mesothelioma. Pazopanib may stop the growth of tumor cells
+      by blocking some of the enzymes needed for cell growth and by blocking blood flow to the
+      tumor.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. Determine the effect of pazopanib hydrochloride on the proportion of patients with
+      malignant pleural mesothelioma who are progression-free at 6 months based on the RECIST
+      criteria.
+
+      II. Determine the clinical toxicities of this drug in this patient population.
+
+      SECONDARY OBJECTIVES:
+
+      I. Determine the objective tumor response status in these patients as measured by the RECIST
+      criteria or the modified RECIST criteria.
+
+      II. Determine the response rate in patients treated with this drug. III. Determine the
+      effect of this drug on overall survival and time to progression in these patients.
+
+      IV. Assess predictive markers of activity of this drug in these patients. V. Assess
+      serologic markers of target inhibition by this drug in these patients.
+
+      VI. Determine the clinical toxicities of this drug in this patient population.
+
+      OUTLINE: This is a multicenter study.
+
+      Patients receive oral pazopanib hydrochloride once daily on days 1-21. Treatment repeats
+      every 21 days for 2 years in the absence of disease progression or unacceptable toxicity.
+
+      Blood is collected at baseline and prior to each course of therapy and analyzed for markers
+      of angiogenesis.
+
+      After completion of study therapy, patients are followed every 3 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2007</start_date>
+  <completion_date type="Actual">May 2013</completion_date>
+  <primary_completion_date type="Actual">April 2009</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Proportion of Evaluable Participants Who Are Progression-free at 6 Months Based on the Response Evaluation Criteria for Solid Tumors (RECIST)</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The proportion of patients who are progression-free at 6 months is calculated by dividing the number of evaluable participants who are progression-free at 6 months based on the Response Evaluation Criteria for Solid Tumors (RECIST) by the total number of evaluable participants.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>From study enrollment to time of death from any cause or censored at last follow-up, up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free Survival Assessed by RECIST</measure>
+    <time_frame>From study enrollment to the first date of disease progression or death as a result of any cause, whichever occurs first, up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine the Clinical Toxicities of This Drug in This Participant Population.</measure>
+    <time_frame>Participants will be evaluated every cycle during treatment</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The number of participants with a reported Grade 3, Grade 4, and Grade 5 toxicity, regardless of attribution, will be tabulated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Best Response of Target Lesions to Pazopanib in Patients With MPM Based on the RECIST.</measure>
+    <time_frame>From study enrollment to the first date of disease progression</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Complete Response (CR): Disappearance of all target lesions.
+Partial Response (PR): At least a 30% decrease in the sum of the longest diameter (LD) of target lesions taking as reference the baseline LD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate</measure>
+    <time_frame>Participants will be evaluated every cycle during treatment, up to 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the confirmed response rate of pazopanib in patients with MPM based on the RECIST criteria for MPM. Responses are confirmed by repeat assessments that are be performed no less than 4 weeks after the criteria for response are first met.
+Complete Response (CR): Disappearance of all target lesions.
+Partial Response (PR): At least a 30% decrease in the sum of the LD of target lesions taking as reference the baseline sum LD.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">34</enrollment>
+  <condition>Advanced Malignant Mesothelioma</condition>
+  <condition>Localized Malignant Mesothelioma</condition>
+  <condition>Recurrent Malignant Mesothelioma</condition>
+  <arm_group>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive 800 mg oral pazopanib hydrochloride once daily on days 1-21. Treatment repeats every 21 days for 2 years in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative study</description>
+    <arm_group_label>Arm I</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>pazopanib hydrochloride</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Arm I</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically or cytologically confirmed malignant pleural mesothelioma:
+
+               -  Measurable disease
+
+               -  No progressive disease inside or outside of any prior radiation field
+
+          -  No symptomatic, untreated, or uncontrolled CNS metastases
+
+               -  Patients with CNS metastases treated with whole brain radiation (WBRT) may be
+                  enrolled after completion of WBRT
+
+                    -  Patients may begin study therapy as early as the next day after completion
+                       of WBRT
+
+          -  ECOG performance status 0-2
+
+          -  Life expectancy &gt;= 12 weeks
+
+          -  ANC &gt;=1,500/mm^3
+
+          -  Platelet count &gt;= 100,000/mm^3
+
+          -  WBC &gt;= 3,000/mm^3
+
+          -  Bilirubin =&lt; 1.5 times upper limit of normal (ULN)
+
+          -  AST and ALT =&lt; 2.5 times ULN
+
+          -  Alkaline phosphatase =&lt; 2.5 times ULN
+
+          -  Creatinine =&lt; 1.5 times ULN or creatinine clearance &gt;= 50 mL/min
+
+          -  Proteinuria =&lt; 1+ on 2 consecutive dipsticks taken &gt;= 1 week apart
+
+          -  No condition that impairs ability to swallow and retain study drug tablets including,
+             but not limited to, any of the following:
+
+               -  Gastrointestinal tract disease resulting in an inability to take oral medication
+
+               -  Requirement for IV alimentation
+
+               -  Prior surgical procedures affecting absorption
+
+               -  Active peptic ulcer disease
+
+          -  No other primary malignancy except for carcinoma in situ of the cervix or
+             nonmelanomatous skin cancer, unless that prior malignancy was diagnosed and
+             definitively treated ≥ 5 years ago with no subsequent evidence of recurrence
+
+          -  Patients with a history of low-grade (Gleason score =&lt; 6) localized prostate cancer
+             are eligible even if diagnosed within the past 5 years
+
+          -  No history of allergic reactions attributed to compounds of similar chemical or
+             biological composition to pazopanib hydrochloride or other agents used in the study
+
+          -  None of the following concurrent severe and/or uncontrolled medical conditions:
+
+               -  Serious or nonhealing wound, ulcer, or bone fracture
+
+               -  Abdominal fistula, diverticulosis, gastrointestinal perforation, or
+                  intra-abdominal abscess within the past 28 days
+
+               -  Poorly controlled diabetes
+
+               -  Interstitial pneumonia
+
+               -  Extensive and symptomatic interstitial fibrosis of the lung
+
+          -  No cardiovascular illness or complication, including any of the following:
+
+               -  Any history of cerebrovascular accident within the past 6 months
+
+               -  History of myocardial infarction (prior electrocardiographic evidence of
+                  myocardial injury)
+
+               -  History of cardiac arrhythmia (prior electrocardiographic evidence of abnormal
+                  heart rhythm)
+
+               -  Admission for unstable angina
+
+               -  Cardiac angioplasty or stenting within the past 12 months
+
+               -  NYHA class III-IV heart failure
+
+                    -  Asymptomatic NYHA class II heart failure allowed
+
+               -  QTc prolongation (defined as a QTc interval ≥ 500 msecs) or other significant
+                  electrocardiogram abnormalities
+
+               -  Venous thrombosis within the past 12 weeks
+
+          -  No ancillary therapy considered investigational within the past 4 weeks
+
+          -  No symptomatic, untreated, or uncontrolled seizure disorder
+
+          -  No uncontrolled intercurrent illness including, but not limited to, ongoing or active
+             infection or psychiatric illness/social situations that would limit study compliance
+
+          -  No significant traumatic injury within the past 4 weeks
+
+          -  No more than 1 prior systemic therapy for malignant pleural mesothelioma
+
+          -  No major surgery (i.e., laparotomy) or open biopsy within the past 4 weeks
+
+               -  Insertion of a vascular access device is not considered major or minor surgery
+
+          -  No minor surgery within the past 2 weeks
+
+               -  Insertion of a vascular access device is not considered major or minor surgery
+
+          -  Prior palliative radiotherapy allowed
+
+               -  No prior palliative radiotherapy to the chest except for a maximum of 3
+                  fractions of radiotherapy for superior vena cava syndrome
+
+          -  No concurrent therapeutic warfarin
+
+               -  Low molecular-weight heparin or prophylactic low-dose warfarin allowed
+
+          -  No other concurrent chemotherapy, immunotherapy, hormonal therapy, or radiotherapy
+
+          -  No concurrent medications that act through the CYP450 system
+
+          -  No concurrent combination antiretroviral therapy for HIV-positive patients
+
+          -  PT/INR/PTT =&lt; 1.2 times ULN
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective nonhormonal contraception
+
+          -  No uncontrolled infection
+
+          -  No uncontrolled blood pressure (BP) (defined as systolic BP &gt; 140 mm Hg and/or
+             diastolic BP &gt; 90 mm Hg in spite of adequate anti-hypertensive therapy)
+
+          -  No other severe underlying disease that, in the judgment of the investigator, would
+             limit study compliance
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Julian Molina</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>North Central Cancer Treatment Group</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>North Central Cancer Treatment Group</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>January 28, 2015</lastchanged_date>
+  <firstreceived_date>April 11, 2007</firstreceived_date>
+  <firstreceived_results_date>October 7, 2013</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

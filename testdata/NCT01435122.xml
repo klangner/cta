@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="470">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01435122</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MCC-16692</org_study_id>
+    <nct_id>NCT01435122</nct_id>
+  </id_info>
+  <brief_title>A Study of Axitinib in Advanced Carcinoid Tumors</brief_title>
+  <official_title>A Phase II Study of Axitinib in Advanced Carcinoid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>H. Lee Moffitt Cancer Center and Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Comprehensive Cancer Network</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>H. Lee Moffitt Cancer Center and Research Institute</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to see whether Axitinib will help prolong the time that
+      the patient's carcinoid tumors remain stable, and to examine their treatment response
+      through testing. Researchers also want to find out if Axitinib is safe and tolerable.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a bi-institutional, prospective phase II, open-label study. The target population is
+      comprised of adult patients with histologically confirmed unresectable or metastatic
+      carcinoid tumors. Carcinoid tumors are defined as well to moderately differentiated
+      neuroendocrine tumors of the digestive tract and lungs. Patients with metastatic carcinoid
+      tumors of unknown primary as well as rare primaries (renal, ovarian, thymic, hepatic) will
+      also be eligible. Patients will be drawn from two institutions Moffitt Cancer Center (MCC)
+      and The University of California, San Francisco (UCSF).
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>October 2011</start_date>
+  <completion_date type="Anticipated">September 2015</completion_date>
+  <primary_completion_date type="Anticipated">September 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Number of Participants With Progression Free Survival (PFS)</measure>
+    <time_frame>12 Months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Progression-free survival (PFS) determined as the time from administration of the initial dose of axitinib until objective tumor progression using Response Evaluation Criteria In Solid Tumors (RECIST), or death. Progressive Disease (PD) Appearance of one or more new lesions and/or unequivocal progression of existing non-target lesions.  Unequivocal progression should not normally trump target lesion status.  It must be representative of overall disease status change, not a single lesion increase.  Stable Disease (SD): Neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest sum diameters while on study.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Tumor Response Rate</measure>
+    <time_frame>12 Months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Tumor response rate using RECIST. Complete Response (CR): Disappearance of all target lesions.  Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to &lt;10 mm. Partial Response (PR): At least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum diameters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS) Rate</measure>
+    <time_frame>12 Months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Overall survival by Kaplan Meier, determined from the time of drug administration to death from any cause. The effect of an intervention is assessed by measuring the number of subjects survived or saved after that intervention over a period of time. The time starting from a defined point to the occurrence of a given event, for example death is called as survival time and the analysis of group data as survival analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Treatment Failure - Number of Months</measure>
+    <time_frame>12 Months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Time to Treatment Failure: Time from administration of the initial dose of axitinib until study discontinuation for any reason (e.g. disease progression, toxicity, death, withdrawal of consent).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Adverse Events (AEs)</measure>
+    <time_frame>12 Months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Safety assessments will consist of monitoring and recording all adverse events and serious adverse events, the regular monitoring of hematology and blood chemistry parameters and regular physical examinations. Adverse events will be evaluated continuously throughout the study. Safety and tolerability will be assessed according to the National Institute of Health/National Cancer Institute (NIH/NCI) Common Terminology Criteria for Adverse Events version 4 (CTCAE v4) available at: http://ctep.cancer.gov/protocolDevelopment/electronic_applications/ctc.htm.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Carcinoid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Axitinib Administration</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The investigational drug used in this study is axitinib, and is available as tablets.
+You will take the tablet orally with food. Doses should be taken around 12 hours apart continuously, without scheduled breaks. If you vomit anytime after taking a dose do not take another tablet to &quot;make up the dose&quot; but instead continue taking your next dose as planned.
+Any missed dose may be taken late (up to 3 hours before the next scheduled dose); otherwise it should be skipped. If doses are missed or vomited, please keep track of this and report at your next visit.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Axitinib</intervention_name>
+    <description>Axitinib Administration as outlined in Arm description</description>
+    <arm_group_label>Axitinib Administration</arm_group_label>
+    <other_name>AG013736</other_name>
+    <other_name>selective inhibitor of receptor tyrosine kinases</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Locally unresectable or metastatic well-and moderately-differentiated (low- or
+             intermediate- grade) neuroendocrine tumors of the aerodigestive tract (e.g. foregut,
+             midgut, and hindgut) and unknown primary site as well as rare primary sites (renal,
+             ovarian, thymic, hepatic); Otherwise known as typical or atypical carcinoid tumors
+
+          -  Measurable disease by Response Evaluation Criteria In Solid Tumors (RECIST) Criteria
+
+          -  Functional or nonfunctional tumors allowed
+
+          -  Evidence of progressive disease within 12 months of study entry
+
+          -  Adequate hepatic function: total bilirubin ≤1.5 x upper limit of normal (ULN)mg/dl;
+             aspartic transaminase (AST) ≤2.5 x ULN (≤5 x ULN if attributable to liver metastases)
+
+          -  Adequate renal function: serum creatinine ≤ 1.5 x ULN
+
+          -  Adequate bone marrow function: absolute neutrophil count ≥ 1,500/mm³; platelets
+             ≥75,000/mm³
+
+          -  Prothrombin time (PT) and activated partial thromboplastin time (aPTT) levels ≤1.5 x
+             ULN (unless patients receiving coumadin anticoagulation in which case a stable
+             international normalization ration (INR) of 2-3 is required).
+
+          -  Urine protein &lt;2+proteinuria (or &lt;2 g proteinuria /24 hr)
+
+          -  Prior somatostatin-analog therapy required in patients with midgut carcinoid tumors
+
+          -  Minimum 4 weeks since completion of prior treatment (investigational or other). Prior
+             treatment with chemotherapy, radiotherapy, hepatic artery embolization, surgery or
+             other therapeutic agents is allowed.
+
+          -  Treatment related toxicity should have returned to baseline and/or ≤grade 1 prior to
+             study treatment.
+
+          -  Prior or concurrent therapy with somatostatin analogs is permitted for the control of
+             hormone-mediated symptoms, provided patient has been on a stable dose for at least 2
+             months and progressive disease on somatostatin analogs (SSTa) has been documented
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+
+          -  Women of childbearing potential must have a negative serum pregnancy test within 14
+             days prior to treatment.
+
+          -  Ability to sign informed consent
+
+          -  Willingness and ability to comply with scheduled visits, laboratory tests and other
+             study procedures
+
+        Exclusion Criteria:
+
+          -  Poorly differentiated, high-grade (e.g. small cell or large cell) neuroendocrine
+             carcinomas are excluded.
+
+          -  Pancreatic neuroendocrine tumors (NETs), paragangliomas, pheochromocytomas and
+             medullary thyroid cancers are excluded.
+
+          -  Adenocarcinoid tumors and goblet cell carcinoid tumors are excluded.
+
+          -  Prior antiangiogenic therapy with a dedicated vascular endothelial growth factor
+             (VEGF) pathway inhibitor
+
+          -  Clinically apparent central nervous system metastases
+
+          -  Any of the following within 12 months prior to study: myocardial infarction,
+             uncontrolled angina, coronary/peripheral artery bypass graft, symptomatic congestive
+             heart failure, cerebrovascular accident, or transient ischemic attack
+
+          -  Deep venous thrombosis or pulmonary embolism within 6 months of study
+
+          -  Major surgery 4 weeks prior to enrollment
+
+          -  Inability to take oral medication or prior surgical procedures affecting absorption
+             (including total gastric resection)
+
+          -  Active gastrointestinal bleeding, if transfusion dependent
+
+          -  History of abdominal fistula, gastrointestinal perforation, or intra-abdominal
+             abscess within the past 28 days
+
+          -  History of pulmonary hemorrhage or evidence of significant hemoptysis
+
+          -  History of serious non-healing wound, ulcer, or bone fracture within the past 28 days
+
+          -  Pre-existing thyroid abnormality allowed provided thyroid function can be controlled
+             with medication.
+
+          -  Current use or anticipated need for treatment with drugs that are known potent CYP3A4
+             inhibitors (i.e. grapefruit juice, verapamil, ketoconazole, miconazole, itraconazole,
+             erythromycin, clarithromycin, indinavir, saquinavir, ritonavir, nelfinavir, etc.)
+
+          -  Current use or anticipated need for treatment with drugs that are known inducers of
+             CYP3AR or CYP1A2 (i.e carbamazepine, dexamethasone, omeprazole, phenobarbital,
+             phenytoin, rifampin, St. John's Wart, etc.)
+
+          -  Uncontrolled serious medical or psychiatric illness. Patients with a &quot;currently
+             active&quot; second malignancy other than non-melanoma skin cancers, carcinoma in situ of
+             the cervix, resected incidental prostate cancer (staged pathological tumor-2 (pT2)
+             with Gleason Score ≤ 6 and postoperative prostatic specific antigen (PSA) &lt; 0.5
+             ng/mL), or other adequately treated carcinoma-in-situ are ineligible. Patients are
+             not considered to have a &quot;currently active&quot; malignancy if they have completed therapy
+             and are free of disease for ≥3 years.
+
+          -  Pregnant or lactating women, or adults of reproductive potential who are not using
+             effective birth-control methods.
+
+          -  Prior antitumor therapy within 4 weeks of enrollment (with exception of somatostatin
+             analogs)
+
+          -  Liver-directed therapy within 2 months of enrollment. Prior treatment with
+             radiotherapy (including radio-labeled spheres and/or cyberknife, hepatic arterial
+             embolization (with or without chemotherapy) or cryotherapy/ablation is allowed if
+             these therapies did not affect the areas of measurable disease being used for this
+             protocol or if progressive disease can be documented in the previously treated area.
+
+          -  Recent infection requiring systemic anti-infective treatment that was completed ≤14
+             days prior to enrollment (with the exception of uncomplicated urinary tract infection
+             or upper respiratory tract infection)
+
+          -  Uncontrolled hypertension (blood-pressure &gt;140/90). Patient with baseline
+             hypertension may be eligible after initiation of antihypertensive therapy.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonathan Strosberg, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>H. Lee Moffitt Cancer Center and Research Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of California San Francisco (UCSF)</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>H. Lee Moffitt Cancer Center and Research Institute</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.moffitt.org/research--clinical-trials/clinical-trials</url>
+    <description>Moffitt Cancer Center Clinical Trials website</description>
+  </link>
+  <verification_date>February 2015</verification_date>
+  <lastchanged_date>February 4, 2015</lastchanged_date>
+  <firstreceived_date>September 14, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>progressive advanced carcinoid tumors</keyword>
+  <keyword>advanced</keyword>
+  <keyword>unresectable</keyword>
+  <keyword>metastatic</keyword>
+  <keyword>cancerous tumors</keyword>
+  <keyword>neuroendocrine</keyword>
+  <keyword>digestive tract</keyword>
+  <keyword>lungs</keyword>
+  <keyword>renal</keyword>
+  <keyword>ovarian</keyword>
+  <keyword>thymic</keyword>
+  <keyword>hepatic</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Axitinib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

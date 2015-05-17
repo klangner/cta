@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="325">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01719861</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VAR0087</org_study_id>
+    <secondary_id>25491</secondary_id>
+    <nct_id>NCT01719861</nct_id>
+  </id_info>
+  <brief_title>Phase IIa Desipramine in Small Cell Lung Cancer and Other High-Grade Neuroendocrine Tumors</brief_title>
+  <official_title>A Phase IIa Intrapatient Dose Escalation Study of Desipramine in Small Cell Lung Cancer and Other High-Grade Neuroendocrine Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Joel Neal</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Intrapatient dose escalation of desipramine. Start at 75 mg daily. Increase by 75 mg weekly
+      to maximum of 450 mg daily.  Taper desipramine upon disease progression, unacceptable
+      toxicity or patient withdrawal from study.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary Objective:
+
+      To determine the overall response rate (ORR) of small cell lung cancer and high-grade
+      neuroendocrine tumors in patients during treatment with desipramine.
+
+      Secondary Objectives:
+
+        -  To determine the progression-free survival (PFS) and overall survival (OS).
+
+        -  To perform exploratory blood biomarker analysis of PCSK1 and ROBO1 in patients enrolled
+           on this trial.
+
+        -  To measure safety of desipramine using type, frequency and severity of adverse event
+           reactions reported according to CTCAE v4.0
+
+        -  To measure tolerability using the incidence of adverse events (AEs) leading to
+           desipramine delay or discontinuation
+
+        -  To establish the MTD of desipramine in each patient by adhering to an intrapatient dose
+           escalation schema
+
+        -  To measure serum desipramine levels during treatment
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Lack of efficacy
+  </why_stopped>
+  <start_date>October 2012</start_date>
+  <completion_date type="Anticipated">December 2014</completion_date>
+  <primary_completion_date type="Actual">May 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Overall Response Rate (ORR): Number of patients who achieve either a partial or complete response divided by the total number of patients treated on the study as measured by CT scans and RECIST 1.1 criteria.</measure>
+    <time_frame>At baseline and every 8 weeks up to 3 years.</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">6</enrollment>
+  <condition>Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Desipramine Arm</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>desipramine</intervention_name>
+    <arm_group_label>Arm 1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Metastatic small-cell lung cancer -or- Metastatic high-grade neuroendocrine carcinoma
+             of any organ system (high-grade defined by Ki-67 &gt;= 20% and/or &gt;= 20 mitoses/10
+             (HPF).
+
+          -  Received at least one line of prior chemotherapy treatment for metastatic disease.
+             After progression on first-line chemotherapy, disease does not have to have
+             progressed on subsequent lines of therapy to enroll on trial.
+
+          -  Completed previous treatment in greater than or equal to the following times prior to
+             initiation of study treatment:
+
+               -  Chemotherapy administered in a daily schedule must be completed &gt;= 2 weeks prior
+                  to registration;
+
+               -  Chemotherapy administered in a weekly schedule must be completed &gt;= 2 weeks
+                  prior to registration;
+
+               -  Chemotherapy administered in a 2-weekly schedule must be completed &gt;= 3 weeks
+                  prior to registration;
+
+               -  Chemotherapy administered in a 3-weekly schedule must be completed &gt;= 4 weeks
+                  prior to registration.
+
+          -  ECOG Performance Status 0-2
+
+          -  Measurable disease by RECIST 1.1 criteria
+
+          -  Age at least 18 years-old otherwise no age, gender/race-ethnic restrictions
+
+          -  At least 3 months estimated life expectancy.
+
+          -  Laboratory tests within the following parameters:
+
+               -  Absolute neutrophil count &gt;= 1,500/ mm3
+
+               -  Platelets &gt;= 100,000/mm3
+
+               -  Hemoglobin &gt;= 9 g/Dl
+
+               -  Total bilirubin &lt;= 1.5 mg/dL
+
+               -  AST(SGOT) and ALT(SGPT) &lt;= 3 X ULN (Stanford: AST(SGOT) ULN 60, ALT (SGPT) ULN
+                  80).
+
+               -  Creatinine &lt;=1.5 X ULN (Stanford: ULN 1.1) -or- Calculated (See Appendix F for
+                  Cockgroft-Gault formula) measured creatinine clearance &gt;= 45 mL/min/1.73m2
+                  (normalized to BSA) for patients with creatinine levels above institutional
+                  normal
+
+          -  ECG demonstrating all of the following:
+
+               -  QT interval corrected using Fridericia's method (QTcF) &lt;450 msec (males) or &lt;470
+                  msec (females) (see Appendix E for Fredericia's criteria).
+
+               -  PR &lt;240 msec
+
+               -  QRS &lt;100 msec
+
+          -  Brain metastases are allowed, but must be asymptomatic and have been adequately
+             treated with radiation finishing at least 1 week prior to initiation of study
+             treatment.
+
+          -  Ability to understand and the willingness to sign a written informed consent
+             document.
+
+        Exclusion Criteria:
+
+          -  Cardiac disorders including the following:
+
+               -  Clinically significant ventricular arrhythmia including cardiac arrest
+
+               -  Myocardial infarction from coronary artery disease within 3 months of study
+                  enrollment
+
+               -  Implantable pacemaker or implantable cardioverter defibrillator
+
+               -  NYHA Class III or greater congestive heart failure
+
+          -  Family history of long QT syndrome.
+
+          -  Concomitant or expected treatment with any of the following prohibited study
+             medications. Any prohibited drugs must be discontinued at least 2 weeks or 5-half
+             lives prior to the initiation of desipramine, whichever is shortest (except
+             fluoxetine, because of long half life, will need a at least a 5 week washout period).
+             (see appendix C and D for lists of prohibited drugs)
+
+          -  Medications that prolong the QT interval and are known to increase risk of torsades
+             de pointes (see appendix D for excluded drugs)
+
+          -  Strong inhibitors of cytochrome p450 CYP2D6 (see appendix C)
+
+          -  Other anti-depressant or anti-psychotic including a SSRI, other tricyclic, MAOI,
+             SNRI, typical or atypical anti-psychotic
+
+          -  Metoclopramide (Reglan) because of increased risk of Extrapyrimidal Symptoms and
+             Neuroleptic Malignant Syndrome
+
+          -  Symptomatic orthostatic hypotension despite adequate volume resuscitation.
+
+          -  Medical history of narrow angle glaucoma
+
+          -  Any of the following known psychiatric conditions, diagnosed by a psychiatrist,
+             either ongoing or active within the last 5 years:
+
+               -  Bipolar disorder
+
+               -  Suicidal ideation
+
+               -  Suicide attempt
+
+          -  Patients who are pregnant or breastfeeding. Female subjects of childbearing potential
+             must have a negative pregnancy test prior to enrollment and practice acceptable
+             methods of birth control to avoid pregnancy. Male subjects must also practice
+             acceptable methods of birth control to prevent pregnancy of a partner.
+
+          -  No other Investigational Agents allowed while on this trial.
+
+          -  Any other serious or unstable concomitant systemic disorder that in the opinion of
+             the investigator is incompatible with the clinical study
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joel Neal</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University Cancer Institute</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2014</verification_date>
+  <lastchanged_date>May 21, 2014</lastchanged_date>
+  <firstreceived_date>October 29, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Joel Neal</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Desipramine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

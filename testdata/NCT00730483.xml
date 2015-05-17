@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="711">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00730483</url>
+  </required_header>
+  <id_info>
+    <org_study_id>J0739   CDR0000601054</org_study_id>
+    <secondary_id>JHOC-J7039</secondary_id>
+    <secondary_id>JHOC-NA_000010736</secondary_id>
+    <secondary_id>JHOC-SKCCC-J7039</secondary_id>
+    <nct_id>NCT00730483</nct_id>
+  </id_info>
+  <brief_title>Doxorubicin Beads in Treating Patients With Unresectable Liver Metastases From Neuroendocrine Tumors</brief_title>
+  <official_title>Treatment of Patients With Hepatic Neuroendocrine Metastases Using Drug-Eluting Bead Embolization</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sidney Kimmel Comprehensive Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sidney Kimmel Comprehensive Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy, such as doxorubicin, work in different ways to stop
+      the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+      Infusing doxorubicin beads into the liver, and blocking blood flow to the tumor, may keep
+      doxorubicin near the tumor and kill more tumor cells.
+
+      PURPOSE: This clinical trial is studying the side effects of doxorubicin beads and to see
+      how well they work in treating patients with unresectable liver metastases from
+      neuroendocrine tumors.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  To gather preliminary data and determine the feasibility of a randomized study of
+           patients with unresectable hepatic neuroendocrine metastases using PVA microporous
+           hydrospheres/doxorubicin hydrochloride.
+
+      OUTLINE: A catheter is placed into the right or left hepatic artery. Patients with unifocal
+      tumors will have the catheter or microcatheter placed more selectively into the 2nd or 3rd
+      order branch off the right or left hepatic artery in closer proximity to the tumor. PVA
+      microporous hydrospheres/doxorubicin hydrochloride mixture is injected into the delivery
+      area.
+
+      Patients with less than 75% necrosis at 1 month undergo a second (and possibly a third a
+      month later) chemoembolization.
+
+      After completion of study therapy, patients are followed at 1 month, every 2 months for 1
+      year, and then every 3 months for 1 year.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>February 2009</start_date>
+  <completion_date type="Anticipated">June 2015</completion_date>
+  <primary_completion_date type="Anticipated">December 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Tumor response (efficacy)</measure>
+    <time_frame>Time to progression</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety</measure>
+    <time_frame>30 days post study exit</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survival</measure>
+    <time_frame>overall survival</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical response</measure>
+    <time_frame>Time to progression</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptomatic response</measure>
+    <time_frame>Time to progression</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Gastrointestinal Carcinoid Tumor</condition>
+  <condition>Islet Cell Tumor</condition>
+  <condition>Metastatic Cancer</condition>
+  <arm_group>
+    <arm_group_label>single arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PVA microporous hydrospheres/doxorubicin hydrochloride</intervention_name>
+    <arm_group_label>single arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+        Inclusion criteria:
+
+          -  Diagnosis of hepatic neuroendocrine metastases not suitable for radical therapies
+             (e.g., resection or liver transplantation)
+
+               -  Histologically proven neuroendocrine tumor
+
+               -  Tumors are hypervascular based on visual estimation by investigator
+
+          -  Predominant to the liver disease, but extrahepatic disease is not an exclusion
+
+               -  No predominant extrahepatic liver disease
+
+               -  No significant life-threatening extrahepatic disease, in the judgment of the
+                  physician
+
+          -  Recent-interval progression of hepatic liver metastases
+
+          -  No diffuse hepatic neuroendocrine metastases defined as massive ill-defined tumor
+             involvement measuring &gt; 90% tumor burden
+
+        Exclusion criteria:
+
+          -  Clinically evident ascites (a radiographic finding of trace ascites on imaging is
+             acceptable)
+
+          -  Complete occlusion of the entire portal venous system
+
+          -  Evidence of cirrhosis or portal hypertension
+
+          -  Vascular resistance peripheral to the feeding arteries precluding passage of PVA
+             microporous hydrospheres/doxorubicin hydrochloride
+
+        PATIENT CHARACTERISTICS:
+
+        Inclusion criteria:
+
+          -  ECOG performance status 0-2
+
+          -  Must have preserved liver function (Child-Pugh class A-B) without significant liver
+             decompensation
+
+               -  No advanced liver disease (e.g., Child-Pugh C class or active gastrointestinal
+                  bleeding, encephalopathy, or ascites [trace ascites is acceptable]), meeting the
+                  following criteria:
+
+                    -  Bilirubin &gt; 3 mg/dL
+
+                    -  AST, ALT, and alkaline phosphatase &gt; 5 times upper limit of normal
+
+                    -  Serum creatinine &gt; 2.0 mg/dL
+
+                    -  Albumin ≤ 2.0 g/dL
+
+          -  No vascular anatomy or blood that precludes catheter placement or emboli injection
+
+          -  No presence of arteries supplying the lesion not large enough to accept PVA
+             microporous hydrospheres/doxorubicin hydrochloride
+
+          -  No collateral vessel pathways potentially endangering normal territories during
+             embolization
+
+          -  No feeding arteries smaller than distal branches from which they emerge
+
+          -  Not pregnant
+
+        Exclusion criteria:
+
+          -  See Disease Characteristics
+
+          -  Another active primary tumor
+
+          -  Any contraindication for hepatic embolization procedures, including any of the
+             following:
+
+               -  Porto-systemic shunt
+
+               -  Hepatofugal blood flow
+
+               -  Impaired clotting tests (i.e., platelet count &lt; 50,000/mm³, INR ≥ 1.8, or PTT ≥
+                  39 seconds)
+
+               -  Renal failure
+
+               -  Severe peripheral vascular disease precluding catheterization
+
+          -  Any contraindication for doxorubicin hydrochloride administration (i.e., serum
+             bilirubin &gt; 5 mg/dL or leukocyte count &lt; 1,500 cells/mm³)
+
+          -  Allergy to contrast media
+
+          -  Intolerant to occlusion procedures
+
+          -  Presence of end arteries leading directly to cranial nerves
+
+          -  Presence or likely onset of hemorrhage
+
+          -  Presence of severe atheromatous disease
+
+        PRIOR CONCURRENT THERAPY:
+
+        Exclusion criteria:
+
+          -  Prior anticancer therapy for hepatic neuroendocrine metastases, except previous
+             surgical therapy
+
+          -  Any continuing complication or prior cancer therapy that has not improved or resolved
+             prior to 21 days before start of treatment, if the investigator determines that the
+             continuing complication will compromise the safety of the patient after treatment
+             with PVA microporous hydrospheres/doxorubicin hydrochloride
+
+          -  Presence of patent extra-to-intracranial anastomoses or shunts
+
+          -  Use of PVA microporous hydrospheres/doxorubicin hydrochloride in the following
+             applications:
+
+               -  Embolization of large-diameter arteriovenous shunts
+
+               -  Pulmonary arterial vasculature
+
+               -  Any vasculature where the use of PVA microporous hydrospheres/doxorubicin
+                  hydrochloride could pass directly into the internal carotid artery or the
+                  above-listed vessels
+
+          -  Concurrent enrollment in another clinical study
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeffrey F. Geschwind, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sidney Kimmel Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21231-2410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/JHOC-J7039</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>October 2014</verification_date>
+  <lastchanged_date>October 1, 2014</lastchanged_date>
+  <firstreceived_date>August 7, 2008</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>liver metastases</keyword>
+  <keyword>metastatic gastrointestinal carcinoid tumor</keyword>
+  <keyword>regional gastrointestinal carcinoid tumor</keyword>
+  <keyword>islet cell carcinoma</keyword>
+  <keyword>gastrinoma</keyword>
+  <keyword>insulinoma</keyword>
+  <keyword>glucagonoma</keyword>
+  <keyword>pancreatic polypeptide tumor</keyword>
+  <keyword>somatostatinoma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Gastrointestinal Neoplasms</mesh_term>
+    <mesh_term>Malignant Carcinoid Syndrome</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Liposomal doxorubicin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

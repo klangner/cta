@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="453">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01177397</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CC-223-ST-001</org_study_id>
+    <nct_id>NCT01177397</nct_id>
+  </id_info>
+  <brief_title>Study to Assess Safety, Pharmacokinetics, and Efficacy of Oral CC-223 for Patients With Advanced Solid Tumors, Non-Hodgkin Lymphoma or Multiple Myeloma</brief_title>
+  <official_title>A Phase 1/2, Multi-Center, Open-Label, Dose Finding Study to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of the mTOR Kinase Inhibitor CC-223 Administered Orally to Subjects With Advanced Solid Tumors, Non-Hodgkin Lymphoma or Multiple Myeloma.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Celgene Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Celgene Corporation</source>
+  <oversight_info>
+    <authority>France: Afssaps - Agence française de sécurité sanitaire des produits de santé (Saint-Denis)</authority>
+    <authority>France: Comité consultatif sur le traitement de l'information en matière de recherche dans le domaine de la santé</authority>
+    <authority>France: Committee for the Protection of Personnes</authority>
+    <authority>France: Conseil National de l'Ordre des Médecins</authority>
+    <authority>France: Direction Générale de la Santé</authority>
+    <authority>France: French Data Protection Authority</authority>
+    <authority>France: Haute Autorité de Santé Transparency Commission</authority>
+    <authority>France: Institutional Ethical Committee</authority>
+    <authority>France: Agence Nationale de Sécurité du Médicament et des produits de santé</authority>
+    <authority>France: Ministry of Health</authority>
+    <authority>France: Ministère de l'Enseignement supérieur et de la Recherche</authority>
+    <authority>France: National Consultative Ethics Committee for Health and Life Sciences</authority>
+    <authority>France: The Commission nationale de l’informatique et des libertés</authority>
+    <authority>Spain: Agencia Española de Medicamentos y Productos Sanitarios</authority>
+    <authority>Spain: Comité Ético de Investigación Clínica</authority>
+    <authority>Spain: Departament de Salut de la Generalitat de Catalunya</authority>
+    <authority>Spain: Ethics Committee</authority>
+    <authority>Spain: Ministry of Health</authority>
+    <authority>Spain: Ministry of Health and Consumption</authority>
+    <authority>Spain: Spanish Agency of Medicines</authority>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <authority>United Kingdom: Department of Health</authority>
+    <authority>United Kingdom: Food Standards Agency</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <authority>United Kingdom: National Health Service</authority>
+    <authority>United Kingdom: National Institute for Health Research</authority>
+    <authority>United Kingdom: Research Councils UK</authority>
+    <authority>United Kingdom: Research Ethics Committee</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this first human study with CC-223 is to assess the safety and action of
+      a new class of experimental drug (dual mTOR inhibitors) in patients with advanced tumors
+      unresponsive to standard therapies and to determine the appropriate dose and tumor type for
+      later-stage clinical trials.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Initially, patients will be treated with oral CC-223 for one month. During this time,
+      various tests (involving blood and urine collections, ECGs, etc) will be performed. Those
+      whose tumors stabilize or regress may continue receiving treatment for as long as they
+      benefit from CC-223. Different dose levels of CC-223 will be tested in a dose-rising study
+      design.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>July 2010</start_date>
+  <completion_date type="Anticipated">February 2016</completion_date>
+  <primary_completion_date type="Anticipated">October 2015</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Safety</measure>
+    <time_frame>From the time of informed consent, throughout dosing period and for 21 days after the last dose of CC-223</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>To determine the safety profile and dose-limiting toxicity of CC-223 using NCI CTCAE v4.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics</measure>
+    <time_frame>Throughout the first cycle (30 days) through to the first day of Cycle 2.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Standard variables (eg. Cmax, AUC, half-life) to define the PK profile for single and multiple doses of oral CC-223.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamics</measure>
+    <time_frame>Throughout the first cycle (30 days) through to the first day of Cycle 2.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Phosphorylation inhibition changes by levels of S6, 4EBP (for mTORC1) and AKT (for mTORC2) in circulating granulocytes, and tumor tissue (when available).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy</measure>
+    <time_frame>Every 2-3 months until proof of tumor progression</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Tumor response rates using appropriate objective criteria for various malignancies</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">200</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <condition>Diffuse Large B-Cell Lymphoma</condition>
+  <condition>Glioblastoma Multiforme</condition>
+  <condition>Hepatocellular Carcinoma</condition>
+  <condition>Non-Small Cell Lung Cancer</condition>
+  <condition>Neuroendocrine Tumors of Non-Pancreatic Origin</condition>
+  <condition>Hormone Receptor-Positive Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>CC-223</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients will receive CC-223, but serial patient groups will receive different dose levels in Phase 1. The number of groups will be determined by the number of dose levels required to establish dose-limiting toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CC-223</intervention_name>
+    <description>Part A: (closed to enrollment) Dose level starts with 7.5mg daily taken by mouth in cycles of 28 days. Level increases for different patient cohorts in 100% or 50% increments until optimal dose level is established for further study. Treatment continues for as long as patient benefits (i.e., until disease progression or unacceptable toxicity). Part B: (closed to enrollment) Optimal dose is administered in 28 day cycles until disease progression.</description>
+    <arm_group_label>CC-223</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically-confirmed advanced solid tumor, Non-Hodgkin Lymphoma or multiple
+             myeloma
+
+          -  Patients have not tolerated or progressed on standard therapy, and no further
+             standard therapy is available
+
+          -  Archival and screening tumor biopsy
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0-1 (solid tumors), 0-2
+             (hematologic malignancy)
+
+          -  Adequate organ function
+
+        Exclusion Criteria:
+
+          -  Prior systemic cancer-directed treatments or investigational drugs within 4 weeks or
+             5 half lives, whichever is shorter, prior to starting study drug or who have not
+             recovered from side effects of such therapy.  Subjects must have recovered from any
+             effects of recent radiotherapy that might confound the safety evaluation of study
+             drug
+
+          -  Symptomatic brain metastases (prior Rx and stable metastases are OK)
+
+          -  Acute or chronic liver or renal disease or pancreatitis
+
+          -  Diarrhea ≥ Grade 2, impaired GI absorption
+
+          -  Impaired cardiac function
+
+          -  Diabetes requiring Rx, glucose &gt;126 mg/dL, HbA1c ≥6.5%
+
+          -  Peripheral neuropathy ≥ Grade 2
+
+          -  Pulmonary fibrosis
+
+          -  Known HIV infection
+
+          -  Known chronic hepatitis B or C virus (HBV/HCV) infection, unless comorbidity in
+             subjects with HCC
+
+          -  Pregnant, inadequate contraception
+
+          -  Most concurrent second malignancies
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kristen Hege, M.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Celgene Corporation</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center-Samuel Oschin Comprehensive Cancer Institute</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Neuro-Oncology Program</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-1769</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California at San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Moffitt Cancer Center &amp; Research Institute</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Billings Clinic</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>John Theurer Cancer Center at Hackensack University</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Cancer Institute</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute (SCRI)</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Crowley Cancer Research Centers</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Claudius Régaud</name>
+      <address>
+        <city>Toulouse Cedex</city>
+        <zip>31052</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Gustave Roussy, Dept. of Medicine</name>
+      <address>
+        <city>Villejuif Cedex</city>
+        <zip>94800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Salamanca</name>
+      <address>
+        <city>Salamanca</city>
+        <zip>37007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen Del Rocio</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Servicio de Oncologia Medica Sala de Investigación</name>
+      <address>
+        <city>Seville</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute</name>
+      <address>
+        <city>London</city>
+        <zip>W1G 6AD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University College London Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <zip>NW1 2BU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>France</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2015</verification_date>
+  <lastchanged_date>March 23, 2015</lastchanged_date>
+  <firstreceived_date>August 5, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Advanced solid malignant neoplasms,Non-Hodgkin Lymphoma,</keyword>
+  <keyword>Multiple Myeloma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Apudoma</mesh_term>
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

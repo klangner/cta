@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="769">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT02231723</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BBI608-118</org_study_id>
+    <nct_id>NCT02231723</nct_id>
+  </id_info>
+  <brief_title>A Study of BBI608 in Combination With Gemcitabine and Nab-Paclitaxel in Adult Patients With Metastatic Pancreatic Adenocarcinoma</brief_title>
+  <official_title>A Phase Ib Clinical Study of BBI608 in Combination With Gemcitabine and Nab-Paclitaxel in Adult Patients With Metastatic Pancreatic Adenocarcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston Biomedical, Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boston Biomedical, Inc</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open label, multi-center, single arm, dose-escalation study of BBI608
+      administered in combination with Gemcitabine and nab-Paclitaxel.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open label, multi-center, single arm, dose-escalation study of BBI608
+      administered in combination with Gemcitabine and nab-Paclitaxel. A study cycle will consist
+      of daily and continuous oral administration of BBI608 for four weeks (28 days) in
+      combination with Gemcitabine and nab-Paclitaxel. Combination treatment will continue in 28
+      day cycles until disease progression, unacceptable toxicity or another discontinuation
+      criterion is met.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2014</start_date>
+  <primary_completion_date type="Anticipated">December 2015</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Safety by reporting the adverse events and serious adverse events</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Determination of the Recommended Phase 2 Dose by assessing dose-limiting toxicities (DLTs)</measure>
+    <time_frame>3 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assess the preliminary anti-tumor activity of BBI608 when administered in combination with gemcitabine and nab-paclitaxel in adult patients with metastatic pancreatic adenocarcinoma by performing tumor assessments every 8 weeks</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the preliminary anti-tumor activity of BBI608 when administered in combination with gemcitabine and nab-paclitaxel in adult patients with metastatic pancreatic adenocarcinoma by performing serum CA 19-9 level measurement</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Assess the preliminary anti-tumor activity of BBI608 when administered in combination with gemcitabine and nab-paclitaxel in adult patients with metastatic pancreatic adenocarcinoma by performing serum carbohydrate antigen 19-9 (CA 19-9) level measurement every 4 weeks</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess pharmacokinetic profile of BBI608 when administered in combination with gemcitabine and nab-paclitaxel</measure>
+    <time_frame>On Day 1 and Day 15 of the first cycle prior to dosing and 1, 2, 3, 3.5, 4, 5, 5.5, 7, 8, 9, 10, 11 and 24 hours after first dose</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Blood sampling to assess the pharmacokinetic profile (Area under the curve) of BBI608.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess pharmacodynamic activity of BBI608 when administered in combination with gemcitabine and nab-paclitaxel</measure>
+    <time_frame>During the first 28 days of treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Tumor Biopsy to provide information of the biomarkers by histopathology and Cancer Stem Cell assays.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Metastatic Pancreatic Adenocarcinoma</condition>
+  <arm_group>
+    <arm_group_label>BBI608 in combination with gemcitabine and nab-paclitaxel</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BBI608</intervention_name>
+    <description>Administered continuously twice daily with doses separated by 12 hours</description>
+    <arm_group_label>BBI608 in combination with gemcitabine and nab-paclitaxel</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nab-paclitaxel</intervention_name>
+    <description>Nab-paclitaxel 125 mg/m2 I.V. infusion on Days 1, 8, and 15 of every 28-day cycle</description>
+    <arm_group_label>BBI608 in combination with gemcitabine and nab-paclitaxel</arm_group_label>
+    <other_name>Abraxane, nanoparticle albumin-bound paclitaxel, paclitaxel, ABI-007</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gemcitabine</intervention_name>
+    <description>Gemcitabine 1000 mg/m2 I.V. infusion on Days 1, 8, and 15 of every 28-day cycle</description>
+    <arm_group_label>BBI608 in combination with gemcitabine and nab-paclitaxel</arm_group_label>
+    <other_name>Gemzar</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Signed written informed consent
+
+          2. Patients must have histologic evidence of adenocarcinoma of the pancreas, such as a
+             core tissue biopsy or a surgical resection specimen.
+
+             a. Cytological evidence only is not sufficient for enrollment on this study and
+             patients can undergo a core tissue biopsy to meet this study enrollment criterion.
+
+          3. Patients must have metastatic disease. Baseline imaging of chest, abdomen and pelvis
+             (CT or MRI) within 21 days prior to initiation of protocol therapy is required.
+
+               1. Patients must have measurable disease as defined by Response Evaluation Criteria
+                  in Solid Tumors (RECIST) 1.1.
+
+               2. Patients with locally advanced unresectable pancreatic ductal adenocarcinoma are
+                  excluded.
+
+          4. Patients are allowed to have up to one prior line of systemic therapy in the adjuvant
+             setting ONLY. No prior systemic therapy in the metastatic or locally
+             advanced/unresectable setting is allowed.  Toxicities related to prior therapy must
+             have completely resolved (except for alopecia and anemia), or be deemed irreversible.
+
+               1. Patients who received Gemcitabine-based therapy in an adjuvant setting will be
+                  allowed to be enrolled on the trial as long as their last Gemcitabine
+                  administration was at least 6 months prior to the first dose of BBI608.
+
+               2. Prior treatment with radiotherapy is allowed.
+
+          5. ≥ 18 years of age.
+
+          6. Patients must have an Eastern Cooperative Oncology Group (ECOG) Performance Status &lt;
+             1.
+
+          7. Male or female patients of child-producing potential agree to use contraception or
+             avoidance of pregnancy measures during the study and for 30 days after the last
+             BBI608 dose.
+
+          8. Females of childbearing potential have a negative serum pregnancy test (preceding 72
+             hours of first day of BBI608 treatment).
+
+          9. Patients with biliary or gastro-duodenal obstruction must have drainage or surgical
+             bypass prior to starting chemotherapy.
+
+         10. Significant or symptomatic amount of ascites should be drained prior to first dose of
+             BBI608.
+
+         11. Patients on Coumadin anticoagulation may be enrolled for as long as they undergo
+             weekly international normalized ratio (INR) checks for the first 2 months of therapy.
+
+             a. Patients who switch to low molecular weight heparin may be enrolled and weekly INR
+             labs are not mandated for these patients.
+
+         12. Aspartate transaminase (AST) level &lt; 2.5 x upper limit of normal (ULN) and alanine
+             transaminase (ALT) &lt; 2.5 × upper limit of normal (ULN).  For patients with liver
+             metastases, AST &lt; 5 ULN, and AST &lt; 5 ULN may be enrolled if agreed upon by the
+             investigator and medical monitor for the sponsor.
+
+         13. Patients must have a total bilirubin level &lt; 1.5 x ULN (≤ 2 x ULN if it is non-rising
+             for a period of 10 days prior to initiation of therapy)
+
+         14. Creatinine level &lt; 1.0 x ULN or creatinine clearance &gt; 60 mL/min/1.73 m^2 for
+             patients with creatinine levels above or below the institutional normal (as
+             determined by Cockcroft-Gault equation). For patients with a Body Mass Index (BMI) &gt;
+             30 kg/m^2, lean body weight should be used to calculate the glomerular filtration
+             rate (GFR).
+
+         15. Hemoglobin (Hgb) ≥ 9 g/dl
+
+         16. Absolute neutrophil count ≥ 1.5 x 10^9/L
+
+         17. Platelets ≥ 100 x 10^9/L
+
+         18. Acceptable coagulation studies as demonstrated by prothrombin time (PT) and partial
+             thromboplastin time (PTT) within normal limits (+/-15%).
+
+         19. Patient has no clinically significant abnormalities on urinalysis results.
+
+         20. Life expectancy estimated at ≥ 3 months.
+
+        Exclusion Criteria:
+
+          1. Anti-cancer chemotherapy, radiotherapy, immunotherapy, or investigational agents
+             within 14 days of the first dose of BBI608.  Patients may begin BBI608 on a date
+             determined by the investigator and medical monitor for the sponsor after a minimum of
+             14 days since last receiving anti-cancer treatment, provided that all
+             treatment-related adverse events have resolved or have been deemed irreversible.
+
+          2. Patients with islet cell neoplasms will be excluded.
+
+          3. Major surgery, other than diagnostic surgery (e.g., surgery done to obtain a biopsy
+             for diagnosis without removal of an organ), within 4 weeks prior to first dose.
+
+          4. Any brain metastases including leptomeningeal metastases, are excluded, even if
+             treated and stable.
+
+          5. History of posterior reversible encephalopathy syndrome.
+
+          6. Neurosensory neuropathy ≥ grade 2 at baseline.
+
+          7. Pregnant or breastfeeding.
+
+          8. Significant gastrointestinal disorder(s) that would, in the opinion of the Principal
+             Investigator, prevent absorption of an orally available agent (e.g., Crohn's disease,
+             ulcerative colitis, extensive gastric resection and small intestinal resection).
+
+          9. Unable or unwilling to swallow BBI608 capsules daily.
+
+         10. Uncontrolled chronic diarrhea ≥ grade 2 at baseline.
+
+         11. Uncontrolled intercurrent illness including, but not limited to uncontrolled active
+             infection (including bacterial, viral or fungal requiring systemic therapy),
+             clinically significant non-healing or healing wounds, symptomatic congestive heart
+             failure, unstable angina pectoris, uncontrolled cardiac arrhythmia, significant
+             pulmonary disease (shortness of breath at rest or mild exertion), uncontrolled
+             infection or psychiatric illness/social situations that would limit compliance with
+             study requirements.
+
+         12. Known infection with Human Immunodeficiency Virus (HIV), and/or active infection with
+             hepatitis B, or hepatitis C.
+
+         13. Significant cardiac disease, including the following: unstable angina, New York Heart
+             Association class III-IV congestive heart failure, myocardial infarction within six
+             months prior to study enrollment.
+
+         14. History of active Peripheral Artery Disease (treated peripheral artery disease that
+             is stable for at least 6 months is allowed).
+
+         15. Interstitial pneumonia or extensive and symptomatic interstitial fibrosis of the
+             lung.
+
+         16. History of hemolytic-uremic syndrome.
+
+         17. History of other active malignancies.
+
+         18. Known hypersensitivity to Gemcitabine or taxanes.
+
+             a. Patients with history of Gemcitabine toxicity in the adjuvant setting requiring
+             more than 1 dose level reduction (as per Dose Modification schema described in
+             Section 8.2.2) are excluded.
+
+         19. Prior treatment with BBI608.
+
+         20. Enrollment on any additional investigational agent study. Enrollment on concurrent
+             observational study is allowed following consultation with the Sponsor.
+
+         21. Patients planning to take a vacation for 7 or more consecutive days during the course
+             of the study.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Boston Biomedical</last_name>
+    <phone>617-674-6800</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Emory University Winship Cancer Institute</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University Melvin and Bren Simon Cancer Center</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State University Comprehensive Cancer Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Tennessee Medical Center</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2015</verification_date>
+  <lastchanged_date>March 3, 2015</lastchanged_date>
+  <firstreceived_date>August 30, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Digestive System Neoplasms</keyword>
+  <keyword>Endocrine Gland Neoplasms</keyword>
+  <keyword>Pancreatic neoplasms</keyword>
+  <keyword>Pancreatic cancer, adult</keyword>
+  <keyword>Pancreatic cancer</keyword>
+  <keyword>Pancreas cancer</keyword>
+  <keyword>Pancreatic diseases</keyword>
+  <keyword>Adenoma, Islet Cell</keyword>
+  <keyword>Carcinoma, Islet Cell</keyword>
+  <keyword>Carcinoma, Pancreatic Ductal</keyword>
+  <keyword>Gemcitabine</keyword>
+  <keyword>Gemzar</keyword>
+  <keyword>Nab-paclitaxel</keyword>
+  <keyword>Paclitaxel</keyword>
+  <keyword>Abraxane</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Paclitaxel</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

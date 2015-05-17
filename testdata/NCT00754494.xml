@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="181">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00754494</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2012-02984</org_study_id>
+    <secondary_id>UCI06-8-01</secondary_id>
+    <secondary_id>N01CN35160</secondary_id>
+    <secondary_id>CDR0000614277</secondary_id>
+    <nct_id>NCT00754494</nct_id>
+  </id_info>
+  <brief_title>Erlotinib Hydrochloride in Treating Patients With Stage I-III Colorectal Cancer or Adenoma</brief_title>
+  <official_title>A Phase IIa Randomized, Double-Blind Trial of Erlotinib in Inhibiting EGF Receptor Signaling in Aberrant Crypt Foci of the Colon</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized phase II trial is studying how well erlotinib hydrochloride works in
+      treating patients with stage I-III colorectal cancer or adenoma. Erlotinib hydrochloride may
+      stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by
+      blocking blood flow to the tumor. Erlotinib hydrochloride may also stop tumors from growing
+      or coming back
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To test the hypothesis that erlotinib (erlotinib hydrochloride) doses as low as 25 mg
+      will decrease aberrant crypt foci (ACF) phosphorylated extracellular signal-regulated
+      kinases (pERK) levels from baseline (pre) to post erlotinib treatment.
+
+      SECONDARY OBJECTIVES:
+
+      I. To test the hypothesis that additional epidermal growth factor (EGF) inducible biomarkers
+      will decrease from baseline (pre) to post treatment with erlotinib 25 mg, 50 mg or 100 mg
+      orally (PO) once daily (QD) therapy.
+
+      II. To determine the mean decrease from baseline of the ACF: normal mucosa pERK ratio pre
+      and post 8-30 days of erlotinib.
+
+      III. To determine erlotinib concentration in plasma and colorectal tissue at 25 mg, 50 mg
+      and 100 mg doses after 8-30 days of therapy.
+
+      IV. To determine the incidence of rash, diarrhea and other side effects of low dose
+      erlotinib.
+
+      OUTLINE: Patients are randomized to 1 of 3 treatment arms.
+
+      ARM I: Patients receive 100 mg of erlotinib hydrochloride PO and two 25 mg of placebo PO QD.
+
+      ARM II: Patients receive 50 mg of erlotinib hydrochloride PO and one 100 mg of placebo PO
+      QD.
+
+      ARM III: Patients receive 25 mg of erlotinib hydrochloride PO and one 100 mg of placebo and
+      one 25 mg of placebo PO QD.
+
+      In all arms, treatment continues for 8-30 days in the absence of disease progression or
+      unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up for 4 to 9 weeks.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2008</start_date>
+  <completion_date type="Actual">September 2013</completion_date>
+  <primary_completion_date type="Actual">October 2012</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Change in ACF pERK Levels</measure>
+    <time_frame>From baseline to post-treatment (up to 30 days)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Quantification will be performed by Western blot analysis. Tested using paired t-test with a two-sided significance level of 0.05.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in EGF-inducible Markers - pEGFR in Normal Mucosa</measure>
+    <time_frame>From baseline to post-treatment (up to 30 days)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>pEGFR expression levels were quantified by immunoblotting and calculated as the ratio of the pEGFR signals to reference signals. A log-transformation of pEGFR was utilized in primary analyses. The general linear model was used to estimate and compare the relative change in median pEGFR with adjustment for actin as a normalizing factor. The estimated relative change (post:pre) in the median, corresponding 95% confidence interval, and p-value for testing the null hypothesis of equal medians comparing pre- and post-measurements were reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in EGF-inducible Markers - Total EGFR in Normal Mucosa</measure>
+    <time_frame>From baseline to post-treatment (up to 30 days)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Total EGFR expression levels were quantified by immunoblotting and calculated as the ratio of the total EGFR signals to reference signals. A log-transformation of total EGFR was utilized in primary analyses. The general linear model was used to estimate and compare the relative change in median total EGFR with adjustment for actin as a normalizing factor. The estimated relative change (post:pre) in the median, corresponding 95% confidence interval, and p-value for testing the null hypothesis of equal medians comparing pre- and post-measurements were reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in EGF-inducible Markers - pEGFR in ACF</measure>
+    <time_frame>From baseline to post-treatment (up to 30 days)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>pEGFR expression levels were quantified by immunoblotting and calculated as the ratio of the pEGFR signals to reference signals. A log-transformation of pEGFR was utilized in primary analyses. The general linear model was used to estimate and compare the relative change in median total EGFR with adjustment for actin as a normalizing factor. The estimated relative change (post:pre) in the median, corresponding 95% confidence interval, and p-value for testing the null hypothesis of equal medians comparing pre- and post-measurements were reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in EGF-inducible Markers - Total EGFR in ACF</measure>
+    <time_frame>From baseline to post-treatment (up to 30 days)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Total EGFR expression levels were quantified by immunoblotting and calculated as the ratio of the total EGFR signals to reference signals. A log-transformation of total EGFR was utilized in primary analyses. The general linear model was used to estimate and compare the relative change in median total EGFR with adjustment for actin as a normalizing factor. The estimated relative change (post:pre) in the median, corresponding 95% confidence interval, and p-value for testing the null hypothesis of equal medians comparing pre- and post-measurements were reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACF: Normal Mucosa pERK Ratio</measure>
+    <time_frame>Up to day 30</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Quantification will be performed by Western blot analysis. Tested using analysis of variance with subsequent pairwise comparisons using the Tukey method to adjust for multiple comparisons.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Erlotinib Concentration (ng/mL)</measure>
+    <time_frame>Up to day 30</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will be quantified in biopsy samples using appropriate descriptive statistics (means and standard deviations).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma OSI-420 Concentration (ng/mL)</measure>
+    <time_frame>Up to day 30</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will be quantified in biopsy samples using appropriate descriptive statistics (means and standard deviations).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Normal Mucosa Erlotinib Concentration (ng/mg)</measure>
+    <time_frame>Up to day 30</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will be quantified in biopsy samples using appropriate descriptive statistics (means and standard deviations).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Normal Mucosa OSI-420 Concentration (ng/mg)</measure>
+    <time_frame>Up to day 30</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will be quantified in biopsy samples using appropriate descriptive statistics (means and standard deviations).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Reported at Least 1 Side Effect During the Study</measure>
+    <time_frame>Up to 9 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Described for each arm using frequencies. The onset of adverse events is between randomization date and off-study date.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Reported at Least 1 Rash Side Effect During the Study</measure>
+    <time_frame>Up to 9 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Described for each arm using frequencies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Reported at Least 1 Diarrhea Side Effect During the Study</measure>
+    <time_frame>Up to 9 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Described for each arm using frequencies.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">45</enrollment>
+  <condition>Adenomatous Polyp</condition>
+  <condition>Recurrent Colon Cancer</condition>
+  <condition>Recurrent Rectal Cancer</condition>
+  <condition>Stage I Colon Cancer</condition>
+  <condition>Stage I Rectal Cancer</condition>
+  <condition>Stage IIA Colon Cancer</condition>
+  <condition>Stage IIA Rectal Cancer</condition>
+  <condition>Stage IIB Colon Cancer</condition>
+  <condition>Stage IIB Rectal Cancer</condition>
+  <condition>Stage IIC Colon Cancer</condition>
+  <condition>Stage IIC Rectal Cancer</condition>
+  <condition>Stage IIIA Colon Cancer</condition>
+  <condition>Stage IIIA Rectal Cancer</condition>
+  <condition>Stage IIIB Colon Cancer</condition>
+  <condition>Stage IIIB Rectal Cancer</condition>
+  <condition>Stage IIIC Colon Cancer</condition>
+  <condition>Stage IIIC Rectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Erlotinib Hydrochloride (25 mg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive 25mg of erlotinib hydrochloride PO and one 100 mg of placebo and one 25 mg of placebo PO QD.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Erlotinib Hydrochloride (50 mg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive 50 mg of erlotinib hydrochloride PO and one 100 mg of placebo PO QD.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Erlotinib Hydrochloride (100 mg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive 100 mg of erlotinib hydrochloride PO and two 25 mg of placebo PO QD.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>erlotinib hydrochloride</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Erlotinib Hydrochloride (25 mg)</arm_group_label>
+    <arm_group_label>Erlotinib Hydrochloride (50 mg)</arm_group_label>
+    <arm_group_label>Erlotinib Hydrochloride (100 mg)</arm_group_label>
+    <other_name>CP-358,774</other_name>
+    <other_name>erlotinib</other_name>
+    <other_name>OSI-774</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Erlotinib Hydrochloride (25 mg)</arm_group_label>
+    <arm_group_label>Erlotinib Hydrochloride (50 mg)</arm_group_label>
+    <arm_group_label>Erlotinib Hydrochloride (100 mg)</arm_group_label>
+    <other_name>PLCB</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Erlotinib Hydrochloride (25 mg)</arm_group_label>
+    <arm_group_label>Erlotinib Hydrochloride (50 mg)</arm_group_label>
+    <arm_group_label>Erlotinib Hydrochloride (100 mg)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Participants with one or more of the following criteria will be eligible to
+             participate:
+
+               -  History of Stage I-III colorectal cancer, not treated in the past 6 months with
+                  no anticipated treatment in the next 3 months
+
+               -  Adenoma ≥ 1 cm in size
+
+               -  3 or more adenomas (of any size) removed at one colonoscopy within past 6 years
+
+               -  Sessile serrated adenoma ≥ 5 mm in size
+
+               -  Adenoma (of any size) with villous features (villous, tubulovillous)
+
+               -  Adenoma (of any size) with high grade dysplasia
+
+          -  Participants are eligible for randomization into the treatment phase of the trial if
+             they are found to have ≥ 4 ACFs at either baseline colonoscopy or baseline flexible
+             sigmoidoscopy
+
+          -  Blood tests at screening which meet the following criteria:
+
+          -  WBC &gt; 3000/mm^3
+
+          -  Platelets &gt; 100,000/mm^3
+
+          -  Hemoglobin &gt; 10g/dl
+
+          -  Plasma creatinine of &lt; 1.6mg/dl
+
+          -  Total bilirubin &lt; 1.5 x the upper limit of normal
+
+          -  Serum ALT &lt; 1.5 x the upper limit of normal
+
+          -  Serum AST &lt; 1.5 x the upper limit of normal
+
+          -  ECOG performance status 0-1
+
+          -  Women of child-bearing potential and men taking study drug must agree to use adequate
+             contraception (hormonal or barrier method of birth control; abstinence) prior to
+             study entry and for the duration of study participation
+
+          -  Ability to understand, as well as sign the written informed consent document
+
+          -  If a woman is of child-bearing potential, she must have a negative pregnancy test
+             prior to study entry; should a woman become pregnant or suspect she is pregnant while
+             participating in this study, she should inform her study physician immediately
+
+        Exclusion Criteria:
+
+          -  History of Inflammatory Bowel Disease (IBD)
+
+          -  History of interstitial lung disease or chronic lung disease
+
+          -  Smoking within the past 3 months
+
+          -  Increased bleeding risk from rectal biopsy (Patients receiving aspirin or plavix can
+             be enrolled)
+
+          -  Patients receiving warfarin or coumadin
+
+          -  Uncontrollable diarrhea of any cause
+
+          -  Patients, including rectal cancer patients, that have received prior radiation to the
+             rectum or pelvis
+
+          -  Participants taking a known significant CYP 3A4 inducer or inhibitor; known
+             significant inducers/inhibitors include: amprenavir, aprepitant, atazanavir,
+             carbamazepine, clarithromycin, conivaptan, diltiazem, darunavir/ritonavir,
+             dronedarone, erythromycin, fluconazole, fosamprenavir, indinavir, itraconazole,
+             ketoconazole, nefazodone, nelfinavir, phenytoin, posaconazole, rifampin, ritonavir,
+             St. John's wort, saquinavir, telithromycin, tipranavir/ritonavir, verapamil,
+             voriconazole
+
+          -  Women who are pregnant or breast-feeding
+
+          -  Active keratoconjunctivitis, or corneal surgery in the past three weeks
+
+          -  Any medical or psychosocial condition that could jeopardize the subject's
+             participation in and compliance to the study
+
+          -  Participants who are taking any other investigational pharmaceutical agents
+
+          -  Previous history of sensitivity to erlotinib, Iressa, or Erbitux, such as a rash that
+             is uncontrollable by topical steroids and/or antibiotics
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Timothy Morgan</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chao Family Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>VA Long Beach Healthcare System</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chao Family Comprehensive Cancer Center</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Illinois at Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2014</verification_date>
+  <lastchanged_date>December 22, 2014</lastchanged_date>
+  <firstreceived_date>September 17, 2008</firstreceived_date>
+  <firstreceived_results_date>April 23, 2014</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adenomatous Polyps</mesh_term>
+    <mesh_term>Rectal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Erlotinib</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

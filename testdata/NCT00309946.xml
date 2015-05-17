@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="603">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00309946</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2009-00126</org_study_id>
+    <secondary_id>N01CM17102</secondary_id>
+    <secondary_id>CDR0000463521</secondary_id>
+    <secondary_id>14203B</secondary_id>
+    <nct_id>NCT00309946</nct_id>
+  </id_info>
+  <brief_title>Cediranib Maleate in Treating Patients With Malignant Mesothelioma That Cannot Be Removed By Surgery</brief_title>
+  <official_title>Phase II Study of AZD2171 (NSC#732208) in Patients With Malignant Mesothelioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial is studying how well cediranib maleate works in treating patients with
+      malignant mesothelioma that cannot be removed by surgery. Cediranib maleate may stop the
+      growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking
+      blood flow to the tumor
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We conducted a multi-center phase II trial of cediranib in patients with unresectable,
+      histologically-confirmed malignant mesothelioma (MM) who had received &lt;=1 prior regimen of
+      chemotherapy. The primary endpoint was objective response rate. Initial cediranib dosing was
+      45 mg daily during a 28-day cycle. Due to substantial toxicity, the starting dose was
+      subsequently lowered to 30 mg daily.
+
+      Pretreatment evaluation included a medical history and physical exam, complete blood count
+      and differential, chemistry panel, pregnancy test, and a computed tomography (CT) scan of
+      the chest, abdomen, and pelvis if relevant. A history and physical exam were repeated every
+      14 days and laboratory evaluations including a complete blood count with differential, serum
+      chemistry panel, and urinalysis were repeated every 7 days. Patients were provided with a
+      blood pressure monitoring device and a diary to record their blood pressure readings twice
+      daily.
+
+      Patients received a minimum of 2 cycles unless unacceptable toxicity or rapid clinical
+      progression of disease occurred. Response was evaluated by CT imaging every two cycles.
+      Confirmatory scans were to be obtained at least 4 weeks after initial documentation of an
+      objective complete or partial response.
+
+      Cediranib was administered orally once daily on days 1 through 28 of a 28-day cycle.
+      Cediranib was initially dosed at 45 mg daily, but due to substantial rates of toxicity the
+      protocol was amended in June 2007 to decrease the starting dose to 30 mg daily. Cediranib
+      was taken 1 hour (h) before or 2 h after meals. Only one dose modification was permitted.
+      When the starting cediranib dose was 45 mg, dose level-1 was 30 mg daily. After the protocol
+      amendment, dose level-1 was 20 mg daily. Further dose reductions were allowed at the
+      discretion of the investigator only if the patient had received clinical benefit from
+      cediranib for &gt;3 months. Patients undergo blood collection periodically during study for
+      biomarker and optional pharmacogenomic correlative studies. After completion of study
+      treatment, patients are followed for up to 8 weeks.
+
+      Adverse effects were graded according to National Cancer Institute Common Toxicity Criteria
+      version 3.0. The dose was reduced for grade 3 or greater non-hematologic toxicity
+      attributable to cediranib or grade 4 hematologic toxicity if the toxicity lasted for &gt;5 days
+      and did not resolve to &lt;=grade 2. Maximal antihypertensive therapy was defined as taking 4
+      antihypertensive agents for &gt;2 weeks at full dosage. For patients on antihypertensive
+      therapy who had an elevation in systolic blood pressure (SBP) &gt;=140 mmHg or diastolic blood
+      pressure (DBP) &gt;=90 mmHg on 2 separate readings during a 48 h period, the dose of cediranib
+      was maintained without interruption while the dosage of current antihypertensive therapy was
+      increased or an additional antihypertensive agent was started. If 2 readings reported a SBP
+      &gt;=180 mmHg or a DBP &gt;=105 mmHg during a 1 week period, cediranib was held and there was
+      either an increase in the dosage of current antihypertensive therapy or an additional
+      antihypertensive agent was added. Resumption of cediranib was allowed only after the blood
+      pressure was &lt;140/90 mmHg. If 2 blood pressure readings recorded an SBP &gt;=160 mmHg or a DBP
+      &gt;=105 mmHg 1 h apart during a 48 hour period in a patient already on maximal
+      antihypertensive therapy, cediranib was held and treatment was resumed at 1 dose level lower
+      when the blood pressure was &lt;160/105.
+
+      PRIMARY OBJECTIVE:
+
+      I. Determine the objective response rate in patients with malignant pleural, peritoneal, or
+      tunica vaginalis mesothelioma that is not amenable to curative surgery who are treated with
+      AZD2171 (cediranib maleate).
+
+      SECONDARY OBJECTIVES:
+
+      I. Determine the progression-free survival of patients treated with AZD2171. II. Determine
+      the toxicity experienced by patients treated with AZD2171. III. Determine median and overall
+      survival of patients treated with AZD2171.
+
+      TERTIARY OBJECTIVES:
+
+      I. Generate preliminary data regarding potential utility of pharmacogenomic and plasma/serum
+      biomarkers of angiogenesis as predictive or prognostic markers for future investigations of
+      this drug in malignant mesothelioma.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2005</start_date>
+  <completion_date type="Actual">September 2010</completion_date>
+  <primary_completion_date type="Actual">September 2010</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Objective Response Rate, Complete (CR) or Partial (PR) Response</measure>
+    <time_frame>Every 8 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Evaluated in this study using the new international criteria proposed by the Response Evaluation Criteria in Solid Tumors (RECIST) Committee. To be assigned a status of PR or CR, changes in tumor measurements must be confirmed by repeat assessments that should be performed no less than 4 weeks after the criteria for response are first met.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Laboratory Correlates</measure>
+    <time_frame>Baseline, days 15 and 29 of course 1, and then every 28 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Examined using paired t-test or Wilcoxon signed-ranks test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacogenomics by Correlating Genetic Polymorphisms With Drug Activity and Toxicity</measure>
+    <time_frame>Week 1 of course 1</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Focus on variants of genes in the pathway targeted by cediranib maleate, including kdr/flk-1 (the specific target of cediranib maleate) and the genes that encode Vascular endothelial growth factor A (VEGF-A) or HIF1α. If additional information relevant to other genes of interest in the pathway becomes available the samples will be utilized for such analysis as well.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">51</enrollment>
+  <condition>Advanced Malignant Mesothelioma</condition>
+  <condition>Epithelial Mesothelioma</condition>
+  <condition>Localized Malignant Mesothelioma</condition>
+  <condition>Recurrent Malignant Mesothelioma</condition>
+  <condition>Sarcomatous Mesothelioma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (enzyme inhibitor therapy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Initial cediranib maleate dosing was 45 mg (once daily) during a 28-day cycle. Courses repeated every 28 days in the absence of disease progression or unacceptable toxicity. Due to substantial toxicity, the starting dose was subsequently lowered to 30 mg daily.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cediranib maleate</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Treatment (enzyme inhibitor therapy)</arm_group_label>
+    <other_name>AZD2171</other_name>
+    <other_name>Recentin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically or cytologically confirmed malignant pleural, peritoneal, or tunica
+             vaginalis mesothelioma
+
+               -  Epithelial, sarcomatoid, or mixed subtype
+
+          -  International Mesothelioma Interest Group stage II-IV disease (for patients with
+             pleural mesothelioma)
+
+          -  Measurable disease, defined as ≥ 1 unidimensionally measurable lesion ≥ 20 mm by
+             conventional techniques OR  &gt; 10 mm by spiral CT scan
+
+               -  Pleural effusion and ascites are not considered measurable lesions
+
+          -  Disease not amenable to curative surgery
+
+          -  No known brain metastases
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-1 OR Karnofsky PS
+             70-100%
+
+          -  Life expectancy &gt; 3 months
+
+          -  White blood cell (WBC) ≥ 3,000/mm³
+
+          -  Absolute neutrophil count ≥ 1,500/mm³
+
+          -  Hemoglobin ≥ 8 g/dL
+
+          -  Platelets ≥ 100,000/mm³
+
+          -  Total bilirubin normal
+
+          -  Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) ≤ 2.5 times upper
+             limit of normal(ULN)
+
+          -  Creatinine normal OR creatinine clearance &gt; 60 mL/min
+
+          -  Fertile patients must use effective contraception
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  No history of allergic reactions to compounds of similar chemical or biologic
+             composition to AZD2171
+
+          -  Mean corrected QT interval (QTc) ≤ 500 msec (with Bazett's correction) by EKG
+
+          -  No history of long QT syndrome
+
+          -  Proteinuria ≤ 1+ on two consecutive dipsticks taken ≥ 1 week apart
+
+          -  No other concurrent malignancy
+
+          -  No New York Heart Association class III or IV cardiac disease
+
+          -  No uncontrolled intercurrent illness including, but not limited to, any of the
+             following:
+
+               -  Hypertension
+
+               -  Ongoing or active infection
+
+               -  Symptomatic congestive heart failure
+
+               -  Unstable angina pectoris
+
+               -  Cardiac arrhythmia
+
+               -  Psychiatric illness or social situations that would limit study compliance
+
+          -  No more than 1 prior cytotoxic chemotherapy
+
+               -  Prior intrapleural cytotoxic agents (including bleomycin) do not count towards
+                  prior cytotoxic chemotherapy
+
+          -  At least 4 weeks since prior chemotherapy (6 weeks for nitrosoureas or mitomycin C)
+             and recovered
+
+          -  No prior radiotherapy to the only site of measurable disease
+
+          -  At least 4 weeks since prior radiotherapy and recovered
+
+          -  At least 4 weeks since prior major surgery and recovered
+
+          -  More than 30 days since prior participation in an investigational trial
+
+          -  No prior treatment with a vascular endothelial growth factor (VEGF) inhibitor
+
+          -  No other concurrent investigational agents
+
+          -  No concurrent commercial agents for the malignancy
+
+          -  No concurrent medication that may markedly affect renal function (e.g., vancomycin,
+             amphotericin, or  pentamidine)
+
+          -  No concurrent hematopoietic growth factors except epoetin alfa
+
+          -  No concurrent palliative radiotherapy
+
+          -  No combination antiretroviral therapy for HIV-positive patients
+
+          -  No concurrent drugs or biologics with proarrhythmic potential
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hedy Kindler</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Chicago Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Chicago Comprehensive Cancer Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637-1470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Canada</country>
+  </removed_countries>
+  <results_reference>
+    <citation>Campbell NP, Kunnavakkam R, Leighl N, Vincent MD, Gandara DR, Koczywas M, Gitlitz BJ, Agamah E, Thomas SP, Stadler WM, Vokes EE, Kindler HL. Cediranib in patients with malignant mesothelioma: a phase II trial of the University of Chicago Phase II Consortium. Lung Cancer. 2012 Oct;78(1):76-80. doi: 10.1016/j.lungcan.2012.06.011. Epub 2012 Jul 23.</citation>
+    <PMID>22831987</PMID>
+  </results_reference>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>July 25, 2014</lastchanged_date>
+  <firstreceived_date>March 29, 2006</firstreceived_date>
+  <firstreceived_results_date>July 1, 2013</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cediranib</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

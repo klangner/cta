@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="648">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 14, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00365053</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2012-02839</org_study_id>
+    <secondary_id>PHII 67</secondary_id>
+    <secondary_id>N01CM62209</secondary_id>
+    <nct_id>NCT00365053</nct_id>
+  </id_info>
+  <brief_title>PXD101 as Second-Line Therapy in Treating Patients With Malignant Mesothelioma of the Chest That Cannot Be Removed By Surgery</brief_title>
+  <official_title>Phase II Study of PXD101 (NSC 726630) as Second-Line Therapy for Treatment of Patients With Malignant Pleural Mesothelioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial is studying how well PXD101 works as second-line therapy in treating
+      patients with malignant mesothelioma of the chest that cannot be removed by surgery. PXD101
+      may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth
+      and by blocking blood flow to the tumor.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. Determine the objective response rate in patients with unresectable malignant pleural
+      mesothelioma (MPM) treated with PXD101.
+
+      SECONDARY OBJECTIVES:
+
+      I. Determine the overall survival and time to progression in these patients. II. Assess the
+      toxicities associated with this drug in these patients. III. Perform molecular correlative
+      studies on tumor tissue (optional) and peripheral blood (required) and identify potential
+      predictive markers for response.
+
+      OUTLINE:
+
+      Patients receive PXD101 IV over 30 minutes on days 1-5. Treatment repeats every 21 days for
+      up to 6 courses in the absence of disease progression or unacceptable toxicity.
+
+      Patients undergo blood collection during course 1 of treatment for biomarker correlative
+      studies. Fetal hemoglobin (hemoglobin F) levels are measured via reverse
+      transcriptase-polymerase chain reaction as a potential predictive marker for response.
+
+      After completion of study treatment, patients are followed periodically.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2006</start_date>
+  <completion_date type="Actual">March 2009</completion_date>
+  <primary_completion_date type="Actual">March 2009</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Objective Tumor Response Rate According to the Response Evaluation Criteria in Solid Tumors (RECIST) Committee</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Per Response Evaluation Criteria In Solid Tumors Criteria (RECIST v1.0) for target lesions and assessed by CT, MRI or X-ray: Complete Response (CR), Disappearance of all target lesions; Partial Response (PR), &gt;=30% decrease in the sum of the longest diameter of target lesions; Overall Response (OR) = CR + PR</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Estimated using the product-limit method of Kaplan and Meier.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Progression</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Estimated using the product-limit method of Kaplan and Meier.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity Profile as Assessed by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) Version 3.0.</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Toxicity information recorded will include the type, severity, time of onset, time of resolution, and the probable association with the study regimen. Tables will be constructed to summarize the observed incidence by severity and type of toxicity. Toxicity will be monitored on an ongoing basis according to guidelines based on the sequential probability ratio test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apoptosis by TUNEL Assay</measure>
+    <time_frame>At baseline</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Summarized with contingency tables or scatterplots, and with quantitative measures of agreement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Histone Acetylation by IHC and Western Blotting</measure>
+    <time_frame>At baseline and at 4 hours after last dose of PXD101 on day 5</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Summarized with contingency tables or scatterplots, and with quantitative measures of agreement.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">13</enrollment>
+  <condition>Advanced Malignant Mesothelioma</condition>
+  <condition>Epithelial Mesothelioma</condition>
+  <condition>Recurrent Malignant Mesothelioma</condition>
+  <condition>Sarcomatous Mesothelioma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (belinostat)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive PXD101 IV at 1000 mg/m2 over 30 minutes on days 1-5. Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>belinostat</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (belinostat)</arm_group_label>
+    <other_name>PXD101</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (belinostat)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically or cytologically confirmed malignant pleural mesothelioma (MPM) of any
+             of the following subtypes:
+
+               -  Epithelial
+
+               -  Sarcomatoid
+
+               -  Mixed
+
+          -  Have received only 1 prior systemic chemotherapy regimen for advanced mesothelioma
+
+               -  Prior intrapleural cytotoxic agents (including bleomycin) not considered
+                  systemic chemotherapy
+
+               -  Patients who are not candidates for combination chemotherapy are eligible even
+                  if they have not received prior chemotherapy
+
+          -  Unresectable disease
+
+          -  Measurable disease, defined as &gt;= 1 unidimensionally measurable lesion &gt;= 20 mm by
+             conventional techniques OR &gt;= 10 mm by spiral CT scan
+
+               -  The sole site of measurable disease must not be located within the radiotherapy
+                  port
+
+          -  No known brain metastases
+
+          -  ECOG performance status (PS) 0-2 OR Karnofsky PS 60-100%
+
+          -  Life expectancy &gt; 3 months
+
+          -  WBC &gt;= 3,000/mm^3
+
+          -  Absolute neutrophil count &gt;= 1,500/mm^3
+
+          -  Platelet count &gt;= 100,000/mm^3
+
+          -  Bilirubin normal
+
+          -  AST/ALT =&lt; 2.5 times upper limit of normal
+
+          -  Creatinine normal OR creatinine clearance &gt;= 50 mL/min
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective double-barrier contraception for 1 week before,
+             during, and for &gt;= 2 weeks after completion of study treatment
+
+          -  No history of allergic reactions attributed to compounds of similar chemical or
+             biologic composition to PXD101
+
+          -  No symptomatic congestive heart failure
+
+          -  No congestive heart failure related to primary cardiac disease
+
+          -  No unstable angina pectoris
+
+          -  No cardiac arrhythmia
+
+          -  No condition requiring anti-arrhythmic therapy
+
+          -  No uncontrolled hypertension
+
+          -  No myocardial infarction within the past 6 months
+
+          -  No ischemic or severe valvular heart disease
+
+          -  No ongoing or active infection
+
+          -  No marked baseline prolongation of QT/QTc interval
+
+          -  No repeated QTc interval &gt; 500 msec
+
+          -  No long QT syndrome
+
+          -  No other significant cardiovascular disease
+
+          -  No other uncontrolled intercurrent illness
+
+          -  No psychiatric illness or social situation that would preclude study compliance
+
+          -  Recovered from prior therapy
+
+          -  No prior valproic acid or other known histone deacetylase (HDAC) inhibitor
+
+          -  More than 3 weeks since prior chemotherapy (6 weeks for nitrosoureas or mitomycin C)
+
+          -  More than 3 weeks since prior radiation therapy
+
+          -  No concurrent medication that may cause torsade de pointes
+
+          -  No concurrent combination antiretroviral therapy for HIV-positive patients
+
+          -  No other concurrent investigational agents
+
+          -  No other concurrent anticancer agents or therapies
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Suresh Ramalingam</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Beckman Research Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2013</verification_date>
+  <lastchanged_date>December 17, 2014</lastchanged_date>
+  <firstreceived_date>August 16, 2006</firstreceived_date>
+  <firstreceived_results_date>July 9, 2014</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Belinostat</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>
