@@ -1,7 +1,5 @@
 package com.github.cta;
 
-import com.google.common.base.Optional;
-
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
@@ -17,6 +15,7 @@ public class Main {
         List<String> files = scanDirectory(TEST_DATA_PATH);
         for(String file : files){
 //            findTextInField(file, "karnofsky");
+//            printCriteria(file);
             processFile(file);
         }
     }
@@ -43,6 +42,17 @@ public class Main {
             System.out.println(fileName + " -> " + text);
         }
     }
+
+
+    public static void printCriteria(String fileName) {
+        XMLTrialFile trailFile = new XMLTrialFile(fileName);
+        List<Integer> scores = EcogScore.findScore(trailFile.getEligibilityCriteria());
+        if(scores.size() > 0) {
+            System.out.println(fileName);
+            System.out.println(trailFile.getEligibilityCriteria());
+        }
+    }
+
 
     public static void processFile(String fileName) {
         XMLTrialFile trailFile = new XMLTrialFile(fileName);

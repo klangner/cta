@@ -13,7 +13,7 @@ public class EcogScore {
      * If score can't be read based on given text, then by default it is 4.
      */
     public static List<Integer> findScore(String text){
-        String[] lines = text.toLowerCase().split("\n");
+        String[] lines = text.toLowerCase().split("\n\n");
         for(String line : lines) {
             if (line.contains("ecog ") || line.contains("ecog)")) {
                 return scoreFromLine(line);
