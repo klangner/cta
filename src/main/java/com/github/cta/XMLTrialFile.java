@@ -19,15 +19,21 @@ import java.io.IOException;
 public class XMLTrialFile {
 
     private static final String CRITERIA_PATH = "/clinical_study/eligibility/criteria/textblock";
+    private static final String ID_PATH = "/clinical_study/id_info/nct_id";
+
+    private String studyId;
     private String eligibilityCriteria;
 
 
     public XMLTrialFile(String file){
+        Node node;
         try {
             XPath xpath = XPathFactory.newInstance().newXPath();
             DocumentBuilder builder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
             Document document = builder.parse(file);
-            Node node = (Node) xpath.evaluate(CRITERIA_PATH, document, XPathConstants.NODE);
+            node = (Node) xpath.evaluate(ID_PATH, document, XPathConstants.NODE);
+            studyId = (node != null) ? node.getTextContent() : "";
+            node = (Node) xpath.evaluate(CRITERIA_PATH, document, XPathConstants.NODE);
             eligibilityCriteria = (node != null) ? node.getTextContent() : "";
         } catch (XPathExpressionException e) {
             e.printStackTrace();
@@ -40,7 +46,6 @@ public class XMLTrialFile {
         }
     }
 
-    public String getEligibilityCriteria() {
-        return eligibilityCriteria;
-    }
+    public String getStudyId(){ return studyId; }
+    public String getEligibilityCriteria() { return eligibilityCriteria; }
 }
