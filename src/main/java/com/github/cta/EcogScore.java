@@ -15,24 +15,14 @@ public class EcogScore {
     public static List<Integer> findScore(String text){
         String[] lines = text.toLowerCase().split("\n\n");
         for(String line : lines) {
-            if (line.contains("ecog ") || line.contains("ecog)")) {
-                String sentence = preprocessSentence(line);
-                return scoreFromSentence(sentence);
+            String[] sentences = line.split("\\.");
+            for(String sentence : sentences) {
+                if (sentence.contains("ecog ") || sentence.contains("ecog)")) {
+                    return scoreFromSentence(sentence);
+                }
             }
         }
         return new ArrayList<Integer>();
-    }
-
-    /**
-     * Preprocessing removes:
-     * - Remove first number from bullet list.
-     */
-    public static String preprocessSentence(String sentence){
-        if(sentence.trim().matches("^\\s*\\d+\\..*")){
-            int index = sentence.indexOf(".");
-            return sentence.substring(index+1);
-        }
-        return sentence;
     }
 
     /** Extract score from the single sentence */
