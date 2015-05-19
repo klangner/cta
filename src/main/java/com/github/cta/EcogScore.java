@@ -16,13 +16,23 @@ public class EcogScore {
         String[] lines = text.toLowerCase().split("\n\n");
         for(String line : lines) {
             if (line.contains("ecog ") || line.contains("ecog)")) {
-                return scoreFromLine(line);
+                String sentence = preprocessSentence(line);
+                return scoreFromSentence(sentence);
             }
         }
         return new ArrayList<Integer>();
     }
 
-    private static List<Integer> scoreFromLine(String line) {
+    /**
+     * Preprocessing removes:
+     * - Remove first number from bullet list.
+     */
+    private static String preprocessSentence(String sentence){
+        return sentence;
+    }
+
+    /** Extract score from the single sentence */
+    private static List<Integer> scoreFromSentence(String line) {
         int score = 0;
         String[] tokens = line.split("\\W+");
         for(String token : tokens){

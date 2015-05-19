@@ -12,7 +12,8 @@ public class Main {
     private static final String TEST_DATA_PATH = "datasets/adenoma";
 
     public static void main(String[] args){
-        List<String> files = scanDirectory(TEST_DATA_PATH);
+        String dataPath = (args.length > 0) ? args[0] : TEST_DATA_PATH;
+        List<String> files = scanDirectory(dataPath);
         for(String file : files){
 //            findTextInField(file, "karnofsky");
 //            printCriteria(file);

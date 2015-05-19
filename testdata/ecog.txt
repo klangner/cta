@@ -1,7 +1,7 @@
 # Those files dodn't have ECOG score.
-NCT00001159.xml: ECOG=0,1,2,3,4
-NCT00339469.xml: ECOG=0,1,2,3,4
-# NCT01163526.xml: ECOG=0,1,2,3,4     # 3.1.6 ecog and karnofsky performance status will not be employed.
+NCT00001159.xml
+NCT00339469.xml
+# NCT01163526.xml     # 3.1.6 ecog and karnofsky performance status will not be employed.
 
 # The following files contains ECOG score embeded in criteria text
 NCT01606124.xml: ECOG=0,1,     # -  eastern cooperative oncology group (ecog) performance status (ps) 0 or 1

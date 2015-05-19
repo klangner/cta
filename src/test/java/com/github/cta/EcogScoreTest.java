@@ -23,13 +23,17 @@ public class EcogScoreTest {
     public void ecogScore() throws IOException {
         List<String> lines = Files.readLines(new File(TEST_DATA_FOLDER + "ecog.txt"), Charsets.UTF_8);
         for(String line : lines){
-            if(!line.startsWith("#")){
+            if(!line.startsWith("#")  && line.trim().length() > 0){
                 String[] tokens = line.split("#")[0].split(":");
                 if(tokens.length == 2) {
                     String fileName = tokens[0];
                     String[] scores = tokens[1].split("=")[1].trim().split(",");
                     int score = Integer.parseInt(scores[scores.length-1]);
                     testScore(fileName, score);
+                }
+                else if(tokens.length == 1){
+                    String fileName = tokens[0];
+                    testNoScore(fileName);
                 }
             }
         }
@@ -41,5 +45,12 @@ public class EcogScoreTest {
         int maxScore = 4;
         if(scores.size() > 0) maxScore = scores.get(scores.size()-1);
         assertEquals(fileName, expectedScore, maxScore);
+    }
+
+
+    private void testNoScore(String fileName) {
+        XMLTrialFile trailFile = new XMLTrialFile(TEST_DATA_FOLDER+fileName);
+        List<Integer> scores = EcogScore.findScore(trailFile.getEligibilityCriteria());
+        assertEquals(fileName, 0, scores.size());
     }
 }

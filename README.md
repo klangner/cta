@@ -10,6 +10,16 @@ Functionality:
 
 This program is build with [Gradle](https://gradle.org/).
 
+To build jar with all dependencies run:
+```sh
+gradlew assemble
+```
+
+To run program:
+```sh
+java -jar build/libs/cta-1.0.jar <path_to_studies>
+```
+
 
 # Redistributing
 
