@@ -201,26 +201,27 @@ NCT01655225.xml: ECOG=0,1,     # Have a performance status of at least 1 on the 
 NCT02420691.xml: ECOG=0,1     # 6. patients must have an eastern cooperative oncology group (ecog) performance status of \ 0 - 1.
 NCT00781911.xml: ECOG=0,1,2     # -  the patient has an eastern cooperative oncology group performance status (ecog ps) of \ 0-2
 
-# NCT01590160.xml: ECOG=0,1,2,3     # 3. performance status ecog 0-1
-# NCT01258868.xml: ECOG=0,1,2     # 4. patients must have an ecog performance status of 0     2.
+NCT01590160.xml: ECOG=0,1     # 3. performance status ecog 0-1
+NCT01258868.xml: ECOG=0,1,2     # 4. patients must have an ecog performance status of 0     2.
+NCT02049060.xml: ECOG=0,1     # 4. ecog performance status 0-1 and life expectancy of at least 12 weeks.
+NCT01143545.xml: ECOG=0,1,2     # 4. patients must have an ecog performance status of 0     2.
+NCT00585845.xml: ECOG=0,1,     # 2. ecog performance status of 0 to 1, or karnofsky performance status (kps) of 80-100%
+NCT00402766.xml: ECOG=0,1,2     # 4. performance status 0-2 (ecog)
+NCT02349412.xml: ECOG=0,1,2     # 4. ecog performance status 0-2
+NCT01813994.xml: ECOG=0,1     # 3. ecog performance status 0 or 1
+NCT01806753.xml: ECOG=0,1     # 3. ecog performance status 0 or 1
+NCT01384617.xml: ECOG=0,1     # 2. ps (ecog performance status scale):0-1
+NCT01280201.xml: ECOG=0,1     # 4. ecog performance status 0-1.
+
+# NCT00019474.xml: ECOG=0,1,2     # Contains ecog score 2 times in the field. But only second occurence is with the score!
+# NCT02040272.xml: ECOG=0,1     # of disease not deemed to be surgically resectable, 4. ecog status 2 or more, 5.
 # NCT01869023.xml: ECOG=0,1     # -  karnofsky > = 70 or ecog < 2
 # NCT01465659.xml: ECOG=0,1,2     # -  patients must have an eastern cooperative oncology group (ecog) performance status =< \ 2
-# NCT02349412.xml: ECOG=0,1,2     # 4. ecog performance status 0-2
-# NCT01813994.xml: ECOG=0,1     # 3. ecog performance status 0 or 1
-# NCT00019474.xml: ECOG=0,1,2     # Contains ecog score 2 times in the field. But only second occurence is with the score!
-# NCT01806753.xml: ECOG=0,1     # 3. ecog performance status 0 or 1
-# NCT01384617.xml: ECOG=0,1     # 2. ps (ecog performance status scale):0-1
-# NCT02040272.xml: ECOG=0,1     # of disease not deemed to be surgically resectable, 4. ecog status 2 or more, 5.
-# NCT01280201.xml: ECOG=0,1     # 4. ecog performance status 0-1.
 # NCT01353482.xml: ECOG=0,1     # -  performance status ecog 01
 # NCT01279967.xml: ECOG=0,1     # 3. performance status ecog ≤ 1. life expectancy should be greater than 3 months
 # NCT00280982.xml: ECOG=0,1,2     # -  patients must be ambulatory (karnofsky scale > 70, or who-ecog performance status \ 0,1, or 2) and in stable medical condition. The expected survival must be at least 4
-# NCT02049060.xml: ECOG=0,1     # 4. ecog performance status 0-1 and life expectancy of at least 12 weeks.
-# NCT01143545.xml: ECOG=0,1,2     # 4. patients must have an ecog performance status of 0     2.
-# NCT00585845.xml: ECOG=0,1,     # 2. ecog performance status of 0 to 1, or karnofsky performance status (kps) of 80-100%
 # NCT01241682.xml: ECOG=0,1,2     # -  patients must be ambulatory (karnofsky scale > 70, or who-ecog performance status \ 0,1, or 2) and in stable medical condition. The expected survival must be at least 4
 # NCT00655655.xml: ECOG=3,4     # -  ecog performance status (ps) 3 or 4
-# NCT00402766.xml: ECOG=0,1,2     # 4. performance status 0-2 (ecog)
 # NCT01360320.xml: ECOG=0,1     # -  good performance status (ecog < 2) at study entrance
 # NCT02231723.xml: ECOG=0     # 6. patients must have an eastern cooperative oncology group (ecog) performance status < \ 1.
 # NCT00895648.xml: ECOG=0,1,2     # 2. performance status of 0 to 2 on the ecog performance status schedule. see protocol \ Appendix 3

@@ -27,7 +27,11 @@ public class EcogScore {
      * Preprocessing removes:
      * - Remove first number from bullet list.
      */
-    private static String preprocessSentence(String sentence){
+    public static String preprocessSentence(String sentence){
+        if(sentence.trim().matches("^\\s*\\d+\\..*")){
+            int index = sentence.indexOf(".");
+            return sentence.substring(index+1);
+        }
         return sentence;
     }
 

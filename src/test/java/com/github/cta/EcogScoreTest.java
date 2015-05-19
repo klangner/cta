@@ -47,10 +47,23 @@ public class EcogScoreTest {
         assertEquals(fileName, expectedScore, maxScore);
     }
 
-
     private void testNoScore(String fileName) {
         XMLTrialFile trailFile = new XMLTrialFile(TEST_DATA_FOLDER+fileName);
         List<Integer> scores = EcogScore.findScore(trailFile.getEligibilityCriteria());
         assertEquals(fileName, 0, scores.size());
     }
+
+    @Test
+    public void preprocessSentenceTheSame(){
+        String sentence = "1-0 ecog score";
+        assertEquals(sentence, EcogScore.preprocessSentence(sentence));
+    }
+
+
+    @Test
+    public void preprocessSentenceRemove(){
+        String sentence = "1. ecog score 5";
+        assertEquals(" ecog score 5", EcogScore.preprocessSentence(sentence));
+    }
+
 }
