@@ -15,8 +15,6 @@ public class Main {
         String dataPath = (args.length > 0) ? args[0] : TEST_DATA_PATH;
         List<String> files = scanDirectory(dataPath);
         for(String file : files){
-//            findTextInField(file, "karnofsky");
-//            printCriteria(file);
             processFile(file);
         }
     }
@@ -25,6 +23,7 @@ public class Main {
         List<String> files = new ArrayList<String>();
         File folder = new File(dataPath);
         if(folder.isDirectory()) {
+            //noinspection ConstantConditions
             for (File file : folder.listFiles()) {
                 if (file.getName().endsWith(".xml")) {
                     files.add(file.getAbsolutePath());
@@ -32,28 +31,10 @@ public class Main {
             }
         }
         else{
-            System.out.println("Nnot directory: " + dataPath);
+            System.out.println("Not directory: " + dataPath);
         }
         return files;
     }
-
-    public static void findTextInField(String fileName, String text) {
-        XMLTrialFile trailFile = new XMLTrialFile(fileName);
-        if(trailFile.getEligibilityCriteria().toLowerCase().contains(text)) {
-            System.out.println(fileName + " -> " + text);
-        }
-    }
-
-
-    public static void printCriteria(String fileName) {
-        XMLTrialFile trailFile = new XMLTrialFile(fileName);
-        List<Integer> scores = EcogScore.findScore(trailFile.getEligibilityCriteria());
-        if(scores.size() > 0) {
-            System.out.println(fileName);
-            System.out.println(trailFile.getEligibilityCriteria());
-        }
-    }
-
 
     public static void processFile(String fileName) {
         XMLTrialFile trailFile = new XMLTrialFile(fileName);

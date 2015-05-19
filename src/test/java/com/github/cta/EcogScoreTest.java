@@ -26,13 +26,13 @@ public class EcogScoreTest {
             if(!line.startsWith("#")  && line.trim().length() > 0){
                 String[] tokens = line.split("#")[0].split(":");
                 if(tokens.length == 2) {
-                    String fileName = tokens[0];
+                    String fileName = tokens[0].trim();
                     String[] scores = tokens[1].split("=")[1].trim().split(",");
                     int score = Integer.parseInt(scores[scores.length-1]);
                     testScore(fileName, score);
                 }
                 else if(tokens.length == 1){
-                    String fileName = tokens[0];
+                    String fileName = tokens[0].trim();
                     testNoScore(fileName);
                 }
             }
