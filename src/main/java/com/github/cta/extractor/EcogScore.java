@@ -19,19 +19,30 @@ public class EcogScore {
      * If score can't be read based on given text, then by default it is 4.
      */
     public static List<Integer> findScore(String text){
+        boolean inclusionCriteria = true;
         String[] lines = text.toLowerCase().split("\n\n");
         for(String line : lines) {
             String[] sentences = line.split("\\.");
             for(String sentence : sentences) {
                 String[] tokens = TOKENIZER.tokenize(sentence);
-                if (hasToken("ecog", tokens)) {
-                    List<Integer> scores = scoreFromSentence(tokens);
+                if(isExclusionHeader(tokens)){
+                    inclusionCriteria = false;
+                }
+                else if (hasToken("ecog", tokens)) {
+                    List<Integer> scores = scoreFromSentence(tokens, inclusionCriteria);
                     if(scores.size() > 0)
                         return scores;
                 }
             }
         }
         return new ArrayList<Integer>();
+    }
+
+    /** Exclusion header should have the following words:
+     * "Inclusion" and "Criteria"
+     */
+    public static boolean isExclusionHeader(String[] tokens){
+        return hasToken("inclusion", tokens) && hasToken("criteria", tokens);
     }
 
     /** Check if given token is on the list */
@@ -43,11 +54,11 @@ public class EcogScore {
     }
 
     /** Extract score from the single sentence */
-    private static List<Integer> scoreFromSentence(String[] tokens) {
+    private static List<Integer> scoreFromSentence(String[] tokens, boolean inclusive) {
         List<String> normalizedTokens = TokenTranslator.normalizeTokens(tokens);
         List<Integer> scores = scoreFromRange(normalizedTokens);
         if(scores.size() == 0)
-            scores = scoreFromRelation(normalizedTokens, true);
+            scores = scoreFromRelation(normalizedTokens, inclusive);
         if(scores.size() == 0)
             scores = scoreFromNumbers(normalizedTokens);
         return scores;
@@ -98,14 +109,6 @@ public class EcogScore {
         return new ArrayList<Integer>();
     }
 
-    private static List<Integer> listFromScoreRange(int from, int to){
-        List<Integer> scores = new ArrayList<Integer>();
-        for(int i = from; i <= to; i++){
-            scores.add(i);
-        }
-        return scores;
-    }
-
     /** Try to extract score by finding all numbers in text in ECOG range (0-4) */
     private static List<Integer> scoreFromNumbers(List<String> tokens) {
         int score = -1;
@@ -118,6 +121,15 @@ public class EcogScore {
             }
         }
         return listFromScoreRange(0, score);
+    }
+
+    /** Convert range to list elements */
+    private static List<Integer> listFromScoreRange(int from, int to){
+        List<Integer> scores = new ArrayList<Integer>();
+        for(int i = from; i <= to; i++){
+            scores.add(i);
+        }
+        return scores;
     }
 
     /** Check if given token represents ECOG score. Must be a number from 0 to 5 */
