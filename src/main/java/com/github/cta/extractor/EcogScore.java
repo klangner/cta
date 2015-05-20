@@ -1,4 +1,4 @@
-package com.github.cta;
+package com.github.cta.extractor;
 
 import opennlp.tools.tokenize.SimpleTokenizer;
 import opennlp.tools.tokenize.Tokenizer;
@@ -44,19 +44,22 @@ public class EcogScore {
 
     /** Extract score from the single sentence */
     private static List<Integer> scoreFromSentence(String[] tokens) {
-        List<Integer> scores = scoreFromRange(tokens);
+        List<String> normalizedTokens = TokenTranslator.normalizeTokens(tokens);
+        List<Integer> scores = scoreFromRange(normalizedTokens);
         if(scores.size() == 0)
-            scores = scoreFromNumbers(tokens);
+            scores = scoreFromRelation(normalizedTokens, true);
+        if(scores.size() == 0)
+            scores = scoreFromNumbers(normalizedTokens);
         return scores;
     }
 
     /** Try to extract score by finding range (0-3) in text. */
-    private static List<Integer> scoreFromRange(String[] tokens) {
+    private static List<Integer> scoreFromRange(List<String> tokens) {
         List<Integer> scores = new ArrayList<Integer>();
-        for(int i = 0; i < tokens.length-2; i++){
-            if(isEcogScore(tokens[i]) && tokens[i+1].equals("-") && isEcogScore(tokens[i+2])){
-                int start = Integer.parseInt(tokens[i]);
-                int end = Integer.parseInt(tokens[i+2]);
+        for(int i = 0; i < tokens.size()-2; i++){
+            if(isEcogScore(tokens.get(i)) && tokens.get(i+1).equals("-") && isEcogScore(tokens.get(i+2))){
+                int start = Integer.parseInt(tokens.get(i));
+                int end = Integer.parseInt(tokens.get(i+2));
                 for(int j = start; j <= end; j++){
                     scores.add(j);
                 }
@@ -66,8 +69,45 @@ public class EcogScore {
         return scores;
     }
 
+    /** Try to extract score by finding ralation (< 3) in text. */
+    private static List<Integer> scoreFromRelation(List<String> tokens, boolean inclusion) {
+        boolean ecogKeyword = false;
+        for(int i = 0; i < tokens.size()-1; i++){
+            if(tokens.get(i).equals("ecog")) ecogKeyword = true;
+            String token = tokens.get(i);
+            if(isEcogScore(tokens.get(i+1))){
+                int ecog = Integer.parseInt(tokens.get(i+1));
+                if(token.equals(">")){
+                    return listFromScoreRange(0, ecog);
+                } else if(token.equals("<")){
+                    return listFromScoreRange(0, ecog-1);
+                } else if(token.equals(">=")){
+                    return listFromScoreRange(0, ecog-1);
+                } else if(token.equals("<=")){
+                    return listFromScoreRange(0, ecog);
+                } else if(token.equals("=")){
+                    return listFromScoreRange(ecog, ecog);
+                }
+                else if(ecogKeyword){
+                    // If there was ecog keyword and there is score but no relation then
+                    // we should look father
+                    return new ArrayList<Integer>();
+                }
+            }
+        }
+        return new ArrayList<Integer>();
+    }
+
+    private static List<Integer> listFromScoreRange(int from, int to){
+        List<Integer> scores = new ArrayList<Integer>();
+        for(int i = from; i <= to; i++){
+            scores.add(i);
+        }
+        return scores;
+    }
+
     /** Try to extract score by finding all numbers in text in ECOG range (0-4) */
-    private static List<Integer> scoreFromNumbers(String[] tokens) {
+    private static List<Integer> scoreFromNumbers(List<String> tokens) {
         int score = -1;
         for(String token : tokens){
             if(isEcogScore(token)){
@@ -77,11 +117,7 @@ public class EcogScore {
                 }
             }
         }
-        List<Integer> scores = new ArrayList<Integer>();
-        for(int i = 0; i <= score; i++){
-            scores.add(i);
-        }
-        return scores;
+        return listFromScoreRange(0, score);
     }
 
     /** Check if given token represents ECOG score. Must be a number from 0 to 5 */

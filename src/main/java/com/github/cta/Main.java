@@ -1,5 +1,7 @@
 package com.github.cta;
 
+import com.github.cta.extractor.EcogScore;
+
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;

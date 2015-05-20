@@ -1,5 +1,7 @@
-package com.github.cta;
+package com.github.cta.extractor;
 
+import com.github.cta.XMLTrialFile;
+import com.github.cta.extractor.EcogScore;
 import com.google.common.base.Charsets;
 import com.google.common.io.Files;
 import org.junit.Test;

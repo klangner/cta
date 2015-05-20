@@ -9,7 +9,7 @@ NCT00903396.xml: ECOG=0,1,2     # -  ecog performance status 0-2
 NCT00101283.xml: ECOG=0,1,     # -  ecog performance status of 0 or 1
 NCT00602082.xml: ECOG=0,1,2     # -  ecog performance status 0-2
 NCT00020124.xml: ECOG=0,1,     # -  ecog 0-1
-NCT02315625.xml: ECOG=0,1,2     # 5. ecog performance status < 2 (karnofsky > 60%).
+NCT02315625.xml: ECOG=0,1     # 5. ecog performance status < 2 (karnofsky > 60%).
 NCT01824875.xml: ECOG=0,1,     # -  patient must have eastern cooperative oncology group (ecog) performance status 0-1
 NCT00965250.xml: ECOG=0,1,2     # -  performance status eastern cooperative oncology group (ecog) less than or equal to 2.
 NCT01843374.xml: ECOG=0,1,     # -  ecog performance status 0-1;
@@ -194,7 +194,7 @@ NCT00604461.xml: ECOG=0,1,2     # -  patients must have eastern cooperative onco
 NCT00685204.xml: ECOG=0,1,2     # -  patients must have a life expectancy of at least 12 weeks and an ecog performance \ status of 0, 1 or 2
 NCT01115803.xml: ECOG=0,1,     # Have a performance status of less than or equal to 1 on the Eastern Cooperative \ oncology group (ecog) scale.
 NCT00996385.xml: ECOG=0,1,2     # -  patients must have an eastern cooperative oncology group (ecog) performance status of \ 0, 1, or 2 (after any palliative measures including pleural drainage have occurred),
-NCT02408016.xml: ECOG=0,1,2    # -  eastern cooperative oncology group (ecog) performance status >= 2
+NCT02408016.xml: ECOG=0,1    # -  eastern cooperative oncology group (ecog) performance status >= 2
 NCT02267967.xml: ECOG=0,1,     # Have a performance status (PS) of 0 or 1 on the Eastern Cooperative Oncology Group \ (ecog) scale;
 NCT00004547.xml: ECOG=0,1,2     # patients must have an eastern cooperative onocology group (ecog) performance status of \ less than or equal to 2.
 NCT01655225.xml: ECOG=0,1,     # Have a performance status of at least 1 on the Eastern Cooperative Oncology Group \ (ecog) scale and life expectancy >6 months
@@ -220,12 +220,12 @@ NCT00019474.xml: ECOG=0,1     # PATIENT CHARACTERISTICS: Age: 18 and over Perfor
 NCT00027508.xml: ECOG=0,1     # patient characteristics: age: 18 and over performance status: ecog 0-1 or karnofsky \ 70-100% Life expectancy: At least 3 months Hematopoietic
 NCT00006216.xml: ECOG=0,1     # patient characteristics: age: not specified performance status: ecog 0-1 life expectancy: \ Not specified Hematopoietic: Hematocrit greater than 30% WBC greater than 4,000/mm3
 NCT00002947.xml: ECOG=0,1,2     # patient characteristics: age: 18 and over performance status: ecog 0-2 life expectancy: at \ least 3 months Hematopoietic
+NCT01869023.xml: ECOG=0,1     # -  karnofsky > = 70 or ecog < 2
+NCT01360320.xml: ECOG=0,1     # -  good performance status (ecog < 2) at study entrance
+NCT02231723.xml: ECOG=0     # 6. patients must have an eastern cooperative oncology group (ecog) performance status < \ 1.
 
 # NCT02040272.xml: ECOG=0,1     # of disease not deemed to be surgically resectable, 4. ecog status 2 or more, 5.
-# NCT01869023.xml: ECOG=0,1     # -  karnofsky > = 70 or ecog < 2
 # NCT01353482.xml: ECOG=0,1     # -  performance status ecog 01
 # NCT00655655.xml: ECOG=3,4     # -  ecog performance status (ps) 3 or 4
-# NCT01360320.xml: ECOG=0,1     # -  good performance status (ecog < 2) at study entrance
-# NCT02231723.xml: ECOG=0     # 6. patients must have an eastern cooperative oncology group (ecog) performance status < \ 1.
 # NCT00004183.xml: ECOG=0,1     # patient characteristics: age: 18 and over performance status: ecog 0 or 1 life expectancy: \ no greater than 2.5
 # NCT00668499.xml: ECOG=0,1,2     # -  ecog performance status less than or equal to 2 and an estimated survival of at least \ 3 months
