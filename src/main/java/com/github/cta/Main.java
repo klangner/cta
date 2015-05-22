@@ -1,6 +1,6 @@
 package com.github.cta;
 
-import com.github.cta.extractor.EcogScore;
+import com.github.cta.extractor.EcogScoreExtractor;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -40,7 +40,7 @@ public class Main {
 
     public static void processFile(String fileName) {
         XMLTrialFile trailFile = new XMLTrialFile(fileName);
-        List<Integer> scores = EcogScore.findScore(trailFile.getEligibilityCriteria());
+        List<Integer> scores = EcogScoreExtractor.findScore(trailFile.getEligibilityCriteria());
         if(scores.size() > 0) {
             System.out.println("CTA: " + trailFile.getStudyId());
             System.out.print("Labels: ");

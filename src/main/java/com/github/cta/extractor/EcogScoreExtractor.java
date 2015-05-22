@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * @author Krzysztof Langner on 17.05.15.
  */
-public class EcogScore {
+public class EcogScoreExtractor {
 
     private static final Tokenizer TOKENIZER = SimpleTokenizer.INSTANCE;
 

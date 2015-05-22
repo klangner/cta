@@ -1,7 +1,6 @@
 package com.github.cta.extractor;
 
 import com.github.cta.XMLTrialFile;
-import com.github.cta.extractor.EcogScore;
 import com.google.common.base.Charsets;
 import com.google.common.io.Files;
 import org.junit.Test;
@@ -16,7 +15,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * @author Krzysztof Langner on 17.05.15.
  */
-public class EcogScoreTest {
+public class EcogScoreExtractorTest {
 
     private final static String TEST_DATA_FOLDER = "testdata/";
 
@@ -43,7 +42,7 @@ public class EcogScoreTest {
 
     private void testScore(String fileName, int expectedScore) {
         XMLTrialFile trailFile = new XMLTrialFile(TEST_DATA_FOLDER+fileName);
-        List<Integer> scores = EcogScore.findScore(trailFile.getEligibilityCriteria());
+        List<Integer> scores = EcogScoreExtractor.findScore(trailFile.getEligibilityCriteria());
         int maxScore = 4;
         if(scores.size() > 0) maxScore = scores.get(scores.size()-1);
         assertEquals(fileName, expectedScore, maxScore);
@@ -51,7 +50,7 @@ public class EcogScoreTest {
 
     private void testNoScore(String fileName) {
         XMLTrialFile trailFile = new XMLTrialFile(TEST_DATA_FOLDER+fileName);
-        List<Integer> scores = EcogScore.findScore(trailFile.getEligibilityCriteria());
+        List<Integer> scores = EcogScoreExtractor.findScore(trailFile.getEligibilityCriteria());
         assertEquals(fileName, 0, scores.size());
     }
 
