@@ -20,6 +20,29 @@ To run program:
 java -jar build/libs/cta-1.0.jar <path_to_studies>
 ```
 
+## Hadoop Map Reduce
+
+Before running MapReduce Job it is necessary to convert XML files into format more friendly to Hadoop:
+
+```sh
+java -classpath build/libs/cta-1.0.jar com.github.cta.ConvertStudies <input_folder> <output_file>
+```
+
+* input_folder - is Folder with studies XML files.
+* output_file - file name where XML studies will be saved
+
+Run Hadoop Job:
+
+```sh
+ hadoop jar build/libs/cta-1.0.jar com.github.cta.hadoop.EcogScore hdfs/input hdfs/output
+```
+
+Browser calculated scores:
+
+```sh
+cat hdfs/output/part-r-00000
+```
+
 
 # Redistributing
 
