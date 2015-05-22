@@ -28,8 +28,8 @@ Before running MapReduce Job it is necessary to convert XML files into format mo
 java -classpath build/libs/cta-1.0.jar com.github.cta.ConvertStudies <input_folder> <output_file>
 ```
 
-* input_folder - is Folder with studies XML files.
-* output_file - file name where XML studies will be saved
+* input_folder - Folder with study files in XML format.
+* output_file - file name where converted studies will be saved.
 
 Run Hadoop Job:
 
@@ -37,7 +37,7 @@ Run Hadoop Job:
  hadoop jar build/libs/cta-1.0.jar com.github.cta.hadoop.EcogScore hdfs/input hdfs/output
 ```
 
-Browser calculated scores:
+Browse calculated scores:
 
 ```sh
 cat hdfs/output/part-r-00000
