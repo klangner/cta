@@ -42,7 +42,7 @@ public class EcogScoreExtractor {
      * "Inclusion" and "Criteria"
      */
     public static boolean isExclusionHeader(String[] tokens){
-        return hasToken("inclusion", tokens) && hasToken("criteria", tokens);
+        return hasToken("exclusion", tokens) && hasToken("criteria", tokens);
     }
 
     /** Check if given token is on the list */
